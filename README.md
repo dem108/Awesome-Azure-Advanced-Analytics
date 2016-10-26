@@ -30,6 +30,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [AWS to Azure Translation Guide](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)
 
 ## Cortana Intelligence Suite
+*A fully managed big data and advanced analytics suite*
 
 * [Overview](https://www.microsoft.com/en-us/cloud-platform/what-is-cortana-intelligence-suite)
 * [CIS and ML Blog](https://blogs.technet.microsoft.com/machinelearning/)
@@ -37,6 +38,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [CIS Solution Templates](https://gallery.cortanaintelligence.com/solutions)
 
 ## Azure Cognitive Services
+*A collection of APIs to tap into vision, speech, language, knowledge, and search technologies*
 
 * [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/cognitive-services/)
@@ -45,6 +47,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 
 ## Azure Data Lake
+*A distributed storage and analytics service that scales dynamically*
 
 * [Overview](https://azure.microsoft.com/en-us/solutions/data-lake/)
 * [Data Lake Store Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
@@ -58,6 +61,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Data Lake Tools for Visual Studio](https://www.microsoft.com/en-us/download/details.aspx?id=49504)
 
 ## Azure HDInsight
+*A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
 
 * [Overview](https://azure.microsoft.com/en-in/services/hdinsight/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/hdinsight/)
@@ -75,6 +79,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
 
 ## Azure Machine Learning
+*An environment to build, test, and deploy predictive analytics models*
 
 * [Overview](https://studio.azureml.net/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/machine-learning/)
@@ -88,6 +93,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
 
 ## Azure SQL Data Warehouse
+*An elastic data warehouse as a service with enterprise-class features*
 
 * [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
@@ -95,17 +101,20 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [PolyBase Guide](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-load-polybase-guide/)
 
 ## Azure Stream Analytics
+*A fully managed, SQL-based, real-time event processing engine*
 
 * [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
 * [Stream Analytics Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
 
 ## Jupyter Notebooks
+*A web application to create documents containing live code, visualizations and explanatory text*
 
 * [Standalone Notebooks](https://notebooks.azure.com/)
 * [AzureML Notebooks](https://gallery.cortanaintelligence.com/notebooks)
 
 ## Microsoft Bot Framework
+*A framework to build and deploy high-quality bots for conversation experiences*
 
 * [Overview](https://dev.botframework.com/)
 * [Documentation](https://docs.botframework.com/en-us/)
@@ -116,6 +125,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Language Understanding Intelligent Service (LUIS)](https://www.luis.ai/)
 
 ## Microsoft Data Science VMs
+*Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
 
 * [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
 * [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
@@ -124,6 +134,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Team Data Science Process](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
 
 ## Microsoft R Server
+*A scalable and deployable enterprise-class R analytics platform*
 
 * [Overview](https://msdn.microsoft.com/en-us/microsoft-r/index)
 * [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
