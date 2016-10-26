@@ -38,9 +38,10 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
 
 ## Azure Cognitive Services
 
-* [Overview](https://azure.microsoft.com/en-in/services/cognitive-services/)
+* [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/cognitive-services/)
 * [List of APIs](https://www.microsoft.com/cognitive-services/en-us/apis)
+* [Samples and Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 
 ## Azure Data Lake
 
@@ -76,6 +77,7 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
 * [AzureML R Client](https://github.com/RevolutionAnalytics/AzureML)
 * [AzureML Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
 * [AzureML Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
+* [Video: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
 * [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
 
 ## Azure SQL Data Warehouse
@@ -101,6 +103,7 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
 * [Documentation](https://docs.botframework.com/en-us/)
 * [Bot Framework Blog](https://blog.botframework.com/)
 * [List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
+* [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
 
 ## Microsoft Data Science VMs
 
@@ -125,6 +128,7 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
     * [Sample Machine Learning Templates](https://github.com/Microsoft/SQL-Server-R-Services-Samples)
     * [Data Science End-to-End Walkthrough](https://msdn.microsoft.com/en-US/library/mt612857.aspx)
     * [Machine Learning Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
+    * [Free eBook - Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
 * [Operationalize R Analytics (DeployR)](https://msdn.microsoft.com/en-us/microsoft-r/deployr-about)
 * [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
 * [R Tools for Visual Studio](https://www.visualstudio.com/vs/rtvs/)
