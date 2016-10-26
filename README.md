@@ -1,5 +1,5 @@
 # Awesome Azure - Advanced Analytics
-A curated list of awesome learning resources on Microsoft Azure Cloud Services around big data and advanced analytics
+Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 - [General Resources](#general-resources)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
@@ -104,6 +104,8 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
 * [Bot Framework Blog](https://blog.botframework.com/)
 * [List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
+* [QnA Maker](https://qnamaker.botframework.com/)
+* [Language Understanding Intelligent Service (LUIS)](https://www.luis.ai/)
 
 ## Microsoft Data Science VMs
 
@@ -117,6 +119,7 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
 
 * [Overview](https://msdn.microsoft.com/en-us/microsoft-r/index)
 * [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
+* [Video: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Microsoft R Client](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started)
 * ScaleR
     * [ScaleR User's Guide](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-introduction)
