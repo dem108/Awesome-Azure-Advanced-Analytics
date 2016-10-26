@@ -1,15 +1,16 @@
 # Awesome Azure - Advanced Analytics
-A curated resource list of awesome Microsoft Azure Cloud Services around big data and advanced analytics
+A curated list of awesome learning resources on Microsoft Azure Cloud Services around big data and advanced analytics
 
 - [General Resources](#general-resources)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Data Lake](#azure-data-lake)
-- [Azure Machine Learning](#azure-machine-learning)
 - [Azure HDInsight](#azure-hdinsight)
+- [Azure Machine Learning](#azure-machine-learning)
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
 - [Azure Stream Analytics](#azure-stream-analytics)
 - [Jupyter Notebooks](#jupyter-notebooks)
+- [Microsoft Bot Framework](#microsoft-bot-framework)
 - [Microsoft Data Science VMs](#microsoft-data-science-vms)
 - [Microsoft R Server](#microsoft-r-server)
 - [Open Source ML Toolkits](#open-source-ml-toolkits)
@@ -48,27 +49,6 @@ A curated resource list of awesome Microsoft Azure Cloud Services around big dat
 * [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
 * [Azure Data Lake Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
 
-## Azure Machine Learning
-
-* [Overview](https://studio.azureml.net/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/machine-learning/)
-* [How to choose algorithms for AzureML](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
-* [Studio Experiments Gallery](https://gallery.cortanaintelligence.com/experiments)
-* [Studio Templates Gallery](https://gallery.cortanaintelligence.com/Collection/Machine-Learning-Templates-with-Azure-ML-Studio-1)
-* [AzureML R Client](https://github.com/RevolutionAnalytics/AzureML)
-* [AzureML Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
-* [AzureML Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
-
-## Azure SQL Data Warehouse
-
-* [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
-
-## Azure Stream Analytics
-
-* [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
-
 ## Azure HDInsight
 
 * [Overview](https://azure.microsoft.com/en-in/services/hdinsight/)
@@ -84,11 +64,41 @@ A curated resource list of awesome Microsoft Azure Cloud Services around big dat
 * [Apache Giraph](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-giraph-install-linux/)
 * [Microsoft R Server](https://azure.microsoft.com/en-us/services/hdinsight/r-server/)
 * [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
+* [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
+
+## Azure Machine Learning
+
+* [Overview](https://studio.azureml.net/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/machine-learning/)
+* [How to choose algorithms for AzureML](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
+* [Studio Experiments Gallery](https://gallery.cortanaintelligence.com/experiments)
+* [Studio Templates Gallery](https://gallery.cortanaintelligence.com/Collection/Machine-Learning-Templates-with-Azure-ML-Studio-1)
+* [AzureML R Client](https://github.com/RevolutionAnalytics/AzureML)
+* [AzureML Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
+* [AzureML Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
+* [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
+
+## Azure SQL Data Warehouse
+
+* [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
+
+## Azure Stream Analytics
+
+* [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
 
 ## Jupyter Notebooks
 
 * [Standalone Notebooks](https://notebooks.azure.com/)
 * [AzureML Notebooks](https://gallery.cortanaintelligence.com/notebooks)
+
+## Microsoft Bot Framework
+
+* [Overview](https://dev.botframework.com/)
+* [Documentation](https://docs.botframework.com/en-us/)
+* [Bot Framework Blog](https://blog.botframework.com/)
+* [List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 
 ## Microsoft Data Science VMs
 
@@ -114,15 +124,16 @@ A curated resource list of awesome Microsoft Azure Cloud Services around big dat
     * [Data Science End-to-End Walkthrough](https://msdn.microsoft.com/en-US/library/mt612857.aspx)
     * [Machine Learning Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
 * [Operationalize R Analytics (DeployR)](https://msdn.microsoft.com/en-us/microsoft-r/deployr-about)
+* [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
 * [R Tools for Visual Studio](https://www.visualstudio.com/vs/rtvs/)
 
 ## Open Source ML Toolkits
 
-* [Computational Network Toolkit](https://cntk.ai/)
-* [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
+* [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/) - Deep learning framework
+* [Distributed Machine Learning Toolkit](http://www.dmtk.io/) - LightLDA, LightGBM, etc
 
 ## Technical Certifications
 
+* [Microsoft Professional Degree – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
 * [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
 * [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
-* [Microsoft Professional Degree – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
