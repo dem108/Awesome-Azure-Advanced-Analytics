@@ -41,7 +41,8 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/cognitive-services/)
 * [List of APIs](https://www.microsoft.com/cognitive-services/en-us/apis)
-* [Samples and Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
+* [SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/sdk-sample)
+* [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 
 ## Azure Data Lake
 
@@ -49,6 +50,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Data Lake Store Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
 * [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
 * [Azure Data Lake Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
+* [Additional Resources](http://azure.github.io/AzureDataLake/)
 
 ## Azure HDInsight
 
@@ -85,6 +87,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
 * [SQL-DW Blog](https://azure.microsoft.com/en-us/blog/tag/azure-sql-data-warehouse/)
+* [PolyBase Guide](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-load-polybase-guide/)
 
 ## Azure Stream Analytics
 
