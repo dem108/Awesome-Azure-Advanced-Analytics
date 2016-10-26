@@ -50,7 +50,12 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Data Lake Store Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
 * [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
 * [Azure Data Lake Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
-* [Additional Resources](http://azure.github.io/AzureDataLake/)
+* [Azure Data Lake GitHub Repo](https://github.com/Azure/AzureDataLake)
+* [Video Series: Azure Data Lake](https://channel9.msdn.com/Series/AzureDataLake)
+* [Introducing U-SQL](http://usql.io/)
+* [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
+* [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
+* [Data Lake Tools for Visual Studio](https://www.microsoft.com/en-us/download/details.aspx?id=49504)
 
 ## Azure HDInsight
 
@@ -60,12 +65,12 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Learn Hadoop on HDInsight](https://azure.microsoft.com/en-us/documentation/learning-paths/hdinsight-self-guided-hadoop-training/)
 * [Apache Hive](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-hive/)
 * [Apache Pig](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-pig/)
-* [Apache Storm](https://azure.microsoft.com/en-us/services/hdinsight/apache-storm/)
-* [Apache Spark](https://azure.microsoft.com/en-us/services/hdinsight/apache-spark/)
+* [Apache Storm](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-storm-overview/)
+* [Apache Spark](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-apache-spark-overview/)
 * [Apache HBase](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hbase-overview/)
 * [Apache Solr](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-solr-install-linux/)
 * [Apache Giraph](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-giraph-install-linux/)
-* [Microsoft R Server](https://azure.microsoft.com/en-us/services/hdinsight/r-server/)
+* [Microsoft R Server](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
 * [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
 * [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
 
@@ -122,7 +127,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 * [Overview](https://msdn.microsoft.com/en-us/microsoft-r/index)
 * [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
-* [Video: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
+* [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Microsoft R Client](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started)
 * ScaleR
     * [ScaleR User's Guide](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-introduction)
