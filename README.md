@@ -82,11 +82,13 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
 
 * [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
+* [SQL-DW Blog](https://azure.microsoft.com/en-us/blog/tag/azure-sql-data-warehouse/)
 
 ## Azure Stream Analytics
 
 * [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
+* [Stream Analytics Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
 
 ## Jupyter Notebooks
 
@@ -129,7 +131,7 @@ A curated list of awesome learning resources on Microsoft Azure Cloud Services a
 
 ## Open Source ML Toolkits
 
-* [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/) - Deep learning framework
+* [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/) - (aka CNTK) Deep learning framework
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/) - LightLDA, LightGBM, etc
 
 ## Technical Certifications
