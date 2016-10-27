@@ -45,6 +45,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [List of APIs](https://www.microsoft.com/cognitive-services/en-us/apis)
 * [SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/sdk-sample)
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
+* [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
 ## Azure Data Lake
 *A distributed storage and analytics service that scales dynamically*
@@ -58,7 +59,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Introducing U-SQL](http://usql.io/)
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
 * [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
-* [Data Lake Tools for Visual Studio](https://www.microsoft.com/en-us/download/details.aspx?id=49504)
+* [Data Lake Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
 
 ## Azure HDInsight
 *A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
@@ -77,6 +78,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Microsoft R Server](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
 * [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
 * [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
+* [HDInsight Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
 
 ## Azure Machine Learning
 *An environment to build, test, and deploy predictive analytics models*
@@ -153,7 +155,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
     * [Free eBook - Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
 * [Operationalize R Analytics (DeployR)](https://msdn.microsoft.com/en-us/microsoft-r/deployr-about)
 * [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
-* [R Tools for Visual Studio](https://www.visualstudio.com/vs/rtvs/)
+* [R Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
 
 ## Open Source ML Toolkits
 
