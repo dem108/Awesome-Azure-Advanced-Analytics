@@ -21,6 +21,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 ## General Resources
 
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
+* [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
 * [Azure Team Blog](https://azure.microsoft.com/en-us/blog/)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
@@ -28,6 +29,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [AWS to Azure Translation Guide](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)
+* [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 
 ## Cortana Intelligence Suite
 *A fully managed big data and advanced analytics suite*
@@ -154,6 +156,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
     * [Machine Learning Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
     * [Free eBook - Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
 * [Operationalize R Analytics (DeployR)](https://msdn.microsoft.com/en-us/microsoft-r/deployr-about)
+* [Microsoft R Application Network](https://mran.microsoft.com/)
 * [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
 * [R Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
 
@@ -164,6 +167,6 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 ## Technical Certifications
 
-* [Microsoft Professional Degree – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
+* [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
 * [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
 * [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
