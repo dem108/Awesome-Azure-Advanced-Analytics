@@ -143,13 +143,23 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 ## Microsoft Power BI
 *A suite of business analytics tools to analyze data, create visualizations and share insights*
 
-* [Overview](https://powerbi.microsoft.com/en-us/what-is-power-bi/)
+* [Overview](https://powerbi.microsoft.com/en-us/)
 * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
-* [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
+* [Power BI Blog](https://powerbi.microsoft.com/en-us/blog/)
 * [Guided Learning](https://powerbi.microsoft.com/en-us/guided-learning/)
 * [Custom Visuals Gallery](https://app.powerbi.com/visuals/)
-* [Create Visuals Using R](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-visuals/)
-* [Use R in Query Editor](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-in-query-editor/)
+* Power BI Service
+    * [Overview](https://powerbi.microsoft.com/en-us/features/)
+    * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-basic-concepts/)
+    * [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
+* Power BI Embedded
+    * [Overview](https://azure.microsoft.com/en-us/services/power-bi-embedded/)
+    * [Documentation](https://azure.microsoft.com/en-us/documentation/services/power-bi-embedded/)
+* Power BI Desktop
+    * [Overview](https://powerbi.microsoft.com/en-us/desktop/)
+    * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-get-the-desktop/)
+    * [Create Visuals Using R](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-visuals/)
+    * [Use R in Query Editor](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-in-query-editor/)
 
 ## Microsoft R Server
 *A scalable and deployable enterprise-class R analytics platform*
