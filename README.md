@@ -23,7 +23,9 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
 * [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
-* [Azure Team Blog](https://azure.microsoft.com/en-us/blog/)
+* [Azure Blog](https://azure.microsoft.com/en-us/blog/)
+* [Azure Updates](https://azure.microsoft.com/en-us/updates/)
+* [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
