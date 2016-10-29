@@ -12,6 +12,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 - [Jupyter Notebooks](#jupyter-notebooks)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [Microsoft Data Science VMs](#microsoft-data-science-vms)
+- [Microsoft Power BI](#microsoft-power-bi)
 - [Microsoft R Server](#microsoft-r-server)
 - [Open Source ML Toolkits](#open-source-ml-toolkits)
 - [Technical Certifications](#technical-certifications)
@@ -136,6 +137,17 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
 * [Data science on the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-walkthrough/)
 * [Team Data Science Process](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
+
+## Microsoft Power BI
+*A suite of business analytics tools to analyze data, create visualizations and share insights*
+
+* [Overview](https://powerbi.microsoft.com/en-us/what-is-power-bi/)
+* [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
+* [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
+* [Guided Learning](https://powerbi.microsoft.com/en-us/guided-learning/)
+* [Custom Visuals Gallery](https://app.powerbi.com/visuals/)
+* [Create Visuals Using R](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-visuals/)
+* [Use R in Query Editor](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-in-query-editor/)
 
 ## Microsoft R Server
 *A scalable and deployable enterprise-class R analytics platform*
