@@ -24,6 +24,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
 * [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
+* [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
 * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
@@ -51,6 +52,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/sdk-sample)
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
+* [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
 
 ## Azure Data Lake
 *A distributed storage and analytics service that scales dynamically*
@@ -90,13 +92,17 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 * [Overview](https://studio.azureml.net/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/machine-learning/)
-* [How to choose algorithms for AzureML](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
+* [Frequently Asked Questions](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-faq/)
+* [How to Choose Algorithms for AzureML](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
+* [Re-train a Machine Learning Model](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-retrain-machine-learning-model/)
 * [Studio Experiments Gallery](https://gallery.cortanaintelligence.com/experiments)
 * [Studio Templates Gallery](https://gallery.cortanaintelligence.com/Collection/Machine-Learning-Templates-with-Azure-ML-Studio-1)
 * [AzureML R Client](https://github.com/RevolutionAnalytics/AzureML)
 * [AzureML Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
+* [AzureML PowerShell Commandlet Library](https://github.com/hning86/azuremlps)
 * [AzureML Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
-* [Video: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
+* [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
+* [Video Series: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
 * [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
 
 ## Azure SQL Data Warehouse
@@ -106,6 +112,9 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
 * [SQL-DW Blog](https://azure.microsoft.com/en-us/blog/tag/azure-sql-data-warehouse/)
 * [PolyBase Guide](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-load-polybase-guide/)
+* [sqlcmd Utility](https://msdn.microsoft.com/library/ms162773.aspx)
+* [PowerShell Commandlets & REST APIs](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-reference-powershell-cmdlets/)
+* [Query from Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-query-visual-studio/)
 
 ## Azure Stream Analytics
 *A fully managed, SQL-based, real-time event processing engine*
@@ -188,6 +197,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 * [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/) - (aka CNTK) Deep learning framework
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/) - LightLDA, LightGBM, etc
+* [Graph Engine](https://www.graphengine.io/) - RAM Store + Computation Engine + Graph Model
 
 ## Technical Certifications
 
