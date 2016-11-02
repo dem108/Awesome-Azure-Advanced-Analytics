@@ -27,6 +27,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
 * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
+* [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
@@ -34,6 +35,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [AWS to Azure Translation Guide](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
+* [Advanced Analytics Partner Solution Showcase](http://analyticspartner.microsoft.com/)
 
 ## Cortana Intelligence Suite
 *A fully managed big data and advanced analytics suite*
@@ -173,24 +175,28 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 ## Microsoft R Server
 *A scalable and deployable enterprise-class R analytics platform*
 
-* [Overview](https://msdn.microsoft.com/en-us/microsoft-r/index)
+* [Overview](https://www.microsoft.com/en-us/cloud-platform/r-server)
+* [Documentation](https://msdn.microsoft.com/en-us/microsoft-r/index)
 * [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
-* [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
+* [Diving into Data Analysis in Microsoft R](https://msdn.microsoft.com/en-us/microsoft-r/data-analysis-in-microsoft-r)
 * [Microsoft R Client](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started)
 * ScaleR
-    * [ScaleR User's Guide](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-introduction)
+    * [Introduction to ScaleR](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-introduction)
     * [List of ScaleR Functions](https://msdn.microsoft.com/en-us/microsoft-r/scaler/scaler)
 * [R Server on Hadoop](https://msdn.microsoft.com/en-us/microsoft-r/scaler-hadoop-getting-started)
 * [R Server on Spark](https://msdn.microsoft.com/en-us/microsoft-r/scaler-spark-getting-started)
+* [R Server on HDInsight](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
 * SQL Server R Services
     * [Overview](https://msdn.microsoft.com/en-us/library/mt604845.aspx)
+    * [SQL Server R Services Tutorials](https://msdn.microsoft.com/en-us/library/mt591993.aspx)
     * [Sample Machine Learning Templates](https://github.com/Microsoft/SQL-Server-R-Services-Samples)
-    * [Data Science End-to-End Walkthrough](https://msdn.microsoft.com/en-US/library/mt612857.aspx)
     * [Machine Learning Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
     * [Free eBook - Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
 * [Operationalize R Analytics (DeployR)](https://msdn.microsoft.com/en-us/microsoft-r/deployr-about)
 * [Microsoft R Application Network](https://mran.microsoft.com/)
+* [Revolution Analytics GitHub Repos](https://github.com/RevolutionAnalytics)
 * [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
+* [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [R Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
 
 ## Open Source ML Toolkits
