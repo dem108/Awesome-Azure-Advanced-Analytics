@@ -4,6 +4,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 - [General Resources](#general-resources)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Cognitive Services](#azure-cognitive-services)
+- [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
 - [Azure HDInsight](#azure-hdinsight)
 - [Azure Machine Learning](#azure-machine-learning)
@@ -56,6 +57,13 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
+
+## Azure Data Factory
+*A globally deployed data movement, orchestration, scheduling, and monitoring service*
+
+* [Overview](https://azure.microsoft.com/en-us/services/data-factory/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/data-factory/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-factory/)
 
 ## Azure Data Lake
 *A distributed storage and analytics service that scales dynamically*
