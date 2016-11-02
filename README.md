@@ -61,25 +61,25 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 *A distributed storage and analytics service that scales dynamically*
 
 * [Overview](https://azure.microsoft.com/en-us/solutions/data-lake/)
-* [Data Lake Store Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
-* [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
-* [Azure Data Lake Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
-* [Azure Data Lake GitHub Repo](https://github.com/Azure/AzureDataLake)
-* [Data Lake Store Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-store-self-guided-training/)
-* [Data Lake Analytics Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-analytics-self-guided-training/)
-* [Video Series: Azure Data Lake](https://channel9.msdn.com/Series/AzureDataLake)
+* [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
+* [GitHub Repo](https://github.com/Azure/AzureDataLake)
+* [Documentation: Data Lake Store](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
+* [Learning Path: Data Lake Store](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-store-self-guided-training/)
+* [Documentation: Data Lake Analytics](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
+* [Learning Path: Data Lake Analytics](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-analytics-self-guided-training/)
+* [Video Series](https://channel9.msdn.com/Series/AzureDataLake)
 * [Introducing U-SQL](http://usql.io/)
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
 * [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
-* [Data Lake Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
+* [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
 
 ## Azure HDInsight
 *A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
 
 * [Overview](https://azure.microsoft.com/en-in/services/hdinsight/)
+* [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/hdinsight/)
-* [Azure HDInsight Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
-* [HDInsight Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/hdinsight-self-guided-hadoop-training/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/hdinsight-self-guided-hadoop-training/)
 * [Apache Hive](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-hive/)
 * [Apache Pig](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-pig/)
 * [Apache Storm](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-storm-overview/)
@@ -90,8 +90,8 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Microsoft R Server](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
 * [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
 * [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
-* [HDInsight edX.org XSeries Program](https://www.edx.org/xseries/microsoft-azure-hdinsight-big-data-analyst)
-* [HDInsight Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
+* [edX.org XSeries Program](https://www.edx.org/xseries/microsoft-azure-hdinsight-big-data-analyst)
+* [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
 
 ## Azure Machine Learning
 *An environment to build, test, and deploy predictive analytics models*
@@ -101,12 +101,12 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Frequently Asked Questions](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-faq/)
 * [How to Choose Algorithms for AzureML](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
 * [Re-train a Machine Learning Model](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-retrain-machine-learning-model/)
-* [Studio Experiments Gallery](https://gallery.cortanaintelligence.com/experiments)
-* [Studio Templates Gallery](https://gallery.cortanaintelligence.com/Collection/Machine-Learning-Templates-with-Azure-ML-Studio-1)
-* [AzureML R Client](https://github.com/RevolutionAnalytics/AzureML)
-* [AzureML Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
-* [AzureML PowerShell Commandlet Library](https://github.com/hning86/azuremlps)
-* [AzureML Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
+* [Experiments Gallery](https://gallery.cortanaintelligence.com/experiments)
+* [Templates Gallery](https://gallery.cortanaintelligence.com/Collection/Machine-Learning-Templates-with-Azure-ML-Studio-1)
+* [R Client](https://github.com/RevolutionAnalytics/AzureML)
+* [Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
+* [PowerShell Commandlet Library](https://github.com/hning86/azuremlps)
+* [Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
 * [Video Series: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
 * [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
@@ -115,8 +115,8 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 *An elastic data warehouse as a service with enterprise-class features*
 
 * [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
+* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-sql-data-warehouse/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
-* [SQL-DW Blog](https://azure.microsoft.com/en-us/blog/tag/azure-sql-data-warehouse/)
 * [PolyBase Guide](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-load-polybase-guide/)
 * [sqlcmd Utility](https://msdn.microsoft.com/library/ms162773.aspx)
 * [PowerShell Commandlets & REST APIs](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-reference-powershell-cmdlets/)
@@ -126,9 +126,9 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 *A fully managed, SQL-based, real-time event processing engine*
 
 * [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
+* [Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
-* [Stream Analytics Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
-* [Stream Analytics Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/stream-analytics/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/stream-analytics/)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
@@ -140,8 +140,8 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 *A framework to build and deploy high-quality bots for conversation experiences*
 
 * [Overview](https://dev.botframework.com/)
+* [Blog](https://blog.botframework.com/)
 * [Documentation](https://docs.botframework.com/en-us/)
-* [Bot Framework Blog](https://blog.botframework.com/)
 * [List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
 * [QnA Maker](https://qnamaker.botframework.com/)
@@ -160,8 +160,8 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 *A suite of business analytics tools to analyze data, create visualizations and share insights*
 
 * [Overview](https://powerbi.microsoft.com/en-us/)
+* [Blog](https://powerbi.microsoft.com/en-us/blog/)
 * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
-* [Power BI Blog](https://powerbi.microsoft.com/en-us/blog/)
 * [Guided Learning](https://powerbi.microsoft.com/en-us/guided-learning/)
 * [edX.org Course](https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-3)
 * [Custom Visuals Gallery](https://app.powerbi.com/visuals/)
@@ -185,10 +185,10 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [Documentation](https://msdn.microsoft.com/en-us/microsoft-r/index)
 * [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
 * [Diving into Data Analysis in Microsoft R](https://msdn.microsoft.com/en-us/microsoft-r/data-analysis-in-microsoft-r)
-* [Microsoft R Client](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started)
 * ScaleR
     * [Introduction to ScaleR](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-introduction)
     * [List of ScaleR Functions](https://msdn.microsoft.com/en-us/microsoft-r/scaler/scaler)
+* [R Client](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started)
 * [R Server on Hadoop](https://msdn.microsoft.com/en-us/microsoft-r/scaler-hadoop-getting-started)
 * [R Server on Spark](https://msdn.microsoft.com/en-us/microsoft-r/scaler-spark-getting-started)
 * [R Server on HDInsight](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
@@ -204,7 +204,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
 * [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Microsoft R for Data Science Workshop](https://akzaidi.github.io/R-cadence/)
-* [R Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
+* [Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
 
 ## Open Source ML Toolkits
 
