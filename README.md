@@ -160,9 +160,10 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 * [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
 * [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
+* [Deep Learning toolkit for the DSVM, using Azure GPUs](https://azure.microsoft.com/en-us/marketplace/partners/microsoft-ads/dsvm-deep-learningtoolkit/)
 * [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
 * [Data science on the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-walkthrough/)
-* [Team Data Science Process](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
+* [Team Data Science Process Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
 
 ## Microsoft Power BI
 *A suite of business analytics tools to analyze data, create visualizations and share insights*
