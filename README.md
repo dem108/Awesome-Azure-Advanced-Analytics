@@ -1,5 +1,14 @@
+![](img/CIS.png)
+
 # Awesome Azure - Advanced Analytics
 Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
+
+## Contributing
+
+Your contributions are welcomed! Please send a pull request to contribute. Make sure you check out the the [Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
+guide and add the link you want to contribute in alphabetical order.
+
+## Table of Contents
 
 - [General Resources](#general-resources)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
@@ -24,6 +33,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
 * [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
+* [Awesome Azure Tools, Guides, Tutorials](https://github.com/ahmetalpbalkan/awesome-azure)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
@@ -201,6 +211,7 @@ Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 * [R Server on Hadoop](https://msdn.microsoft.com/en-us/microsoft-r/scaler-hadoop-getting-started)
 * [R Server on Spark](https://msdn.microsoft.com/en-us/microsoft-r/scaler-spark-getting-started)
 * [R Server on HDInsight](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
+* [R Server on Teradata DB](https://msdn.microsoft.com/en-us/microsoft-r/scaler-teradata-getting-started)
 * SQL Server R Services
     * [Overview](https://msdn.microsoft.com/en-us/library/mt604845.aspx)
     * [SQL Server R Services Tutorials](https://msdn.microsoft.com/en-us/library/mt591993.aspx)
