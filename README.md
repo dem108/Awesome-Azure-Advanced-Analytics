@@ -1,7 +1,7 @@
-![](img/CIS.png)
-
 # Awesome Azure - Advanced Analytics
 Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
+
+![](img/CIS.png)
 
 ## Contributing
 
