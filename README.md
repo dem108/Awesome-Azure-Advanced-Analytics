@@ -15,6 +15,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
+- [Azure Event Hubs](#azure-event-hubs)
 - [Azure HDInsight](#azure-hdinsight)
 - [Azure Machine Learning](#azure-machine-learning)
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
@@ -90,6 +91,13 @@ guide and add the link you want to contribute in alphabetical order.
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
 * [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
+
+## Azure Event Hubs
+*A cloud-scale telemetry ingestion from websites, apps, and devices*
+
+* [Overview](https://azure.microsoft.com/en-us/services/event-hubs/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-overview/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/event-hubs/)
 
 ## Azure HDInsight
 *A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
