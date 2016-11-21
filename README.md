@@ -165,13 +165,17 @@ guide and add the link you want to contribute in alphabetical order.
 ## Microsoft Bot Framework
 *A framework to build and deploy high-quality bots for conversation experiences*
 
-* [Overview](https://dev.botframework.com/)
+* [Bot Framework Overview](https://dev.botframework.com/)
+* [Bot Framework Documentation](https://docs.botframework.com/en-us/)
+* [Azure Bot Service Overview](https://azure.microsoft.com/en-us/services/bot-service/)
+* [Azure Bot Service Documentation](https://docs.botframework.com/en-us/azure-bot-service/)
+* [Language Understanding Intelligent Service (LUIS)](https://www.luis.ai/)
 * [Blog](https://blog.botframework.com/)
-* [Documentation](https://docs.botframework.com/en-us/)
 * [List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
+* [Bot Builder SDK](https://github.com/Microsoft/BotBuilder)
+* [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
 * [QnA Maker](https://qnamaker.botframework.com/)
-* [Language Understanding Intelligent Service (LUIS)](https://www.luis.ai/)
 
 ## Microsoft Data Science VMs
 *Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
