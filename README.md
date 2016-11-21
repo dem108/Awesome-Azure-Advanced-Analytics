@@ -106,7 +106,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/hdinsight/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/hdinsight-self-guided-hadoop-training/)
-* [Apache Hive](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-hive/)
+* [Apache Hive, Interactive](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-interactive-hive)
 * [Apache Pig](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-pig/)
 * [Apache Kafka](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-apache-kafka-introduction)
 * [Apache Storm](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-storm-overview/)
