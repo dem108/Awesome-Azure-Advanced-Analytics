@@ -174,6 +174,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [Blog](https://blog.botframework.com/)
 * [List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
+* [Bot Framework Emulator](https://github.com/microsoft/botframework-emulator)
+* [Bot Framework WebChat](https://github.com/microsoft/botframework-webchat)
 * [Bot Builder SDK](https://github.com/Microsoft/BotBuilder)
 * [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
 * [QnA Maker](https://qnamaker.botframework.com/)
