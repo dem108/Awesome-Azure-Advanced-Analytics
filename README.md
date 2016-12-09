@@ -166,12 +166,12 @@ guide and add the link you want to contribute in alphabetical order.
 ## Microsoft Bot Framework
 *A framework to build and deploy high-quality bots for conversation experiences*
 
+* [Blog](https://blog.botframework.com/)
 * [Bot Framework Overview](https://dev.botframework.com/)
 * [Bot Framework Documentation](https://docs.botframework.com/en-us/)
 * [Azure Bot Service Overview](https://azure.microsoft.com/en-us/services/bot-service/)
 * [Azure Bot Service Documentation](https://docs.botframework.com/en-us/azure-bot-service/)
 * [Language Understanding Intelligent Service (LUIS)](https://www.luis.ai/)
-* [Blog](https://blog.botframework.com/)
 * [List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
 * [Bot Framework Emulator](https://github.com/microsoft/botframework-emulator)
@@ -217,6 +217,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://www.microsoft.com/en-us/cloud-platform/r-server)
 * [Documentation](https://msdn.microsoft.com/en-us/microsoft-r/index)
+* [Tiger Team Blog](https://blogs.msdn.microsoft.com/microsoftrservertigerteam/)
 * [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
 * [Diving into Data Analysis in Microsoft R](https://msdn.microsoft.com/en-us/microsoft-r/data-analysis-in-microsoft-r)
 * ScaleR
@@ -233,7 +234,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Sample Machine Learning Templates](https://github.com/Microsoft/SQL-Server-R-Services-Samples)
     * [Machine Learning Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
     * [Free eBook - Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
-* [Operationalize R Analytics (DeployR)](https://msdn.microsoft.com/en-us/microsoft-r/deployr-about)
+* [Operationalization with R Server](https://msdn.microsoft.com/en-us/microsoft-r/operationalize/about)
 * [Microsoft R Application Network](https://mran.microsoft.com/)
 * [Revolution Analytics GitHub Repos](https://github.com/RevolutionAnalytics)
 * [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
