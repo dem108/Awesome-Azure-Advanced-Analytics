@@ -116,6 +116,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Apache Giraph](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-giraph-install-linux/)
 * [Microsoft R Server](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
 * [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
+* [Tools & Samples GitHub Repo](https://github.com/hdinsight)
 * [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
 * [edX.org XSeries Program](https://www.edx.org/xseries/microsoft-azure-hdinsight-big-data-analyst)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
