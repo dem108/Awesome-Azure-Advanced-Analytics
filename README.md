@@ -15,6 +15,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
+- [Azure DocumentDB](#azure-documentdb)
 - [Azure Event Hubs](#azure-event-hubs)
 - [Azure HDInsight](#azure-hdinsight)
 - [Azure Machine Learning](#azure-machine-learning)
@@ -91,6 +92,15 @@ guide and add the link you want to contribute in alphabetical order.
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
 * [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
+
+## Azure DocumentDB
+*A multi-tenant, distributed NoSQL database service for managing JSON documents*
+
+* [Overview](https://azure.microsoft.com/en-us/services/documentdb/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/documentdb/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/documentdb/)
+* [.NET SDK](https://github.com/Azure/azure-documentdb-dotnet)
+* [Node.js SDK](https://github.com/Azure/azure-documentdb-node)
 
 ## Azure Event Hubs
 *A cloud-scale telemetry ingestion from websites, apps, and devices*
