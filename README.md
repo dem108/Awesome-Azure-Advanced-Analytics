@@ -44,6 +44,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
+* [AzureCAT Guidance Blog](https://blogs.msdn.microsoft.com/azurecat/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
@@ -191,7 +192,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Bot Framework WebChat](https://github.com/microsoft/botframework-webchat)
 * [Bot Builder SDK](https://github.com/Microsoft/BotBuilder)
 * [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
-* [QnA Maker](https://qnamaker.botframework.com/)
+* [QnA Maker](https://qnamaker.ai/)
 
 ## Microsoft Data Science VMs
 *Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
