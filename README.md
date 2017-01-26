@@ -19,6 +19,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Event Hubs](#azure-event-hubs)
 - [Azure HDInsight](#azure-hdinsight)
 - [Azure Machine Learning](#azure-machine-learning)
+- [Azure SQL Database](#azure-sql-database)
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
 - [Azure Stream Analytics](#azure-stream-analytics)
 - [Jupyter Notebooks](#jupyter-notebooks)
@@ -151,6 +152,14 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
 * [Video Series: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
 * [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
+
+## Azure SQL Database
+*A managed cloud database for app developers*
+
+* [Overview](https://azure.microsoft.com/en-us/services/sql-database/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/sql-database/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-training-learn-sql-database/)
+* [Elastic DB Features](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-elastic-scale/)
 
 ## Azure SQL Data Warehouse
 *An elastic data warehouse as a service with enterprise-class features*
