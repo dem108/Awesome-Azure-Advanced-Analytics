@@ -35,7 +35,8 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
 * [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
-* [Awesome Azure Tools, Guides, Tutorials](https://github.com/ahmetalpbalkan/awesome-azure)
+* [Awesome Azure: Tools, Guides, Tutorials](https://github.com/ahmetalpbalkan/awesome-azure)
+* [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
@@ -46,6 +47,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
+* [Videos: Channel 9](https://channel9.msdn.com/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [AWS to Azure Translation Guide](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
