@@ -13,6 +13,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [General Resources](#general-resources)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Cognitive Services](#azure-cognitive-services)
+- [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
 - [Azure DocumentDB](#azure-documentdb)
@@ -73,6 +74,13 @@ guide and add the link you want to contribute in alphabetical order.
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
+
+## Azure Data Catalog
+*A tool to register, enrich, discover, understand, and consume data sources*
+
+* [Overview](https://azure.microsoft.com/en-us/services/data-catalog/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/data-catalog/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-catalog/)
 
 ## Azure Data Factory
 *A globally deployed data movement, orchestration, scheduling, and monitoring service*
