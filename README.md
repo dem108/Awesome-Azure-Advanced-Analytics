@@ -113,6 +113,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/documentdb/)
 * [Local Emulator](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-local-emulator)
 * [10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
+* [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
 * [Java SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-java)
 * [.NET SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-dotnet)
 * [Node.js SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-node)
