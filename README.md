@@ -184,6 +184,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [PolyBase Guide](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-load-polybase-guide/)
 * [sqlcmd Utility](https://msdn.microsoft.com/library/ms162773.aspx)
 * [PowerShell Commandlets & REST APIs](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-reference-powershell-cmdlets/)
+* [edX.org Course](https://www.edx.org/course/delivering-data-warehouse-cloud-microsoft-dat220x)
 * [Query from Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-query-visual-studio/)
 
 ## Azure Stream Analytics
