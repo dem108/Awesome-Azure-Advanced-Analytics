@@ -111,8 +111,13 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/documentdb/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/documentdb/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/documentdb/)
-* [.NET SDK](https://github.com/Azure/azure-documentdb-dotnet)
-* [Node.js SDK](https://github.com/Azure/azure-documentdb-node)
+* [Local Emulator](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-local-emulator)
+* [10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
+* [Java SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-java)
+* [.NET SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-dotnet)
+* [Node.js SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-node)
+* [Python SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-python)
+* [REST API](https://docs.microsoft.com/en-us/rest/api/documentdb/)
 
 ## Azure Event Hubs
 *A cloud-scale telemetry ingestion from websites, apps, and devices*
