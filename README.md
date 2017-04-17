@@ -12,6 +12,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 - [General Resources](#general-resources)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
+- [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Factory](#azure-data-factory)
@@ -65,6 +66,12 @@ guide and add the link you want to contribute in alphabetical order.
 * [CIS & ML Blog](https://blogs.technet.microsoft.com/machinelearning/)
 * [CIS Gallery](https://gallery.cortanaintelligence.com/)
 * [CIS Solution Templates](https://gallery.cortanaintelligence.com/solutions)
+
+## Azure Analysis Services
+*An enterprise-grade data modeling engine in the cloud*
+
+* [Overview](https://azure.microsoft.com/en-us/services/analysis-services/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/analysis-services/)
 
 ## Azure Cognitive Services
 *A collection of APIs to tap into vision, speech, language, knowledge, and search technologies*
