@@ -240,18 +240,18 @@ guide and add the link you want to contribute in alphabetical order.
 * [Guided Learning](https://powerbi.microsoft.com/en-us/guided-learning/)
 * [edX.org Course](https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-3)
 * [Custom Visuals Gallery](https://app.powerbi.com/visuals/)
-* Power BI Service
-    * [Overview](https://powerbi.microsoft.com/en-us/features/)
-    * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-basic-concepts/)
-    * [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
-* Power BI Embedded
-    * [Overview](https://azure.microsoft.com/en-us/services/power-bi-embedded/)
-    * [Documentation](https://azure.microsoft.com/en-us/documentation/services/power-bi-embedded/)
 * Power BI Desktop
     * [Overview](https://powerbi.microsoft.com/en-us/desktop/)
     * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-get-the-desktop/)
     * [Create Visuals Using R](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-visuals/)
     * [Use R in Query Editor](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-r-in-query-editor/)
+* Power BI Embedded
+    * [Overview](https://azure.microsoft.com/en-us/services/power-bi-embedded/)
+    * [Documentation](https://azure.microsoft.com/en-us/documentation/services/power-bi-embedded/)
+* Power BI Service
+    * [Overview](https://powerbi.microsoft.com/en-us/features/)
+    * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-basic-concepts/)
+    * [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
 
 ## Microsoft R Server
 *A scalable and deployable enterprise-class R analytics platform*
