@@ -39,6 +39,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
 * [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
 * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
+* [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/)
 * [Awesome Azure: Tools, Guides, Tutorials](https://github.com/ahmetalpbalkan/awesome-azure)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
