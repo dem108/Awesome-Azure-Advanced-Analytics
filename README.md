@@ -278,8 +278,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [R Server on HDInsight](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
 * [R Server on Teradata DB](https://msdn.microsoft.com/en-us/microsoft-r/scaler-teradata-getting-started)
 * SQL Server R Services
-    * [Overview](https://msdn.microsoft.com/en-us/library/mt604845.aspx)
-    * [SQL Server R Services Tutorials](https://msdn.microsoft.com/en-us/library/mt591993.aspx)
+    * [Overview](https://docs.microsoft.com/en-us/sql/advanced-analytics/r-services/sql-server-r-services)
+    * [SQL Server R Services Tutorials](https://docs.microsoft.com/en-us/sql/advanced-analytics/r-services/sql-server-r-services-tutorials)
     * [Sample Machine Learning Templates](https://github.com/Microsoft/SQL-Server-R-Services-Samples)
     * [Machine Learning Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
     * [Free eBook - Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
