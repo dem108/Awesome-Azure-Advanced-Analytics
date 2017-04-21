@@ -24,6 +24,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure SQL Database](#azure-sql-database)
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
 - [Azure Stream Analytics](#azure-stream-analytics)
+- [Azure Time Series Insights](#azure-time-series-insights)
 - [Jupyter Notebooks](#jupyter-notebooks)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [Microsoft Data Science VMs](#microsoft-data-science-vms)
@@ -205,6 +206,13 @@ guide and add the link you want to contribute in alphabetical order.
 * [Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/stream-analytics/)
+
+## Azure Time Series Insights
+*A fully managed analytics, storage, and visualization service to explore and analyze IoT events*
+
+* [Overview](https://azure.microsoft.com/en-us/services/time-series-insights/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview)
+* [Portal](https://insights.timeseries.azure.com/)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
