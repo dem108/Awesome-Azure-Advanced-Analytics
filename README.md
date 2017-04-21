@@ -42,7 +42,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
 * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/)
-* [Awesome Azure: Tools, Guides, Tutorials](https://github.com/ahmetalpbalkan/awesome-azure)
+* [Awesome Azure: Tools, Guides, Tutorials](https://github.com/wangyihaier/awesome-azure)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
@@ -166,6 +166,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
+* [IoT Suite](https://www.microsoft.com/en-us/internet-of-things/azure-iot-suite)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
 * [Gateway SDK](https://azure.microsoft.com/en-us/services/iot-hub/iot-gateway-sdk/)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
