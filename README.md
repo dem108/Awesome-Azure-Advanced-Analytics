@@ -20,6 +20,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure DocumentDB](#azure-documentdb)
 - [Azure Event Hubs](#azure-event-hubs)
 - [Azure HDInsight](#azure-hdinsight)
+- [Azure IoT Hub](#azure-iot-hub)
 - [Azure Machine Learning](#azure-machine-learning)
 - [Azure SQL Database](#azure-sql-database)
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
@@ -159,6 +160,15 @@ guide and add the link you want to contribute in alphabetical order.
 * [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
 * [edX.org XSeries Program](https://www.edx.org/xseries/microsoft-azure-hdinsight-big-data-analyst)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
+
+## Azure IoT Hub
+*A cloud service to connect, monitor, and manage billions of IoT assets*
+
+* [Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
+* [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
+* [Gateway SDK](https://azure.microsoft.com/en-us/services/iot-hub/iot-gateway-sdk/)
+* [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
 
 ## Azure Machine Learning
 *An environment to build, test, and deploy predictive analytics models*
