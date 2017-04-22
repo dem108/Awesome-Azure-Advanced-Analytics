@@ -184,7 +184,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [R Client](https://github.com/RevolutionAnalytics/AzureML)
 * [Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
 * [PowerShell Commandlet Library](https://github.com/hning86/azuremlps)
-* [Deploying Spark ML Models on Azure](https://github.com/Azure/Spark-Operationalization-On-Azure)
+* [Operationalizing ML Models on Azure](https://github.com/Azure/Machine-Learning-Operationalization)
 * [Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
 * [Video Series: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
