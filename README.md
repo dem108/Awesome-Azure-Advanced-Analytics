@@ -252,6 +252,7 @@ guide and add the link you want to contribute in alphabetical order.
 ## Microsoft Data Science VMs
 *Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
 
+* [Overview](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-virtual-machine-overview)
 * [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
 * [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
 * [Deep Learning toolkit for the DSVM, using Azure GPUs](https://azure.microsoft.com/en-us/marketplace/partners/microsoft-ads/dsvm-deep-learningtoolkit/)
