@@ -309,6 +309,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Operationalization with R Server](https://msdn.microsoft.com/en-us/microsoft-r/operationalize/about)
 * [Microsoft R Application Network](https://mran.microsoft.com/)
 * [Revolution Analytics GitHub Repos](https://github.com/RevolutionAnalytics)
+* [Sample Code and Data for R Server and R Client](https://github.com/Microsoft/microsoft-r)
 * [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
 * [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Microsoft R for Data Science Workshop](https://akzaidi.github.io/R-cadence/)
