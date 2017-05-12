@@ -14,10 +14,10 @@ guide and add the link you want to contribute in alphabetical order.
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
+- [Azure Cosmo DB](#azure-cosmo-db)
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
-- [Azure DocumentDB](#azure-documentdb)
 - [Azure Event Hubs](#azure-event-hubs)
 - [Azure HDInsight](#azure-hdinsight)
 - [Azure IoT Hub](#azure-iot-hub)
@@ -87,6 +87,16 @@ guide and add the link you want to contribute in alphabetical order.
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
 
+## Azure Cosmo DB
+*A globally distributed, multi-model NoSQL database service: key-value, graph, document (JSON)*
+
+* [Overview](https://azure.microsoft.com/en-us/services/cosmos-db/)
+* [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+* [Local Emulator](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-local-emulator)
+* [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
+* [DocumentDB: 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
+
 ## Azure Data Catalog
 *A tool to register, enrich, discover, understand, and consume data sources*
 
@@ -116,21 +126,6 @@ guide and add the link you want to contribute in alphabetical order.
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
 * [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
-
-## Azure DocumentDB
-*A multi-tenant, distributed NoSQL database service for managing JSON documents*
-
-* [Overview](https://azure.microsoft.com/en-us/services/documentdb/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/documentdb/)
-* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/documentdb/)
-* [Local Emulator](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-local-emulator)
-* [10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
-* [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
-* [Java SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-java)
-* [.NET SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-dotnet)
-* [Node.js SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-node)
-* [Python SDK](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-sdk-python)
-* [REST API](https://docs.microsoft.com/en-us/rest/api/documentdb/)
 
 ## Azure Event Hubs
 *A cloud-scale telemetry ingestion from websites, apps, and devices*
