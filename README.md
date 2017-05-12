@@ -53,6 +53,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
 * [AzureCAT Guidance Blog](https://blogs.msdn.microsoft.com/azurecat/)
+* [Data Platform Blogs](https://blogs.msdn.microsoft.com/data-platform/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
@@ -67,9 +68,10 @@ guide and add the link you want to contribute in alphabetical order.
 *A fully managed big data and advanced analytics suite*
 
 * [Overview](https://www.microsoft.com/en-us/cloud-platform/what-is-cortana-intelligence-suite)
-* [CIS & ML Blog](https://blogs.technet.microsoft.com/machinelearning/)
+* [Blog](https://blogs.technet.microsoft.com/machinelearning/)
 * [CIS Gallery](https://gallery.cortanaintelligence.com/)
-* [CIS Solution Templates](https://gallery.cortanaintelligence.com/solutions)
+* [Solution Templates](https://gallery.cortanaintelligence.com/solutions)
+* [Application Gallery](https://appsource.microsoft.com/en-us/marketplace/apps?product=cortana-intelligence)
 
 ## Azure Analysis Services
 *An enterprise-grade data modeling engine in the cloud*
@@ -172,6 +174,7 @@ guide and add the link you want to contribute in alphabetical order.
 *An environment to build, test, and deploy predictive analytics models*
 
 * [Overview](https://studio.azureml.net/)
+* [Blog](https://blogs.technet.microsoft.com/machinelearning/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/machine-learning/)
 * [Frequently Asked Questions](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-faq/)
 * [How to Choose Algorithms for AzureML](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
