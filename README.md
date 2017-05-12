@@ -22,6 +22,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure HDInsight](#azure-hdinsight)
 - [Azure IoT Hub](#azure-iot-hub)
 - [Azure Machine Learning](#azure-machine-learning)
+- [Azure Redis Cache](#azure-redis-cache)
 - [Azure SQL Database](#azure-sql-database)
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
 - [Azure Stream Analytics](#azure-stream-analytics)
@@ -185,6 +186,14 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
 * [Video Series: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
 * [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
+
+## Azure Redis Cache
+*A secure, managed, dedicated Redis cache*
+
+* [Overview](https://azure.microsoft.com/en-us/services/cache/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/redis-cache/)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/redis-cache/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/redis-cache/cache-faq)
 
 ## Azure SQL Database
 *A managed cloud database for app developers*
