@@ -58,7 +58,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Videos: Channel 9](https://channel9.msdn.com/)
 * [Catalog of Azure Online Training Courses](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
-* [AWS to Azure Translation Guide](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)
+* [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Advanced Analytics Partner Solution Showcase](http://analyticspartner.microsoft.com/)
 
@@ -162,6 +162,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
 * [IoT Suite](https://www.microsoft.com/en-us/internet-of-things/azure-iot-suite)
+* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-hub/)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
 * [Gateway SDK](https://azure.microsoft.com/en-us/services/iot-hub/iot-gateway-sdk/)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
