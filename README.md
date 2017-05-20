@@ -27,12 +27,12 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
 - [Azure Stream Analytics](#azure-stream-analytics)
 - [Azure Time Series Insights](#azure-time-series-insights)
+- [Deep Learning on Azure](#deep-learning-on-azure)
 - [Jupyter Notebooks](#jupyter-notebooks)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [Microsoft Data Science VMs](#microsoft-data-science-vms)
 - [Microsoft Power BI](#microsoft-power-bi)
 - [Microsoft R Server](#microsoft-r-server)
-- [Open Source ML Toolkits](#open-source-ml-toolkits)
 - [Technical Certifications](#technical-certifications)
 
 - - -
@@ -236,6 +236,19 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview)
 * [Portal](https://insights.timeseries.azure.com/)
 
+## Deep Learning on Azure
+
+* [Microsoft Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
+* [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
+* [Microsoft R Server - MicrosoftML Package](https://msdn.microsoft.com/en-us/microsoft-r/microsoftml-introduction)
+* [Azure Batch AI Training](https://batchaitraining.azure.com/)
+* [Azure Batch Shipyard Recipes](https://github.com/Azure/batch-shipyard/tree/master/recipes#deep-learning)
+* [Deep Learning Toolkit for Data Science VM](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.dsvm-deep-learning)
+* [Operationalize Spark, Tensorflow, and CNTK Models on AzureML](https://github.com/Azure/Machine-Learning-Operationalization)
+* [Cognitive Toolkit and TensorFlow on Azure HDInsight](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
+* [BigDL on Azure HDInsight](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
+* [H2O.ai on Azure HDInsight](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
+
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
 
@@ -329,12 +342,6 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Microsoft R for Data Science Workshop](https://akzaidi.github.io/R-cadence/)
 * [Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
-
-## Open Source ML Toolkits
-
-* [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/) - (aka CNTK) Deep learning framework
-* [Distributed Machine Learning Toolkit](http://www.dmtk.io/) - LightLDA, LightGBM, etc
-* [Graph Engine](https://www.graphengine.io/) - RAM Store + Computation Engine + Graph Model
 
 ## Technical Certifications
 
