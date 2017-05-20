@@ -82,11 +82,14 @@ guide and add the link you want to contribute in alphabetical order.
 ## Azure Cognitive Services
 *A collection of APIs to tap into vision, speech, language, knowledge, and search technologies*
 
-* [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/cognitive-services/)
-* [List of APIs](https://www.microsoft.com/cognitive-services/en-us/apis)
-* [SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/sdk-sample)
+* [Overview (List of APIs)](https://azure.microsoft.com/en-us/services/cognitive-services/)
+* [Blog](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
+* [Cognitive Services Labs](https://labs.cognitive.microsoft.com/)
+* [Custom Vision Service Portal](https://www.customvision.ai/)
+* [Microsoft Translator](https://translator.microsoft.com/)
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
+* [Recommendation API UI](https://recommendations-portal.azurewebsites.net)
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
 
