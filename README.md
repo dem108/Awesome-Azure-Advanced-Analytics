@@ -78,6 +78,7 @@ guide and add the link you want to contribute in alphabetical order.
 *An enterprise-grade data modeling engine in the cloud*
 
 * [Overview](https://azure.microsoft.com/en-us/services/analysis-services/)
+* [Blog](https://blogs.msdn.microsoft.com/analysisservices/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/analysis-services/)
 
 ## Azure Cognitive Services
