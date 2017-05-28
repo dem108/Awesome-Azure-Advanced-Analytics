@@ -12,6 +12,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 - [General Resources](#general-resources)
 - [Training Resources](#training-resources)
+- [Technical Certifications](#technical-certifications)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
@@ -34,7 +35,6 @@ guide and add the link you want to contribute in alphabetical order.
 - [Microsoft Data Science VMs](#microsoft-data-science-vms)
 - [Microsoft Power BI](#microsoft-power-bi)
 - [Microsoft R Server](#microsoft-r-server)
-- [Technical Certifications](#technical-certifications)
 
 - - -
 
@@ -68,7 +68,17 @@ guide and add the link you want to contribute in alphabetical order.
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [Videos: Channel 9](https://channel9.msdn.com/)
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-* [Analytics Technical Certifications](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics#technical-certifications)
+
+## Technical Certifications
+
+* [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx)
+* [Azure Analytics Certifications Overview](http://learnanalytics.microsoft.com/home/certifications)
+* [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
+* [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
+* [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
+* [70-773 Analyzing Big Data with Microsoft R](https://www.microsoft.com/en-us/learning/exam-70-773.aspx)
+* [70-774 Perform Cloud Data Science with Azure Machine Learning](https://www.microsoft.com/en-us/learning/exam-70-774.aspx)
+* [70-775 Perform Data Engineering on Microsoft Azure HDInsight](https://www.microsoft.com/en-us/learning/exam-70-775.aspx)
 
 ## Cortana Intelligence Suite
 *A fully managed big data and advanced analytics suite*
@@ -350,14 +360,3 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Microsoft R for Data Science Workshop](https://akzaidi.github.io/R-cadence/)
 * [Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
-
-## Technical Certifications
-
-* [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx)
-* [Azure Analytics Certifications Overview](http://learnanalytics.microsoft.com/home/certifications)
-* [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
-* [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
-* [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
-* [70-773 Analyzing Big Data with Microsoft R](https://www.microsoft.com/en-us/learning/exam-70-773.aspx)
-* [70-774 Perform Cloud Data Science with Azure Machine Learning](https://www.microsoft.com/en-us/learning/exam-70-774.aspx)
-* [70-775 Perform Data Engineering on Microsoft Azure HDInsight](https://www.microsoft.com/en-us/learning/exam-70-775.aspx)
