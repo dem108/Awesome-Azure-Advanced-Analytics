@@ -11,6 +11,7 @@ guide and add the link you want to contribute in alphabetical order.
 ## Table of Contents
 
 - [General Resources](#general-resources)
+- [Training Resources](#training-resources)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
@@ -48,22 +49,26 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
+* [Azure Roadmap](https://azure.microsoft.com/en-us/roadmap/)
 * [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/)
 * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
 * [AzureCAT Guidance Blog](https://blogs.msdn.microsoft.com/azurecat/)
 * [Data Platform Blogs](https://blogs.msdn.microsoft.com/data-platform/)
+* [Analytics Partner Solution Showcase](http://analyticspartner.microsoft.com/)
+
+## Training Resources
+
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
-* [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
-* [Videos: Channel 9](https://channel9.msdn.com/)
-* [Catalog of Azure Online Training Courses](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx)
-* [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
-* [Azure Training Courses](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx)
+* [Azure Online Training Courses](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
+* [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
+* [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
+* [Videos: Channel 9](https://channel9.msdn.com/)
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-* [Advanced Analytics Partner Solution Showcase](http://analyticspartner.microsoft.com/)
+* [Analytics Technical Certifications](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics#technical-certifications)
 
 ## Cortana Intelligence Suite
 *A fully managed big data and advanced analytics suite*
