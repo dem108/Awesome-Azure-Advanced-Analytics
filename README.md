@@ -133,6 +133,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/data-factory/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/data-factory/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-factory/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-faq)
 
 ## Azure Data Lake
 *A distributed storage and analytics service that scales dynamically*
