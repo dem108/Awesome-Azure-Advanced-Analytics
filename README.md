@@ -126,6 +126,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/data-catalog/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/data-catalog/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-catalog/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-catalog/data-catalog-frequently-asked-questions)
 
 ## Azure Data Factory
 *A globally deployed data movement, orchestration, scheduling, and monitoring service*
@@ -157,6 +158,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/event-hubs/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-overview/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/event-hubs/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-faq)
 
 ## Azure HDInsight
 *A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
