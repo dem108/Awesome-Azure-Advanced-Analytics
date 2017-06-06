@@ -16,7 +16,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
-- [Azure Cosmo DB](#azure-cosmo-db)
+- [Azure Cosmos DB](#azure-cosmos-db)
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
@@ -110,7 +110,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
 
-## Azure Cosmo DB
+## Azure Cosmos DB
 *A globally distributed, multi-model NoSQL database service: key-value, graph, document (JSON)*
 
 * [Overview](https://azure.microsoft.com/en-us/services/cosmos-db/)
