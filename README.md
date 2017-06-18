@@ -44,6 +44,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
 * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/)
+* [Awesome Azure: Azure for Startups](https://github.com/Azure-for-Startups/Content)
 * [Awesome Azure: Tools, Guides, Tutorials](https://github.com/wangyihaier/awesome-azure)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
@@ -192,6 +193,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-hub/)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
 * [Gateway SDK](https://azure.microsoft.com/en-us/services/iot-hub/iot-gateway-sdk/)
+* [Certified IoT Devices](https://catalog.azureiotsuite.com/)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
 
 ## Azure Machine Learning
