@@ -351,6 +351,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx)
 * [Azure Analytics Certifications Overview](http://learnanalytics.microsoft.com/home/certifications)
 * [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
+* [Microsoft Professional Program – Big Data](https://academy.microsoft.com/en-us/professional-program/big-data/)
 * [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
 * [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
 * [70-773 Analyzing Big Data with Microsoft R](https://www.microsoft.com/en-us/learning/exam-70-773.aspx)
