@@ -67,6 +67,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
+* [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
 * [Videos: Channel 9](https://channel9.msdn.com/)
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
@@ -89,6 +90,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [CIS Gallery](https://gallery.cortanaintelligence.com/)
 * [Solution Templates](https://gallery.cortanaintelligence.com/solutions)
 * [Application Gallery](https://appsource.microsoft.com/en-us/marketplace/apps?product=cortana-intelligence)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=cortana%20intelligence)
 
 ## Azure Analysis Services
 *An enterprise-grade data modeling engine in the cloud*
@@ -96,6 +98,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/analysis-services/)
 * [Blog](https://blogs.msdn.microsoft.com/analysisservices/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/analysis-services/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Analysis%20Services)
 
 ## Azure Cognitive Services
 *A collection of APIs to tap into vision, speech, language, knowledge, and search technologies*
@@ -110,6 +113,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Recommendation API UI](https://recommendations-portal.azurewebsites.net)
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services)
 
 ## Azure Cosmos DB
 *A globally distributed, multi-model NoSQL database service: key-value, graph, document (JSON)*
@@ -131,6 +135,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://docs.microsoft.com/en-us/azure/data-catalog/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-catalog/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-catalog/data-catalog-frequently-asked-questions)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Catalog)
 
 ## Azure Data Factory
 *A globally deployed data movement, orchestration, scheduling, and monitoring service*
@@ -139,6 +144,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/data-factory/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-factory/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-faq)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Factory)
 
 ## Azure Data Lake
 *A distributed storage and analytics service that scales dynamically*
@@ -155,6 +161,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
 * [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Data%20Lake)
 
 ## Azure Event Hubs
 *A cloud-scale telemetry ingestion from websites, apps, and devices*
@@ -163,6 +170,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-overview/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/event-hubs/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-faq)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=event%20hubs)
 
 ## Azure HDInsight
 *A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
@@ -185,6 +193,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
 * [edX.org XSeries Program](https://www.edx.org/xseries/microsoft-azure-hdinsight-big-data-analyst)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=hdinsight)
 
 ## Azure IoT Hub
 *A cloud service to connect, monitor, and manage billions of IoT assets*
@@ -198,6 +207,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Gateway SDK](https://azure.microsoft.com/en-us/services/iot-hub/iot-gateway-sdk/)
 * [Certified IoT Devices](https://catalog.azureiotsuite.com/)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=iot%20hubs)
 
 ## Azure Machine Learning
 *An environment to build, test, and deploy predictive analytics models*
@@ -218,6 +228,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
 * [Video Series: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
 * [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
 
 ## Azure Redis Cache
 *A secure, managed, dedicated Redis cache*
@@ -226,6 +237,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://docs.microsoft.com/en-us/azure/redis-cache/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/redis-cache/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/redis-cache/cache-faq)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=redis%20cache)
 
 ## Azure SQL Database
 *A managed cloud database for app developers*
@@ -234,6 +246,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://docs.microsoft.com/en-us/azure/sql-database/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-training-learn-sql-database/)
 * [Elastic DB Features](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-elastic-scale/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20sql%20database)
 
 ## Azure SQL Data Warehouse
 *An elastic data warehouse as a service with enterprise-class features*
@@ -246,6 +259,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [PowerShell Commandlets & REST APIs](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-reference-powershell-cmdlets/)
 * [edX.org Course](https://www.edx.org/course/delivering-data-warehouse-cloud-microsoft-dat220x)
 * [Query from Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-query-visual-studio/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=sql%20data%20warehouse)
 
 ## Azure Stream Analytics
 *A fully managed, SQL-based, real-time event processing engine*
@@ -254,6 +268,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/stream-analytics/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=stream%20analytics)
 
 ## Azure Time Series Insights
 *A fully managed analytics, storage, and visualization service to explore and analyze IoT events*
@@ -261,6 +276,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/time-series-insights/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview)
 * [Portal](https://insights.timeseries.azure.com/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=time%20series%20insights)
 
 ## Deep Learning on Azure
 
@@ -303,6 +319,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Principles of Bot Design](https://docs.microsoft.com/en-us/bot-framework/bot-design-principles)
 * [Great List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework)
 
 ## Microsoft Data Science VMs
 *Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
@@ -336,6 +353,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Overview](https://powerbi.microsoft.com/en-us/features/)
     * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-basic-concepts/)
     * [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Power%20BI)
 
 ## Microsoft R Server
 *A scalable and deployable enterprise-class R analytics platform*
@@ -370,3 +388,4 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Microsoft R for Data Science Workshop](https://akzaidi.github.io/R-cadence/)
 * [Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Microsoft%20R%20Server)
