@@ -117,9 +117,12 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/cosmos-db/)
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
-* [Local Emulator](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-nosql-local-emulator)
+* [Local Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
+* [Hands-On Lab](https://github.com/Microsoft/developer-immersion-data/blob/master/labs/awbexperience4/story_a_cosmosdb/Intro.md)
+* [GitHub Repository](https://github.com/CosmosDB)
 * [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
 * [DocumentDB: 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
 
 ## Azure Data Catalog
 *A tool to register, enrich, discover, understand, and consume data sources*
