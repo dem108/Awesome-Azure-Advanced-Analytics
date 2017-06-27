@@ -332,6 +332,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
 * [Data science on the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-walkthrough/)
 * [Team Data Science Process Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
+* [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
+* [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
 
 ## Microsoft Power BI
 *A suite of business analytics tools to analyze data, create visualizations and share insights*
