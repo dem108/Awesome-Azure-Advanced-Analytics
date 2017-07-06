@@ -68,6 +68,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
+* [//Build 2017 Hands-On Labs](https://github.com/Microsoft/code-challenges)
 * [Videos: Channel 9](https://channel9.msdn.com/)
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
