@@ -353,6 +353,9 @@ guide and add the link you want to contribute in alphabetical order.
 * Power BI Embedded
     * [Overview](https://azure.microsoft.com/en-us/services/power-bi-embedded/)
     * [Documentation](https://azure.microsoft.com/en-us/documentation/services/power-bi-embedded/)
+* Power BI Report Server
+    * [Overview](https://powerbi.microsoft.com/en-us/report-server/)
+    * [Documentation](https://powerbi.microsoft.com/en-us/documentation/reportserver-get-started/)
 * Power BI Service
     * [Overview](https://powerbi.microsoft.com/en-us/features/)
     * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-basic-concepts/)
