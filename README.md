@@ -66,6 +66,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Online Training Courses](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
+* [Learn Analytics Materials on GitHub](https://azure.github.io/learnAnalytics-public/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
 * [//Build 2017 Hands-On Labs](https://github.com/Microsoft/code-challenges)
