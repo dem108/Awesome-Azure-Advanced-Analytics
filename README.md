@@ -167,6 +167,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
 * [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
+* [Online Training - MVA](https://azure.microsoft.com/en-us/blog/online-training-for-azure-data-lake/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Data%20Lake)
 
 ## Azure Event Hubs
