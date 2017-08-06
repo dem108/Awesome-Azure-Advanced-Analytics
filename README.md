@@ -85,6 +85,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [70-774 Perform Cloud Data Science with Azure Machine Learning](https://www.microsoft.com/en-us/learning/exam-70-774.aspx)
 * [70-775 Perform Data Engineering on Microsoft Azure HDInsight](https://www.microsoft.com/en-us/learning/exam-70-775.aspx)
 * [70-776 Perform Big Data Engineering on Microsoft Cloud Services](https://www.microsoft.com/en-us/learning/exam-70-776.aspx)
+* [70-778 Analyzing and Visualizing Data with Microsoft Power BI](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)
 
 ## Cortana Intelligence Suite
 *A fully managed big data and advanced analytics suite*
