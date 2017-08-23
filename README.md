@@ -294,7 +294,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Batch AI Training](https://batchaitraining.azure.com/)
 * [Azure Batch Shipyard Recipes](https://github.com/Azure/batch-shipyard/tree/master/recipes#deep-learning)
 * [Deep Learning Toolkit for Data Science VM](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.dsvm-deep-learning)
-* [Operationalize Spark, Tensorflow, and CNTK Models on AzureML](https://github.com/Azure/Machine-Learning-Operationalization)
+* [Operationalize Python, Spark and CNTK Models on AzureML](https://github.com/Azure/Machine-Learning-Operationalization)
 * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
 * [Cognitive Toolkit and TensorFlow on Azure HDInsight](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
 * [BigDL on Azure HDInsight](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
