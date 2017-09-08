@@ -299,6 +299,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Cognitive Toolkit and TensorFlow on Azure HDInsight](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
 * [BigDL on Azure HDInsight](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
 * [H2O.ai on Azure HDInsight](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
+* [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
