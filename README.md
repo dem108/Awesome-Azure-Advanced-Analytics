@@ -291,17 +291,19 @@ guide and add the link you want to contribute in alphabetical order.
 ## Deep Learning on Azure
 
 * [Microsoft Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
+* [CNTK Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
+* [Python API for CNTK](https://www.cntk.ai/pythondocs/index.html)
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 * [Microsoft R Server - MicrosoftML Package](https://msdn.microsoft.com/en-us/microsoft-r/microsoftml-introduction)
 * [Azure Batch AI Training](https://batchaitraining.azure.com/)
 * [Azure Batch Shipyard Recipes](https://github.com/Azure/batch-shipyard/tree/master/recipes#deep-learning)
 * [Deep Learning Toolkit for Data Science VM](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.dsvm-deep-learning)
 * [Operationalize Python, Spark and CNTK Models on AzureML](https://github.com/Azure/Machine-Learning-Operationalization)
+* [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
 * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
 * [Cognitive Toolkit and TensorFlow on Azure HDInsight](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
 * [BigDL on Azure HDInsight](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
 * [H2O.ai on Azure HDInsight](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
-* [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
