@@ -322,6 +322,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Bot Framework Documentation](https://docs.microsoft.com/en-us/bot-framework/)
 * [Azure Bot Service Overview](https://azure.microsoft.com/en-us/services/bot-service/)
 * [Azure Bot Service Documentation](https://docs.microsoft.com/en-us/bot-framework/azure/azure-bot-service-overview)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/bot-framework/resources-bot-framework-faq)
 * [Cortana Developer Portal](https://developer.microsoft.com/en-us/Cortana)
 * [Add Intelligence with Cognitive Services](https://docs.microsoft.com/en-us/bot-framework/cognitive-services-bot-intelligence-overview)
 * [Language Understanding Intelligent Service](https://www.luis.ai/)
