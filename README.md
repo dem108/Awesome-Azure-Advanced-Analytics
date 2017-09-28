@@ -227,22 +227,30 @@ guide and add the link you want to contribute in alphabetical order.
 ## Azure Machine Learning
 *An environment to build, test, and deploy predictive analytics models*
 
-* [Overview](https://studio.azureml.net/)
+* [Overview](https://azure.microsoft.com/en-us/overview/machine-learning/)
 * [Blog](https://blogs.technet.microsoft.com/machinelearning/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/machine-learning/)
-* [Frequently Asked Questions](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-faq/)
-* [How to Choose Algorithms for AzureML](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
-* [Re-train a Machine Learning Model](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-retrain-machine-learning-model/)
-* [Experiments Gallery](https://gallery.cortanaintelligence.com/experiments)
-* [Templates Gallery](https://gallery.cortanaintelligence.com/Collection/Machine-Learning-Templates-with-Azure-ML-Studio-1)
-* [R Client](https://github.com/RevolutionAnalytics/AzureML)
-* [Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
-* [PowerShell Commandlet Library](https://github.com/hning86/azuremlps)
-* [Operationalizing ML Models on Azure](https://github.com/Azure/Machine-Learning-Operationalization)
-* [Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
+* AzureML Services
+    * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-services/)
+    * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/preview/)
+    * [Diving Deep Into What’s New with AzureML](https://azure.microsoft.com/en-us/blog/diving-deep-into-what-s-new-with-azure-machine-learning/)
+    * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/machine-learning/preview/frequently-asked-questions)
+    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/preview/overview-what-is-azure-ml)
+    * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/preview/model-management-overview)
+    * [Get Started: AzureML Account & Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-installation)
+* AzureML Studio
+    * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
+    * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/)
+    * [How to Choose Algorithms for AzureML Studio](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
+    * [Re-train a Machine Learning Model](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-retrain-machine-learning-model/)
+    * [Experiments Gallery](https://gallery.cortanaintelligence.com/experiments)
+    * [Templates Gallery](https://gallery.cortanaintelligence.com/Collection/Machine-Learning-Templates-with-Azure-ML-Studio-1)
+    * [R Client](https://github.com/RevolutionAnalytics/AzureML)
+    * [Python Client](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python)
+    * [PowerShell Commandlet Library](https://github.com/hning86/azuremlps)
+    * [Operationalizing ML Models](https://docs.microsoft.com/en-us/azure/machine-learning/preview/deployment-setup-configuration)
+    * [Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
+    * [Free eBook](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
-* [Video Series: Hands-On with AzureML](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638?l=2oXJxvJrC_506218965)
-* [Free eBook on AzureML](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
 
 ## Azure Redis Cache
@@ -299,23 +307,24 @@ guide and add the link you want to contribute in alphabetical order.
 * [CNTK Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
 * [Python API for CNTK](https://www.cntk.ai/pythondocs/index.html)
 * [Learning Plan: AI Applications with CNTK](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
-* [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
-* [Microsoft R Server - MicrosoftML Package](https://msdn.microsoft.com/en-us/microsoft-r/microsoftml-introduction)
 * [Azure Batch AI Training](https://batchaitraining.azure.com/)
 * [Azure Batch Shipyard Recipes](https://github.com/Azure/batch-shipyard/tree/master/recipes#deep-learning)
 * [Deep Learning Toolkit for Data Science VM](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.dsvm-deep-learning)
-* [Operationalize Python, Spark and CNTK Models on AzureML](https://github.com/Azure/Machine-Learning-Operationalization)
+* [Operationalize Python, Spark, CNTK & TensorFlow Models on AzureML](https://docs.microsoft.com/en-us/azure/machine-learning/preview/deployment-setup-configuration)
 * [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
 * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
 * [Cognitive Toolkit and TensorFlow on Azure HDInsight](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
 * [BigDL on Azure HDInsight](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
 * [H2O.ai on Azure HDInsight](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
+* [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
+* [Microsoft R Server - MicrosoftML Package](https://msdn.microsoft.com/en-us/microsoft-r/microsoftml-introduction)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
 
 * [Standalone Notebooks](https://notebooks.azure.com/)
 * [AzureML Notebooks](https://gallery.cortanaintelligence.com/notebooks)
+* [AzureML Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/how-to-use-jupyter-notebooks)
 
 ## Microsoft Bot Framework
 *A framework to build and deploy high-quality bots for conversation experiences*
