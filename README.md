@@ -67,6 +67,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
 * [Learn Analytics Materials on GitHub](https://azure.github.io/learnAnalytics-public/)
+* [Learning Paths: AI Developer on Azure](https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
 * [//Build 2017 Hands-On Labs](https://github.com/Microsoft/code-challenges)
@@ -120,6 +121,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 * [Intelligent Kiosk Sample](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
+* [Learning Paths: AI Developer on Azure](https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services)
 
 ## Azure Cosmos DB
@@ -296,6 +298,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
 * [CNTK Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
 * [Python API for CNTK](https://www.cntk.ai/pythondocs/index.html)
+* [Learning Plan: AI Applications with CNTK](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 * [Microsoft R Server - MicrosoftML Package](https://msdn.microsoft.com/en-us/microsoft-r/microsoftml-introduction)
 * [Azure Batch AI Training](https://batchaitraining.azure.com/)
