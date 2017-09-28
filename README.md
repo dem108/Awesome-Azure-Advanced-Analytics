@@ -42,7 +42,6 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
 * [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/)
-* [Interactive Azure Platform Big Picture](http://azureplatform.azurewebsites.net/en-us/)
 * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/)
 * [Awesome Azure: Azure for Startups](https://github.com/Azure-for-Startups/Content)
