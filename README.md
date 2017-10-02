@@ -137,6 +137,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Hands-On Lab](https://github.com/Microsoft/developer-immersion-data/blob/master/labs/awbexperience4/story_a_cosmosdb/Intro.md)
 * [DocumentDB: 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
 * [DocumentDB API SQL Query Cheat Sheet](https://docs.microsoft.com/en-us/azure/cosmos-db/documentdb-sql-query-cheat-sheet)
+* [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
 
 ## Azure Data Catalog
