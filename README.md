@@ -33,8 +33,8 @@ guide and add the link you want to contribute in alphabetical order.
 - [Jupyter Notebooks](#jupyter-notebooks)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [Microsoft Data Science VMs](#microsoft-data-science-vms)
+- [Microsoft Machine Learning Server](#microsoft-machine-learning-server)
 - [Microsoft Power BI](#microsoft-power-bi)
-- [Microsoft R Server](#microsoft-r-server)
 
 - - -
 
@@ -365,6 +365,46 @@ guide and add the link you want to contribute in alphabetical order.
 * [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
 * [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
 
+## Microsoft Machine Learning Server
+*A scalable and deployable enterprise-grade R and Python analytics platform*
+
+* [Overview](https://www.microsoft.com/en-us/sql-server/machinelearningserver)
+* [Documentation](https://docs.microsoft.com/en-us/machine-learning-server/index)
+* [ML Server Blog](https://blogs.msdn.microsoft.com/mlserver/)
+* [Tiger Team Blog](https://blogs.msdn.microsoft.com/microsoftrservertigerteam/)
+* [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
+* Python
+    * [Client](https://docs.microsoft.com/en-us/machine-learning-server/install/python-libraries-interpreter)
+    * [Function Library](https://docs.microsoft.com/en-us/machine-learning-server/python-reference/introducing-python-package-reference)
+    * [Tutorials](https://docs.microsoft.com/en-us/machine-learning-server/python/tutorial-revoscalepy-pyspark)
+    * [Samples](https://docs.microsoft.com/en-us/machine-learning-server/python/python-samples)
+    * [Deploy and Manage Web Services](https://docs.microsoft.com/en-us/machine-learning-server/operationalize/python/how-to-deploy-manage-web-services)
+    * [SQL Server Python Tutorials](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/sql-server-python-tutorials)
+    * [Tools for Visual Studio](https://docs.microsoft.com/en-us/visualstudio/python/python-in-visual-studio)
+* R
+    * [Client](https://docs.microsoft.com/en-us/machine-learning-server/r-client/what-is-microsoft-r-client)
+    * [Function Library](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/introducing-r-server-r-package-reference)
+    * [Tutorials](https://docs.microsoft.com/en-us/machine-learning-server/r/tutorial-introduction)
+    * [Samples](https://docs.microsoft.com/en-us/machine-learning-server/r/r-samples)
+    * [Deploy and Manage Web Services](https://docs.microsoft.com/en-us/machine-learning-server/operationalize/how-to-deploy-web-service-publish-manage-in-r)
+    * [SQL Server R tutorials](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/sql-server-r-tutorials)
+    * [Tools for Visual Studio](https://docs.microsoft.com/en-us/visualstudio/rtvs/)
+* SQL Server ML Services
+    * [Overview](https://docs.microsoft.com/en-us/sql/advanced-analytics/getting-started-with-machine-learning-services)
+    * [Tutorials](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/machine-learning-services-tutorials)
+    * [R Samples & Templates](https://github.com/Microsoft/SQL-Server-R-Services-Samples)
+    * [Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
+    * [eBook: Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
+* [Compute Contexts](https://docs.microsoft.com/en-us/machine-learning-server/r/concept-what-is-compute-context)
+* [Operationalization of Models](https://docs.microsoft.com/en-us/machine-learning-server/operationalize/concept-operationalize-deploy-consume)
+* [Microsoft R Application Network](https://mran.microsoft.com/)
+* [Revolution Analytics GitHub Repos](https://github.com/RevolutionAnalytics)
+* [Sample Code and Data for R Server and R Client](https://github.com/Microsoft/microsoft-r)
+* [A Collection of Simple R Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
+* [eBook: Introduction to Microsoft R](https://smott.gitbooks.io/introduction-to-microsoft-r-server/content/)
+* [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Microsoft%20R%20Server)
+
 ## Microsoft Power BI
 *A suite of business analytics tools to analyze data, create visualizations and share insights*
 
@@ -390,38 +430,3 @@ guide and add the link you want to contribute in alphabetical order.
     * [Documentation](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-basic-concepts/)
     * [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Power%20BI)
-
-## Microsoft R Server
-*A scalable and deployable enterprise-class R analytics platform*
-
-* [Overview](https://www.microsoft.com/en-us/cloud-platform/r-server)
-* [Documentation](https://msdn.microsoft.com/en-us/microsoft-r/index)
-* [Microsoft R Blog](https://blogs.msdn.microsoft.com/rserver/)
-* [Tiger Team Blog](https://blogs.msdn.microsoft.com/microsoftrservertigerteam/)
-* [Revolution Analytics Blog](http://blog.revolutionanalytics.com/)
-* [Diving into Data Analysis in Microsoft R](https://msdn.microsoft.com/en-us/microsoft-r/data-analysis-in-microsoft-r)
-* ScaleR
-    * [Introduction to ScaleR](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-introduction)
-    * [List of ScaleR Functions](https://msdn.microsoft.com/en-us/microsoft-r/scaler/scaler)
-* [MicrosoftML Package](https://msdn.microsoft.com/en-us/microsoft-r/microsoftml-get-started)
-* [R Client (free)](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started)
-* [R Server on Hadoop](https://msdn.microsoft.com/en-us/microsoft-r/scaler-hadoop-getting-started)
-* [R Server on Spark](https://msdn.microsoft.com/en-us/microsoft-r/scaler-spark-getting-started)
-* [R Server on HDInsight](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
-* [R Server on Teradata DB](https://msdn.microsoft.com/en-us/microsoft-r/scaler-teradata-getting-started)
-* SQL Server R Services
-    * [Overview](https://docs.microsoft.com/en-us/sql/advanced-analytics/r-services/sql-server-r-services)
-    * [SQL Server Machine Learning Tutorials](https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/machine-learning-services-tutorials)
-    * [Machine Learning Samples & Templates](https://github.com/Microsoft/SQL-Server-R-Services-Samples)
-    * [Machine Learning Model Management](https://blogs.technet.microsoft.com/dataplatforminsider/2016/10/17/sql-server-as-a-machine-learning-model-management-system/)
-    * [eBook: Data Science with SQL Server](https://blogs.technet.microsoft.com/machinelearning/2016/10/19/data-science-with-microsoft-sql-server-2016-free-ebook/)
-* [Operationalization with R Server](https://msdn.microsoft.com/en-us/microsoft-r/operationalize/about)
-* [Microsoft R Application Network](https://mran.microsoft.com/)
-* [Revolution Analytics GitHub Repos](https://github.com/RevolutionAnalytics)
-* [Sample Code and Data for R Server and R Client](https://github.com/Microsoft/microsoft-r)
-* [A Collection of Simple Demos](https://github.com/bensadeghi/R-demos/tree/master/MS-R)
-* [eBook: Introduction to Microsoft R](https://smott.gitbooks.io/introduction-to-microsoft-r-server/content/)
-* [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
-* [Microsoft R for Data Science Workshop](https://akzaidi.github.io/R-cadence/)
-* [Tools for Visual Studio](https://microsoft.github.io/RTVS-docs/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Microsoft%20R%20Server)
