@@ -51,6 +51,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
 * [Azure Roadmap](https://azure.microsoft.com/en-us/roadmap/)
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/)
 * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
@@ -63,7 +64,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
-* [Azure Online Training Courses](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx)
+* [Azure Training Courses](https://azure.microsoft.com/en-us/training/)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
 * [Learn Analytics Materials on GitHub](https://azure.github.io/learnAnalytics-public/)
