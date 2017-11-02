@@ -356,12 +356,11 @@ guide and add the link you want to contribute in alphabetical order.
 ## Microsoft Data Science VMs
 *Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
 
-* [Overview](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-virtual-machine-overview)
+* [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
 * [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
 * [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
-* [Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
+* [Provision the Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-deep-learning-dsvm)
 * [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
-* [Data science on the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-walkthrough/)
 * [Team Data Science Process Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
 * [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
 * [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
