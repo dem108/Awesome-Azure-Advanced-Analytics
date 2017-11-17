@@ -17,6 +17,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Cosmos DB](#azure-cosmos-db)
+- [Azure Databricks](#azure-databricks)
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
@@ -150,6 +151,12 @@ guide and add the link you want to contribute in alphabetical order.
 * [DocumentDB API SQL Query Cheat Sheet](https://docs.microsoft.com/en-us/azure/cosmos-db/documentdb-sql-query-cheat-sheet)
 * [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
+
+## Azure Databricks
+*A fast, easy, and collaborative Apache Spark-based analytics platform*
+
+* [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
+* [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
 
 ## Azure Data Catalog
 *A tool to register, enrich, discover, understand, and consume data sources*
