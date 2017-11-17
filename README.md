@@ -41,6 +41,7 @@ guide and add the link you want to contribute in alphabetical order.
 ## General Resources
 
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
+* [AI Platform](https://azure.microsoft.com/en-us/overview/ai-platform/)
 * [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/)
 * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/)
@@ -62,6 +63,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Training Resources
 
+* [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
 * [Azure Training Courses](https://azure.microsoft.com/en-us/training/)
