@@ -236,6 +236,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
 * [IoT Suite](https://www.microsoft.com/en-us/internet-of-things/azure-iot-suite)
 * [IoT Edge](https://azure.microsoft.com/en-us/campaigns/iot-edge/)
+* [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
 * [Learning Path: IoT Hub](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-hub/)
 * [Learning Path: IoT Suite](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-suite/)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
@@ -257,6 +258,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/preview/overview-what-is-azure-ml)
     * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/preview/model-management-overview)
     * [Get Started: AzureML Account & Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-installation)
+    * [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
 * AzureML Studio
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
     * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/)
