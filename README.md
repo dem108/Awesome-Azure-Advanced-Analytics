@@ -306,21 +306,28 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Deep Learning on Azure
 
-* [Microsoft Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
-* [CNTK Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
-* [Python API for CNTK](https://www.cntk.ai/pythondocs/index.html)
-* [Learning Plan: AI Applications with CNTK](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
-* [Azure Batch AI Training](https://batchaitraining.azure.com/)
-* [Azure Batch Shipyard Recipes](https://github.com/Azure/batch-shipyard/tree/master/recipes#deep-learning)
+* Azure Batch AI
+    * [Overview](https://azure.microsoft.com/en-us/services/batch-ai/)
+    * [Documentation](https://docs.microsoft.com/en-us/azure/batch-ai/)
+    * [Recipes for AI Frameworks](https://github.com/Azure/BatchAI)
+* Microsoft Cognitive Toolkit (CNTK)
+    * [Overview](https://www.microsoft.com/en-us/cognitive-toolkit/)
+    * [Documentation](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+    * [Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
+    * [Python API](https://www.cntk.ai/pythondocs/index.html)
+    * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
+    * [Learning Materials (slides, notebooks, scripts)](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
+    * [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
+* Deep Learning on Azure HDInsight
+    * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
+    * [Using CNTK and TensorFlow](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
+    * [Using Caffe](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-deep-learning-caffe)
+    * [Using BigDL](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
+    * [Using H2O.ai](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
 * [Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
 * [Operationalize Python, Spark, CNTK & TensorFlow Models on AzureML](https://docs.microsoft.com/en-us/azure/machine-learning/preview/deployment-setup-configuration)
-* [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
-* [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
-* [Cognitive Toolkit and TensorFlow on Azure HDInsight](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
-* [BigDL on Azure HDInsight](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
-* [H2O.ai on Azure HDInsight](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
-* [Microsoft R Server - MicrosoftML Package](https://msdn.microsoft.com/en-us/microsoft-r/microsoftml-introduction)
+* [Microsoft ML Server - MicrosoftML Package](https://docs.microsoft.com/en-us/machine-learning-server/r/concept-what-is-the-microsoftml-package)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
