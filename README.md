@@ -274,6 +274,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://docs.microsoft.com/en-us/azure/sql-database/)
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-training-learn-sql-database/)
 * [Elastic DB Features](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-elastic-scale/)
+* [SQL Operations Studio](https://docs.microsoft.com/en-us/sql/sql-operations-studio/what-is)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20sql%20database)
 
 ## Azure SQL Data Warehouse
@@ -287,6 +288,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [PowerShell Commandlets & REST APIs](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-reference-powershell-cmdlets/)
 * [edX.org Course](https://www.edx.org/course/delivering-data-warehouse-cloud-microsoft-dat220x)
 * [Query from Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-query-visual-studio/)
+* [SQL Operations Studio](https://docs.microsoft.com/en-us/sql/sql-operations-studio/what-is)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=sql%20data%20warehouse)
 
 ## Azure Stream Analytics
