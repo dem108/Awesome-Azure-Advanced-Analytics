@@ -316,11 +316,12 @@ guide and add the link you want to contribute in alphabetical order.
     * [Recipes for AI Frameworks](https://github.com/Azure/BatchAI)
 * Microsoft Cognitive Toolkit (CNTK)
     * [Overview](https://www.microsoft.com/en-us/cognitive-toolkit/)
+    * [Blog](https://www.microsoft.com/en-us/cognitive-toolkit/blog/)
     * [Documentation](https://docs.microsoft.com/en-us/cognitive-toolkit/)
     * [Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
     * [Python API](https://www.cntk.ai/pythondocs/index.html)
+    * [Course Learning Materials](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
     * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
-    * [Learning Materials (slides, notebooks, scripts)](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
     * [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
 * Deep Learning on Azure HDInsight
     * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
@@ -332,6 +333,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Operationalize Python, Spark, CNTK & TensorFlow Models on AzureML](https://docs.microsoft.com/en-us/azure/machine-learning/preview/deployment-setup-configuration)
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 * [Microsoft ML Server - MicrosoftML Package](https://docs.microsoft.com/en-us/machine-learning-server/r/concept-what-is-the-microsoftml-package)
+* [Visual Studio Tools for AI](https://www.visualstudio.com/downloads/ai-tools-vs/)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
