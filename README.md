@@ -187,6 +187,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Data Lake Store Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-store-self-guided-training/)
 * [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
 * [Data Lake Analytics Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-analytics-self-guided-training/)
+* [Walkthrough: Scalable Data Science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/data-lake-walkthrough)
 * [Video Series](https://channel9.msdn.com/Series/AzureDataLake)
 * [Introducing U-SQL](http://usql.io/)
 * [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
