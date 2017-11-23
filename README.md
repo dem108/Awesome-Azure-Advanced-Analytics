@@ -340,7 +340,8 @@ guide and add the link you want to contribute in alphabetical order.
     * [Python API](https://www.cntk.ai/pythondocs/index.html)
     * [Course Learning Materials](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
     * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
-    * [Train & Serve CNTK Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
+    * [Train & Serve Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
+    * [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
 * Deep Learning on Azure HDInsight
     * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
     * [Using CNTK and TensorFlow](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
