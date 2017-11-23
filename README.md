@@ -143,6 +143,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/cosmos-db/faq)
 * [Consistency Levels](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
 * [Serverless Database Computing](https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database)
+* [Capacity Planner](https://www.documentdb.com/capacityplanner)
 * [Local Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
 * [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
 * [GitHub Repository](https://github.com/CosmosDB)
