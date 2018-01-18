@@ -402,6 +402,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Team Data Science Process Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
 * [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
 * [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
+* [AZKT: Azure Distributed Data Engineering Toolkit](https://github.com/Azure/aztk)
 
 ## Microsoft Machine Learning Server
 *A scalable and deployable enterprise-grade R and Python analytics platform*
