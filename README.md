@@ -13,7 +13,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [General Resources](#general-resources)
 - [Training Resources](#training-resources)
 - [Technical Certifications](#technical-certifications)
-- [Azure AI Platform](#azure-ai-platform)
+- [Microsoft AI platform](#microsoft-ai-platform)
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Cosmos DB](#azure-cosmos-db)
@@ -93,8 +93,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [70-776 Perform Big Data Engineering on Microsoft Cloud Services](https://www.microsoft.com/en-us/learning/exam-70-776.aspx)
 * [70-778 Analyzing and Visualizing Data with Microsoft Power BI](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)
 
-## Azure AI Platform
-*A fully managed big data and advanced analytics suite*
+## Microsoft AI platform
+*Artificial intelligence productivity for every developer and every scenario*
 
 * [Overview](https://azure.microsoft.com/en-us/overview/ai-platform/)
 * [Blog](https://blogs.technet.microsoft.com/machinelearning/)
