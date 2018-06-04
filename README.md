@@ -149,6 +149,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Local Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
 * [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
 * [GitHub Repository](https://github.com/CosmosDB)
+* [Workshop Labs](https://cosmosdb.github.io/labs/)
 * [Hands-On Lab](https://github.com/Microsoft/developer-immersion-data/blob/master/labs/awbexperience4/story_a_cosmosdb/Intro.md)
 * [DocumentDB Query Playground](https://www.documentdb.com/sql/demo)
 * [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
