@@ -128,6 +128,8 @@ guide and add the link you want to contribute in alphabetical order.
 * Intelligent Kiosk - [GitHub](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk) [MS Store](https://www.microsoft.com/en-sg/store/p/intelligent-kiosk/9nblggh5qd84)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
 * [Learning Paths: AI Developer on Azure](https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/)
+* [Python SDK Samples](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
+* [C# SDK Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services)
 
 ## Azure Cosmos DB
