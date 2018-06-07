@@ -351,7 +351,6 @@ guide and add the link you want to contribute in alphabetical order.
     * [Course Learning Materials](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
     * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
     * [Train & Serve Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
-    * [Lab: TensorFlow Models with Kubernetes, Kubeflow and AKS](https://github.com/Azure/kubeflow-labs)
     * [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
 * Deep Learning on Azure HDInsight
     * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
@@ -361,6 +360,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Using H2O.ai](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
 * [Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
 * [Operationalize Python, Spark, CNTK & TensorFlow Models on AzureML](https://docs.microsoft.com/en-us/azure/machine-learning/preview/deployment-setup-configuration)
+* [Lab: Train & Serve TensorFlow Models with Kubernetes, Kubeflow and AKS](https://github.com/Azure/kubeflow-labs)
 * [Developing and Operationalizing H2O.ai Models with Azure](https://blogs.technet.microsoft.com/machinelearning/2017/11/28/developing-and-operationalizing-h2o-ai-models-with-azure/)
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 * [Microsoft ML Server - MicrosoftML Package](https://docs.microsoft.com/en-us/machine-learning-server/r/concept-what-is-the-microsoftml-package)
