@@ -258,7 +258,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/overview/machine-learning/)
 * [Blog](https://blogs.technet.microsoft.com/machinelearning/)
-* AzureML Services
+* AzureML Workbench / Services
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-services/)
     * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/preview/)
     * [Diving Deep Into What’s New with AzureML](https://azure.microsoft.com/en-us/blog/diving-deep-into-what-s-new-with-azure-machine-learning/)
@@ -266,6 +266,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/preview/overview-what-is-azure-ml)
     * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/preview/model-management-overview)
     * [Get Started: AzureML Account & Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-installation)
+    * [Python packages for Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/reference-python-package-overview)
     * [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
 * AzureML Studio
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
