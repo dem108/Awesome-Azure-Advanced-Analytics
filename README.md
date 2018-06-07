@@ -351,6 +351,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Course Learning Materials](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
     * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
     * [Train & Serve Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
+    * [Lab: TensorFlow Models with Kubernetes, Kubeflow and AKS](https://github.com/Azure/kubeflow-labs)
     * [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
 * Deep Learning on Azure HDInsight
     * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
