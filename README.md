@@ -70,8 +70,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
 * [Azure Training Courses](https://azure.microsoft.com/en-us/training/)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
-* [Learn Analytics @ Microsoft](http://learnanalytics.microsoft.com/)
-* [Learn Analytics Materials on GitHub](https://azure.github.io/learnAnalytics-public/)
+* [Learn AI @ MS](http://learnanalytics.microsoft.com/home/index)
+* [Learn Analytics Materials](https://azure.github.io/learnAnalytics-public/)
 * [Learning Paths: AI Developer on Azure](https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
@@ -81,11 +81,13 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Technical Certifications
 
-* [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx)
-* [Azure Analytics Certifications Overview](http://learnanalytics.microsoft.com/home/certifications)
+* [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
 * [Microsoft Professional Program – Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 * [Microsoft Professional Program – Big Data](https://academy.microsoft.com/en-us/professional-program/big-data/)
 * [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
+* [MCSA: BI Reporting](https://www.microsoft.com/en-us/learning/mcsa-bi-reporting.aspx)
+* [MCSA: Data Engineering](https://www.microsoft.com/en-us/learning/mcsa-data-engineering-with-azure.aspx)
+* [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
 * [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
 * [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
 * [70-773 Analyzing Big Data with Microsoft R](https://www.microsoft.com/en-us/learning/exam-70-773.aspx)
