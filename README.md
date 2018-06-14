@@ -85,9 +85,9 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Professional Program – Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 * [Microsoft Professional Program – Big Data](https://academy.microsoft.com/en-us/professional-program/big-data/)
 * [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
-* [MCSA: BI Reporting](https://www.microsoft.com/en-us/learning/mcsa-bi-reporting.aspx)
-* [MCSA: Data Engineering](https://www.microsoft.com/en-us/learning/mcsa-data-engineering-with-azure.aspx)
-* [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
+* [MCSA – BI Reporting](https://www.microsoft.com/en-us/learning/mcsa-bi-reporting.aspx)
+* [MCSA – Data Engineering](https://www.microsoft.com/en-us/learning/mcsa-data-engineering-with-azure.aspx)
+* [MCSA – Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
 * [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
 * [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
 * [70-773 Analyzing Big Data with Microsoft R](https://www.microsoft.com/en-us/learning/exam-70-773.aspx)
@@ -166,7 +166,10 @@ guide and add the link you want to contribute in alphabetical order.
 *A fast, easy, and collaborative Apache Spark-based analytics platform*
 
 * [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
+* [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
 
 ## Azure Data Catalog
 *A tool to register, enrich, discover, understand, and consume data sources*
