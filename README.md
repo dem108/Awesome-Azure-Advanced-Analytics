@@ -240,18 +240,21 @@ guide and add the link you want to contribute in alphabetical order.
 ## Azure IoT Hub
 *A cloud service to connect, monitor, and manage billions of IoT assets*
 
-* [Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
+* [Azure IoT Overview](https://azure.microsoft.com/en-us/overview/iot/)
+* [Blog](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
+* [IoT Hub Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
-* [IoT Suite](https://www.microsoft.com/en-us/internet-of-things/azure-iot-suite)
-* [IoT Edge](https://azure.microsoft.com/en-us/campaigns/iot-edge/)
+* [IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/)
+* [IoT Solution Accelerators](https://azure.microsoft.com/en-us/features/iot-accelerators/)
+* [IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/)
 * [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
+* [IoT School](https://iotschool.microsoft.com/learning-paths)
 * [Learning Path: IoT Hub](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-hub/)
 * [Learning Path: IoT Suite](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-suite/)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
-* [Gateway SDK](https://azure.microsoft.com/en-us/services/iot-hub/iot-gateway-sdk/)
 * [Certified IoT Devices](https://catalog.azureiotsuite.com/)
 * [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=iot%20hubs)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=iot&lang-en=true)
 
 ## Azure Machine Learning
 *An environment to build, test, and deploy predictive analytics models*
