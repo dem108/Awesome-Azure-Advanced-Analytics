@@ -257,6 +257,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [IoT School](https://iotschool.microsoft.com/learning-paths)
 * [IoT Solution Accelerators](https://azure.microsoft.com/en-us/features/iot-accelerators/)
 * [IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/)
+* [IoT Central Overview](https://azure.microsoft.com/en-us/services/iot-central/)
+* [IoT Central Documentation](https://docs.microsoft.com/en-us/azure/iot-central/)
 * [IoT Hub Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [IoT Hub Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
 * [IoT Hub Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-hub/)
@@ -266,6 +268,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [IoT Suite Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-suite/)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
 * [Certified IoT Devices](https://catalog.azureiotsuite.com/)
+* [edX MOOC: Developing IoT Solutions with Azure IoT](https://www.edx.org/course/developing-iot-solutions-azure-iot-microsoft-dev225x-0)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=iot&lang-en=true)
 
 ## Azure Machine Learning
