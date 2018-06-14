@@ -23,7 +23,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Data Lake](#azure-data-lake)
 - [Azure Event Hubs](#azure-event-hubs)
 - [Azure HDInsight](#azure-hdinsight)
-- [Azure IoT Hub](#azure-iot-hub)
+- [Azure IoT](#azure-iot)
 - [Azure Machine Learning](#azure-machine-learning)
 - [Azure Redis Cache](#azure-redis-cache)
 - [Azure SQL Database](#azure-sql-database)
@@ -237,8 +237,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=hdinsight)
 
-## Azure IoT Hub
-*A cloud service to connect, monitor, and manage billions of IoT assets*
+## Azure IoT
+*Cloud services to connect, monitor, and manage billions of IoT assets*
 
 * [Azure IoT Overview](https://azure.microsoft.com/en-us/overview/iot/)
 * [Blog](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
