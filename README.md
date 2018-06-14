@@ -1,4 +1,4 @@
-# Awesome Azure - Advanced Analytics
+# Awesome Azure - Advanced Analytics ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 ![](img/CIS.png)
@@ -45,9 +45,10 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/)
 * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/)
+* [Azure GitHub Repos](https://github.com/Azure)
 * [Awesome Azure: Azure for Startups](https://github.com/Azure-for-Startups/Content)
 * [Awesome Azure: Tools, Guides, Tutorials](https://github.com/wangyihaier/awesome-azure)
-* [Awesome Azure: IoT](https://github.com/formulahendry/awesome-azure-iot)
+* [Awesome Azure: IoT](https://github.com/Azure/iot)
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
@@ -250,7 +251,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [IoT Hub Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
 * [IoT Hub Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-hub/)
 * [IoT Edge Overview](https://azure.microsoft.com/en-us/services/iot-edge/)
-* [Iot Edge Documentation](https://docs.microsoft.com/en-us/azure/iot-edge/)
+* [IoT Edge Documentation](https://docs.microsoft.com/en-us/azure/iot-edge/)
 * [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
 * [IoT Suite Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-suite/)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
