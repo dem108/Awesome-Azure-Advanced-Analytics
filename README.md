@@ -21,6 +21,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
+- [Azure Data Science VMs](#azure-data-science-vms)
 - [Azure Event Hubs](#azure-event-hubs)
 - [Azure HDInsight](#azure-hdinsight)
 - [Azure IoT](#azure-iot)
@@ -33,7 +34,6 @@ guide and add the link you want to contribute in alphabetical order.
 - [Deep Learning on Azure](#deep-learning-on-azure)
 - [Jupyter Notebooks](#jupyter-notebooks)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
-- [Microsoft Data Science VMs](#microsoft-data-science-vms)
 - [Microsoft Machine Learning Server](#microsoft-machine-learning-server)
 - [Microsoft Power BI](#microsoft-power-bi)
 
@@ -212,6 +212,22 @@ guide and add the link you want to contribute in alphabetical order.
 * [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
 * [Online Training - MVA](https://azure.microsoft.com/en-us/blog/online-training-for-azure-data-lake/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Data%20Lake)
+
+## Azure Data Science VMs
+*Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
+
+* [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/)
+* [What's included in the Data Science VM?](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview#whats-included-in-the-data-science-vm)
+* [Tools, Platforms, Utilities, and Samples](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tools-overview)
+* [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
+* [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
+* [Provision the Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-deep-learning-dsvm)
+* [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
+* [Team Data Science Process Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
+* [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
+* [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
+* [AZKT: Azure Distributed Data Engineering Toolkit](https://github.com/Azure/aztk)
 
 ## Azure Event Hubs
 *A cloud-scale telemetry ingestion from websites, apps, and devices*
@@ -414,19 +430,6 @@ guide and add the link you want to contribute in alphabetical order.
 * [Great List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework)
-
-## Microsoft Data Science VMs
-*Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
-
-* [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
-* [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
-* [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
-* [Provision the Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-deep-learning-dsvm)
-* [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
-* [Team Data Science Process Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
-* [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
-* [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
-* [AZKT: Azure Distributed Data Engineering Toolkit](https://github.com/Azure/aztk)
 
 ## Microsoft Machine Learning Server
 *A scalable and deployable enterprise-grade R and Python analytics platform*
