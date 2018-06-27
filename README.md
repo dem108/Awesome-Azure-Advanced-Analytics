@@ -54,6 +54,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
 * [Azure Roadmap](https://azure.microsoft.com/en-us/roadmap/)
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)
 * [Azure Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/)
 * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
@@ -152,6 +153,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Graph (Gremlin, TinkerPop)](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
     * [MongoDB](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-introduction)
     * [Table (key-value)](https://docs.microsoft.com/en-us/azure/cosmos-db/table-introduction)
+* [Query Cheat Sheets](https://docs.microsoft.com/en-us/azure/cosmos-db/query-cheat-sheet)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/cosmos-db/faq)
 * [Consistency Levels](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
 * [Serverless Database Computing](https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database)
@@ -163,7 +165,6 @@ guide and add the link you want to contribute in alphabetical order.
 * [Hands-On Lab](https://github.com/Microsoft/developer-immersion-data/blob/master/labs/awbexperience4/story_a_cosmosdb/Intro.md)
 * [DocumentDB Query Playground](https://www.documentdb.com/sql/demo)
 * [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
-* [DocumentDB API SQL Query Cheat Sheet](https://docs.microsoft.com/en-us/azure/cosmos-db/documentdb-sql-query-cheat-sheet)
 * [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
 
