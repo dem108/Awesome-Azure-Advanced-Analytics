@@ -70,6 +70,7 @@ guide and add the link you want to contribute in alphabetical order.
 ## Training Resources
 
 * [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
+* [Microsoft AI Lab](https://www.ailab.microsoft.com/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
 * [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/)
@@ -82,6 +83,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
 * [//Build 2017 Hands-On Labs](https://github.com/Microsoft/code-challenges)
 * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
+* [Academic Resources for Computer Science](https://github.com/Microsoft/computerscience)
 * [Videos: Channel 9](https://channel9.msdn.com/)
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
