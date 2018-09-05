@@ -53,6 +53,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
 * [Azure Updates](https://azure.microsoft.com/en-us/updates/)
 * [Azure Roadmap](https://azure.microsoft.com/en-us/roadmap/)
+* [Azure Weekly Newsletter](http://azureweekly.info/)
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)
 * [Azure Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/)
