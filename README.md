@@ -111,6 +111,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/overview/ai-platform/)
 * [Blog](https://blogs.technet.microsoft.com/machinelearning/)
+* [AI News](https://news.microsoft.com/ai/)
 * [AI Gallery](https://gallery.azure.ai/)
 * [Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/)
 * [Solution Templates](https://gallery.azure.ai/solutions)
