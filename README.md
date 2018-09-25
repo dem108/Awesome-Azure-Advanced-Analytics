@@ -412,8 +412,8 @@ guide and add the link you want to contribute in alphabetical order.
 *A web application to create documents containing live code, visualizations and explanatory text*
 
 * [Standalone Notebooks](https://notebooks.azure.com/)
-* [AzureML Notebooks](https://gallery.cortanaintelligence.com/notebooks)
-* [AzureML Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/how-to-use-jupyter-notebooks)
+* [Azure ML Studio Notebooks](https://gallery.azure.ai/notebooks)
+* [Azure HDInsight Spark Notebooks](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-notebook-kernels)
 
 ## Microsoft Bot Framework
 *A framework to build and deploy high-quality bots for conversation experiences*
