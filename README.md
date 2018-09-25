@@ -300,17 +300,17 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/overview/machine-learning/)
 * [Blog](https://blogs.technet.microsoft.com/machinelearning/)
-* AzureML Workbench / Services
+* [Comparison of ML Products](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-more-machine-learning)
+* Azure ML Service
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-services/)
-    * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/preview/)
-    * [Diving Deep Into What’s New with AzureML](https://azure.microsoft.com/en-us/blog/diving-deep-into-what-s-new-with-azure-machine-learning/)
-    * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/machine-learning/preview/frequently-asked-questions)
-    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/preview/overview-what-is-azure-ml)
-    * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/preview/model-management-overview)
-    * [Get Started: AzureML Account & Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-installation)
-    * [Python packages for Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/reference-python-package-overview)
-    * [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
-* AzureML Studio
+    * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/)
+    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml)
+    * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture)
+    * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
+    * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml)
+    * [Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro)
+    * [Azure ML CLI](https://docs.microsoft.com/en-us/azure/machine-learning/service/reference-azure-machine-learning-cli)
+* Azure ML Studio
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
     * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/)
     * [How to Choose Algorithms for AzureML Studio](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
