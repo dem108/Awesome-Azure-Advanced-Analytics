@@ -308,6 +308,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture)
     * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
     * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml)
+    * [AutoML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks/tree/master/automl)
     * [Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro)
     * [Azure ML CLI](https://docs.microsoft.com/en-us/azure/machine-learning/service/reference-azure-machine-learning-cli)
 * Azure ML Studio
