@@ -138,6 +138,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Custom Speech Service Portal](https://www.cris.ai/)
 * [Custom Translator Portal](https://portal.customtranslator.azure.ai/)
 * [Custom Vision Service Portal](https://www.customvision.ai/)
+* [Video Indexer Portal](https://vi.microsoft.com/en-us/)
 * [Recommendation Engine Template](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution)
 * [Microsoft Translator](https://translator.microsoft.com/)
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
