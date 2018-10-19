@@ -185,6 +185,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
 * [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
 * Samples - [Anomaly Detection Pipeline](https://github.com/devlace/azure-databricks-anomaly), [End-to-end Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
 
 ## Azure Data Catalog
 *A tool to register, enrich, discover, understand, and consume data sources*
