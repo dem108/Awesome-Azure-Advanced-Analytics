@@ -27,6 +27,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure IoT](#azure-iot)
 - [Azure Machine Learning](#azure-machine-learning)
 - [Azure Redis Cache](#azure-redis-cache)
+- [Azure Search](#azure-search)
 - [Azure SQL Database](#azure-sql-database)
 - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
 - [Azure Stream Analytics](#azure-stream-analytics)
@@ -335,6 +336,15 @@ guide and add the link you want to contribute in alphabetical order.
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/redis-cache/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/redis-cache/cache-faq)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=redis%20cache)
+
+## Azure Search
+*AI-powered cloud search service for web and mobile app development*
+
+* [Overview](https://azure.microsoft.com/en-us/services/search/)
+* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-search/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/search/)
+* [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true)
 
 ## Azure SQL Database
 *A managed cloud database for app developers*
