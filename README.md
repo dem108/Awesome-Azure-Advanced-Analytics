@@ -19,6 +19,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Cosmos DB](#azure-cosmos-db)
 - [Azure Database for MariaDB](#azure-database-for-mariadb)
 - [Azure Database for MySQL](#azure-database-for-mysql)
+- [Azure Database for PostgreSQL](#azure-database-for-postgresql)
 - [Azure Databricks](#azure-databricks)
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Explorer](#azure-data-explorer)
@@ -190,6 +191,12 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/mysql/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/mysql/)
+
+## Azure Database for PostgreSQL
+*An enterprise-ready, fully managed community PostgreSQL*
+
+* [Overview](https://azure.microsoft.com/en-us/services/postgresql/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/postgresql/)
 
 ## Azure Databricks
 *A fast, easy, and collaborative Apache Spark-based analytics platform*
