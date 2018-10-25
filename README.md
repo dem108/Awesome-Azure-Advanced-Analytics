@@ -202,7 +202,9 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/data-explorer/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/data-explorer/)
+* [Query Language](https://docs.microsoft.com/en-us/azure/kusto/query/)
 * [Data Ingestion Overview](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-overview)
+* [Blog Post: Technology 101](https://azure.microsoft.com/en-us/blog/azure-data-explorer-technology-101/)
 
 ## Azure Data Factory
 *A globally deployed data movement, orchestration, scheduling, and monitoring service*
