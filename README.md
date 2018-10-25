@@ -17,6 +17,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Cosmos DB](#azure-cosmos-db)
+- [Azure Database for MariaDB](#azure-database-for-mariadb)
 - [Azure Databricks](#azure-databricks)
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Explorer](#azure-data-explorer)
@@ -176,6 +177,12 @@ guide and add the link you want to contribute in alphabetical order.
 * [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
 * [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
+
+## Azure Database for MariaDB
+*An enterprise-ready, fully managed community MariaDB*
+
+* [Overview](https://azure.microsoft.com/en-us/services/mariadb/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/mariadb/)
 
 ## Azure Databricks
 *A fast, easy, and collaborative Apache Spark-based analytics platform*
