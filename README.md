@@ -19,6 +19,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Cosmos DB](#azure-cosmos-db)
 - [Azure Databricks](#azure-databricks)
 - [Azure Data Catalog](#azure-data-catalog)
+- [Azure Data Explorer](#azure-data-explorer)
 - [Azure Data Factory](#azure-data-factory)
 - [Azure Data Lake](#azure-data-lake)
 - [Azure Data Science VMs](#azure-data-science-vms)
@@ -195,6 +196,13 @@ guide and add the link you want to contribute in alphabetical order.
 * [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-catalog/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-catalog/data-catalog-frequently-asked-questions)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Catalog)
+
+## Azure Data Explorer
+*A fast and highly scalable data exploration service*
+
+* [Overview](https://azure.microsoft.com/en-us/services/data-explorer/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/data-explorer/)
+* [Data Ingestion Overview](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-overview)
 
 ## Azure Data Factory
 *A globally deployed data movement, orchestration, scheduling, and monitoring service*
