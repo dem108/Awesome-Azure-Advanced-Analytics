@@ -314,6 +314,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml)
     * [Azure ML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks)
     * [Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro)
+    * [Azure ML Data Prep SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/dataprep/intro?view=azure-dataprep-py)
     * [Azure ML CLI](https://docs.microsoft.com/en-us/azure/machine-learning/service/reference-azure-machine-learning-cli)
 * Azure ML Studio
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
@@ -397,17 +398,18 @@ guide and add the link you want to contribute in alphabetical order.
 * Azure Batch AI
     * [Overview](https://azure.microsoft.com/en-us/services/batch-ai/)
     * [Documentation](https://docs.microsoft.com/en-us/azure/batch-ai/)
+    * [Distributed Training Using Horovod](https://docs.microsoft.com/en-us/azure/batch-ai/tutorial-horovod-tensorflow)
     * [Recipes for AI Frameworks](https://github.com/Azure/BatchAI)
-* Microsoft Cognitive Toolkit (CNTK)
-    * [Overview](https://www.microsoft.com/en-us/cognitive-toolkit/)
-    * [Blog](https://www.microsoft.com/en-us/cognitive-toolkit/blog/)
-    * [Documentation](https://docs.microsoft.com/en-us/cognitive-toolkit/)
-    * [Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
-    * [Python API](https://www.cntk.ai/pythondocs/index.html)
-    * [Course Learning Materials](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
-    * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
-    * [Train & Serve Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
-    * [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
+* Azure Machine Learning Service
+    * [Overview](https://docs.microsoft.com/en-us/azure/machine-learning/service/)
+    * [Train PyTorch models](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch)
+    * [Train TensorFlow models](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-tensorflow)
+    * [Tune Hyperparameters](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-tune-hyperparameters)
+    * [Open Neural Network Exchange (ONNX)](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-build-deploy-onnx)
+* Deep Learning on Azure Databricks
+    * [Overview](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
+    * [Deep Learning Pipelines](https://docs.azuredatabricks.net/applications/deep-learning/deep-learning-pipelines.html)
+    * [Distributed Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/distributed-deep-learning/index.html)
 * Deep Learning on Azure HDInsight
     * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
     * [Using CNTK and TensorFlow](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
@@ -421,6 +423,16 @@ guide and add the link you want to contribute in alphabetical order.
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 * [Microsoft ML Server - MicrosoftML Package](https://docs.microsoft.com/en-us/machine-learning-server/r/concept-what-is-the-microsoftml-package)
 * [Visual Studio Tools for AI](https://www.visualstudio.com/downloads/ai-tools-vs/)
+* Microsoft Cognitive Toolkit (CNTK)
+    * [Overview](https://www.microsoft.com/en-us/cognitive-toolkit/)
+    * [Blog](https://www.microsoft.com/en-us/cognitive-toolkit/blog/)
+    * [Documentation](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+    * [Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
+    * [Python API](https://www.cntk.ai/pythondocs/index.html)
+    * [Course Learning Materials](https://azure.github.io/learnAnalytics-DeepLearning-Azure/)
+    * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
+    * [Train & Serve Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
+    * [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
