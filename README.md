@@ -18,6 +18,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Cognitive Services](#azure-cognitive-services)
 - [Azure Cosmos DB](#azure-cosmos-db)
 - [Azure Database for MariaDB](#azure-database-for-mariadb)
+- [Azure Database for MySQL](#azure-database-for-mysql)
 - [Azure Databricks](#azure-databricks)
 - [Azure Data Catalog](#azure-data-catalog)
 - [Azure Data Explorer](#azure-data-explorer)
@@ -183,6 +184,12 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/mariadb/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/mariadb/)
+
+## Azure Database for MySQL
+*An enterprise-ready, fully managed community MySQL*
+
+* [Overview](https://azure.microsoft.com/en-us/services/mysql/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/mysql/)
 
 ## Azure Databricks
 *A fast, easy, and collaborative Apache Spark-based analytics platform*
