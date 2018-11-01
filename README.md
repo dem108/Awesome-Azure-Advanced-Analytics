@@ -178,6 +178,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [DocumentDB Query Playground](https://www.documentdb.com/sql/demo)
 * [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
 * [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
+* [eBook: Guide to NoSQL with Azure Cosmos DB](https://azure.microsoft.com/en-us/resources/guide-to-nosql-with-azure-cosmos-db/en-us/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
 
 ## Azure Database for MariaDB
