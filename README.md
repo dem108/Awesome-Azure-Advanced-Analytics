@@ -75,16 +75,15 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Training Resources
 
+* [Microsoft Learn](https://docs.microsoft.com/learn)
 * [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 * [Microsoft AI Lab](https://www.ailab.microsoft.com/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
-* [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/)
 * [Azure Training Courses](https://azure.microsoft.com/en-us/training/)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Learn AI @ MS](http://learnanalytics.microsoft.com/home/index)
 * [Learn Analytics Materials](https://azure.github.io/learnAnalytics-public/)
-* [Learning Paths: AI Developer on Azure](https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/)
 * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
 * [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
 * [Microsoft Cloud Workshops](https://github.com/Microsoft/MCW)
