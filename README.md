@@ -147,7 +147,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
 * Intelligent Kiosk - [GitHub](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk), [MS Store](https://www.microsoft.com/en-sg/store/p/intelligent-kiosk/9nblggh5qd84)
 * [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
-* [Learning Paths: AI Developer on Azure](https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/)
+* [Learning Paths: AI Developer on Azure](https://www.pluralsight.com/courses/microsoft-azure-developer-creating-integrating-ai-azure-services)
 * [Python SDK Samples](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
 * [C# SDK Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services)
@@ -214,7 +214,6 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/data-catalog/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/data-catalog/)
-* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-catalog/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-catalog/data-catalog-frequently-asked-questions)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Catalog)
 
@@ -232,7 +231,6 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/data-factory/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/data-factory/)
-* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-factory/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-faq)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Factory)
 
@@ -243,9 +241,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
 * [GitHub Repo](https://github.com/Azure/AzureDataLake)
 * [Data Lake Store Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
-* [Data Lake Store Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-store-self-guided-training/)
 * [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
-* [Data Lake Analytics Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-lake-analytics-self-guided-training/)
 * [Walkthrough: Scalable Data Science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/data-lake-walkthrough)
 * [Video Series](https://channel9.msdn.com/Series/AzureDataLake)
 * [Introducing U-SQL](http://usql.io/)
@@ -266,7 +262,6 @@ guide and add the link you want to contribute in alphabetical order.
 * [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
 * [Provision the Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-deep-learning-dsvm)
 * [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
-* [Team Data Science Process Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/)
 * [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
 * [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
 * [AZKT: Azure Distributed Data Engineering Toolkit](https://github.com/Azure/aztk)
@@ -276,7 +271,6 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/event-hubs/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-overview/)
-* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/event-hubs/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-faq)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=event%20hubs)
 
@@ -319,11 +313,9 @@ guide and add the link you want to contribute in alphabetical order.
 * [IoT Central Documentation](https://docs.microsoft.com/en-us/azure/iot-central/)
 * [IoT Hub Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [IoT Hub Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
-* [IoT Hub Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-hub/)
 * [IoT Edge Overview](https://azure.microsoft.com/en-us/services/iot-edge/)
 * [IoT Edge Documentation](https://docs.microsoft.com/en-us/azure/iot-edge/)
 * [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
-* [IoT Suite Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/iot-suite/)
 * [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
 * [Hands on Labs](https://github.com/Azure-Samples/azureiotlabs)
 * [Certified IoT Devices](https://catalog.azureiotsuite.com/)
@@ -368,7 +360,6 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/cache/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/redis-cache/)
-* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/redis-cache/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/redis-cache/cache-faq)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=redis%20cache)
 
@@ -386,7 +377,6 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/services/sql-database/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/sql-database/)
-* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-training-learn-sql-database/)
 * [Elastic DB Features](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-elastic-scale/)
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20sql%20database)
@@ -413,7 +403,6 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
 * [Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
-* [Learning Path](https://azure.microsoft.com/en-us/documentation/learning-paths/stream-analytics/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=stream%20analytics)
 
 ## Azure Time Series Insights
