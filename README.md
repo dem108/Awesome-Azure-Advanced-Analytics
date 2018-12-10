@@ -61,6 +61,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Weekly Newsletter](http://azureweekly.info/)
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)
+* [Azure Example Scenarios](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/)
 * [Azure Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/)
 * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
