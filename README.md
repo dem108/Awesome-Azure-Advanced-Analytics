@@ -233,6 +233,7 @@ guide and add the link you want to contribute in alphabetical order.
 *A globally deployed data movement, orchestration, scheduling, and monitoring service*
 
 * [Overview](https://azure.microsoft.com/en-us/services/data-factory/)
+* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-data-factory/)
 * [Documentation](https://azure.microsoft.com/en-us/documentation/services/data-factory/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-faq)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Factory)
