@@ -206,10 +206,22 @@ guide and add the link you want to contribute in alphabetical order.
 * [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
 * [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
+* [Databricks Academy](https://academy.databricks.com/)
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
 * [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
-* [Reference Architecture - Stream Processing](https://review.docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-databricks)
-* Samples - [Anomaly Detection Pipeline](https://github.com/devlace/azure-databricks-anomaly), [End-to-End Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
+* Guides
+   * [FAQ and Best Practices](https://docs.azuredatabricks.net/user-guide/faq/index.html)
+   * [Delta Lake](https://docs.azuredatabricks.net/delta/index.html)
+   * [Machine Learning](https://docs.azuredatabricks.net/spark/latest/mllib/index.html)
+   * [Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
+   * [Structured Streaming](https://docs.azuredatabricks.net/spark/latest/structured-streaming/index.html)
+* Tutorials
+   * [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
+   * [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
+   * [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
+* [Example Notebooks](https://databricks.com/resources/type/example-notebook)
+* Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
+* [Free eBooks](https://databricks.com/resources/type/ebooks)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
 
 ## Azure Data Catalog
