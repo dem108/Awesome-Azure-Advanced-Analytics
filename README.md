@@ -205,6 +205,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+* [Knowledge Base](https://kb.azuredatabricks.net/)
 * [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
 * [Databricks Academy](https://academy.databricks.com/)
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
@@ -219,6 +220,7 @@ guide and add the link you want to contribute in alphabetical order.
    * [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
    * [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
    * [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
+* [Connector to IDEs](https://docs.databricks.com/user-guide/dev-tools/db-connect.html)
 * [Example Notebooks](https://databricks.com/resources/type/example-notebook)
 * Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
 * [Free eBooks](https://databricks.com/resources/type/ebooks)
