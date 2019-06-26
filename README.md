@@ -204,14 +204,15 @@ guide and add the link you want to contribute in alphabetical order.
 *A fast, easy, and collaborative Apache Spark-based analytics platform*
 
 * [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+* [Databricks Blog](https://databricks.com/blog/)
+* [Microsoft Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
+* [Databricks Documentation](https://docs.azuredatabricks.net/)
+* [Microsoft Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
 * [Knowledge Base](https://kb.azuredatabricks.net/)
-* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
 * [Databricks Academy](https://academy.databricks.com/)
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
 * [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
 * Guides
-   * [FAQ and Best Practices](https://docs.azuredatabricks.net/user-guide/faq/index.html)
    * [Delta Lake](https://docs.azuredatabricks.net/delta/index.html)
    * [Machine Learning](https://docs.azuredatabricks.net/spark/latest/mllib/index.html)
    * [Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
