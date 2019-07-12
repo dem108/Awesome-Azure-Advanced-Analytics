@@ -396,6 +396,11 @@ guide and add the link you want to contribute in alphabetical order.
 * [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-search/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/search/)
 * [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
+* Demos
+    *[Wolter Kluwer] (https://wolterskluwereap.azurewebsites.net/)
+    *[Contoso Manufacturing] (https://contoso-manufacturing.azurewebsites.net/home)
+    *[JFK files] (https://jfk-demo.azurewebsites.net/)
+* [Knowledge Mining Solution Accelerator] (https://aka.ms/kmsolutions)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true)
 
 ## Azure SQL Database
