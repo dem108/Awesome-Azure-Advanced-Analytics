@@ -80,8 +80,10 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Learn](https://docs.microsoft.com/learn)
 * [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 * [Microsoft AI Lab](https://www.ailab.microsoft.com/)
+<!-- MVA is integrated into Microsoft Learn. Need to find if we still have free e-books from Microsoft Press 
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
+-->
 * [Azure Training Courses](https://azure.microsoft.com/en-us/training/)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Learn AI @ MS](http://learnanalytics.microsoft.com/home/index)
@@ -179,7 +181,9 @@ guide and add the link you want to contribute in alphabetical order.
 * [DocumentDB Query Playground](https://www.documentdb.com/sql/demo)
 * [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
 * [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
-* [eBook: Guide to NoSQL with Azure Cosmos DB](https://azure.microsoft.com/en-us/resources/guide-to-nosql-with-azure-cosmos-db/en-us/)
+* Free e-books:
+   * [Guide to NoSQL with Azure Cosmos DB](https://azure.microsoft.com/en-us/resources/guide-to-nosql-with-azure-cosmos-db/en-us/)
+   * [Microsoft Azure Cosmos DB Revealed: A Multi-Modal Database Designed for the Cloud](https://b-ok.cc/book/3420319/29aa40)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
 
 ## Azure Database for MariaDB
@@ -354,6 +358,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml)
     * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture)
     * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
+      * Free e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://b-ok.cc/book/4990281/6b375d)
     * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml)
     * [Azure ML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks)
     * [Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro)
@@ -374,6 +379,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Free eBook](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
+
 
 ## Azure Redis Cache
 *A secure, managed, dedicated Redis cache*
@@ -473,6 +479,8 @@ guide and add the link you want to contribute in alphabetical order.
     * [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
     * [Train & Serve Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
     * [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
+* Free e-books:
+    * [Deep Learning with Azure: Building and Deploying Artificial Intelligence Solutions on the Microsoft AI Platform](https://b-ok.cc/book/3659752/980130)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
@@ -504,6 +512,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [Great List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
 * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework)
+* Free e-books
+   * [Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services](https://b-ok.cc/book/3420307/f69c04)
 
 ## Microsoft Machine Learning Server
 *A scalable and deployable enterprise-grade R and Python analytics platform*
