@@ -445,8 +445,10 @@ guide and add the link you want to contribute in alphabetical order.
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=time%20series%20insights)
 
 ## Deep Learning on Azure
+> Updates planned
 
 * Azure Batch AI
+   > (TBU) Batch AI is now Azure ML Compute.
     * [Overview](https://azure.microsoft.com/en-us/services/batch-ai/)
     * [Documentation](https://docs.microsoft.com/en-us/azure/batch-ai/)
     * [Distributed Training Using Horovod](https://docs.microsoft.com/en-us/azure/batch-ai/tutorial-horovod-tensorflow)
@@ -457,6 +459,8 @@ guide and add the link you want to contribute in alphabetical order.
     * [Train TensorFlow models](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-tensorflow)
     * [Tune Hyperparameters](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-tune-hyperparameters)
     * [Open Neural Network Exchange (ONNX)](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-build-deploy-onnx)
+      * [ONNX](https://github.com/onnx)
+      * [ONNX Runtime](https://github.com/microsoft/onnxruntime)
 * Deep Learning on Azure Databricks
     * [Overview](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
     * [Deep Learning Pipelines](https://docs.azuredatabricks.net/applications/deep-learning/deep-learning-pipelines.html)
@@ -486,6 +490,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
 * Free e-books:
     * [Deep Learning with Azure: Building and Deploying Artificial Intelligence Solutions on the Microsoft AI Platform](https://b-ok.cc/book/3659752/980130)
+* [Recommenders](https://github.com/microsoft/recommenders)
 
 ## Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
