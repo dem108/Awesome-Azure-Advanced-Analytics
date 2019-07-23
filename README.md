@@ -218,6 +218,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
 * Guides
    * [Delta Lake](https://docs.azuredatabricks.net/delta/index.html)
+      * [Delta Lake (delta.io)](https://delta.io/)
    * [Machine Learning](https://docs.azuredatabricks.net/spark/latest/mllib/index.html)
    * [Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
    * [Structured Streaming](https://docs.azuredatabricks.net/spark/latest/structured-streaming/index.html)
