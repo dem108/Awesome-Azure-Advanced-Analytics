@@ -252,7 +252,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
 
 #### Deep Learning on Azure
-> This section is planned to be reorganized
+> This section is planned to be reorganized (product-related, tools, DL frameworks, MLOps/DevOps)
 
 * Azure Batch AI
    > (TBU) Batch AI is now Azure ML Compute.
