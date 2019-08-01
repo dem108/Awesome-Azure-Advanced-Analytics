@@ -10,41 +10,45 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Table of Contents
 
-- [General Resources](#general-resources)
+- [Azure General](#azure-general)
 - [Training Resources](#training-resources)
 - [Technical Certifications](#technical-certifications)
-- [Microsoft AI platform](#microsoft-ai-platform)
-- [Azure Analysis Services](#azure-analysis-services)
-- [Azure Cognitive Services](#azure-cognitive-services)
-- [Azure Cosmos DB](#azure-cosmos-db)
-- [Azure Database for MariaDB](#azure-database-for-mariadb)
-- [Azure Database for MySQL](#azure-database-for-mysql)
-- [Azure Database for PostgreSQL](#azure-database-for-postgresql)
-- [Azure Databricks](#azure-databricks)
-- [Azure Data Catalog](#azure-data-catalog)
-- [Azure Data Explorer](#azure-data-explorer)
-- [Azure Data Factory](#azure-data-factory)
-- [Azure Data Lake](#azure-data-lake)
-- [Azure Data Science VMs](#azure-data-science-vms)
-- [Azure Event Hubs](#azure-event-hubs)
-- [Azure HDInsight](#azure-hdinsight)
-- [Azure IoT](#azure-iot)
-- [Azure Machine Learning](#azure-machine-learning)
-- [Azure Redis Cache](#azure-redis-cache)
-- [Azure Search](#azure-search)
-- [Azure SQL Database](#azure-sql-database)
-- [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
-- [Azure Stream Analytics](#azure-stream-analytics)
-- [Azure Time Series Insights](#azure-time-series-insights)
-- [Deep Learning on Azure](#deep-learning-on-azure)
-- [Jupyter Notebooks](#jupyter-notebooks)
-- [Microsoft Bot Framework](#microsoft-bot-framework)
-- [Microsoft Machine Learning Server](#microsoft-machine-learning-server)
-- [Microsoft Power BI](#microsoft-power-bi)
+- [Microsoft AI Platform](#microsoft-ai-platform)
+   - Intelligent Apps and Agents
+      - [Azure Cognitive Services](#azure-cognitive-services)
+      - [Microsoft Bot Framework](#microsoft-bot-framework)
+   - Knowledge Mining
+      - [Azure Search](#azure-search)
+   - Machine Learning
+      - [Azure Data Science VMs](#azure-data-science-vms)
+      - [Azure Machine Learning](#azure-machine-learning)
+      - [Deep Learning on Azure](#deep-learning-on-azure)
+      - [Jupyter Notebooks](#jupyter-notebooks)
+      - [Microsoft Machine Learning Server](#microsoft-machine-learning-server)
+- Cloud Scale Analytics
+   - [Azure Analysis Services](#azure-analysis-services)
+   - [Azure Cosmos DB](#azure-cosmos-db)
+   - [Azure Database for MariaDB](#azure-database-for-mariadb)
+   - [Azure Database for MySQL](#azure-database-for-mysql)
+   - [Azure Database for PostgreSQL](#azure-database-for-postgresql)
+   - [Azure Databricks](#azure-databricks)
+   - [Azure Data Catalog](#azure-data-catalog)
+   - [Azure Data Explorer](#azure-data-explorer)
+   - [Azure Data Factory](#azure-data-factory)
+   - [Azure Data Lake](#azure-data-lake)
+   - [Azure Event Hubs](#azure-event-hubs)
+   - [Azure HDInsight](#azure-hdinsight)
+   - [Azure IoT](#azure-iot)
+   - [Azure Redis Cache](#azure-redis-cache)
+   - [Azure SQL Database](#azure-sql-database)
+   - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
+   - [Azure Stream Analytics](#azure-stream-analytics)
+   - [Azure Time Series Insights](#azure-time-series-insights)
+   - [Microsoft Power BI](#microsoft-power-bi)
 
 - - -
 
-## General Resources
+## Azure General
 
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
 * [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/)
@@ -80,10 +84,6 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Learn](https://docs.microsoft.com/learn)
 * [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 * [Microsoft AI Lab](https://www.ailab.microsoft.com/)
-<!-- MVA is integrated into Microsoft Learn. Need to find if we still have free e-books from Microsoft Press 
-* [Microsoft Virtual Academy](https://mva.microsoft.com/)
-* [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
--->
 * [Azure Training Courses](https://azure.microsoft.com/en-us/training/)
 * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
 * [Learn AI @ MS](http://learnanalytics.microsoft.com/home/index)
@@ -113,8 +113,12 @@ guide and add the link you want to contribute in alphabetical order.
 * [70-775 Perform Data Engineering on Microsoft Azure HDInsight](https://www.microsoft.com/en-us/learning/exam-70-775.aspx)
 * [70-776 Perform Big Data Engineering on Microsoft Cloud Services](https://www.microsoft.com/en-us/learning/exam-70-776.aspx)
 * [70-778 Analyzing and Visualizing Data with Microsoft Power BI](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)
+* AI-100
+* DP-100
+* DP-200
+* DP-201
 
-## Microsoft AI platform
+## Microsoft AI Platform
 *Artificial intelligence productivity for every developer and every scenario*
 
 * [Overview](https://azure.microsoft.com/en-us/overview/ai-platform/)
@@ -126,15 +130,10 @@ guide and add the link you want to contribute in alphabetical order.
 * [Application Gallery](https://appsource.microsoft.com/en-us/marketplace/apps?category=artifical-intelligence)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=cortana%20intelligence)
 
-## Azure Analysis Services
-*An enterprise-grade data modeling engine in the cloud*
+### AI Apps and Agents
+*Deliver breakthrough experiences in your apps*
 
-* [Overview](https://azure.microsoft.com/en-us/services/analysis-services/)
-* [Blog](https://blogs.msdn.microsoft.com/analysisservices/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/analysis-services/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Analysis%20Services)
-
-## Azure Cognitive Services
+#### Azure Cognitive Services
 *A collection of APIs to tap into vision, speech, language, knowledge, and search technologies*
 
 * [Overview (List of APIs)](https://azure.microsoft.com/en-us/services/cognitive-services/)
@@ -156,126 +155,54 @@ guide and add the link you want to contribute in alphabetical order.
 * [C# SDK Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services)
 
-## Azure Cosmos DB
-*A globally distributed, multi-model NoSQL database service: key-value, graph, document (JSON)*
 
-* [Overview](https://azure.microsoft.com/en-us/services/cosmos-db/)
-* [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
-* Multi-Model APIs
-    * [Apache Cassandra](https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra-introduction)
-    * [DocumentDB](https://docs.microsoft.com/en-us/azure/cosmos-db/documentdb-introduction)
-    * [Graph (Gremlin, TinkerPop)](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
-    * [MongoDB](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-introduction)
-    * [Table (key-value)](https://docs.microsoft.com/en-us/azure/cosmos-db/table-introduction)
-* [Query Cheat Sheets](https://docs.microsoft.com/en-us/azure/cosmos-db/query-cheat-sheet)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/cosmos-db/faq)
-* [Consistency Levels](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
-* [Serverless Database Computing](https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database)
-* [Capacity Planner](https://www.documentdb.com/capacityplanner)
-* [Local Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
-* [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
-* [GitHub Repository](https://github.com/CosmosDB)
-* [Workshop Labs](https://cosmosdb.github.io/labs/)
-* [Hands-On Lab](https://github.com/Microsoft/developer-immersion-data/blob/master/labs/awbexperience4/story_a_cosmosdb/Intro.md)
-* [DocumentDB Query Playground](https://www.documentdb.com/sql/demo)
-* [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
-* [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
-* Free e-books:
-   * [Guide to NoSQL with Azure Cosmos DB](https://azure.microsoft.com/en-us/resources/guide-to-nosql-with-azure-cosmos-db/en-us/)
-   * [Microsoft Azure Cosmos DB Revealed: A Multi-Modal Database Designed for the Cloud](https://b-ok.cc/book/3420319/29aa40)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
+#### Microsoft Bot Framework
+*A framework to build and deploy high-quality bots for conversation experiences*
 
-## Azure Database for MariaDB
-*An enterprise-ready, fully managed community MariaDB*
+* [Blog](https://blog.botframework.com/)
+* [Bot Framework Overview](https://dev.botframework.com/)
+* [Bot Framework Documentation](https://docs.microsoft.com/en-us/bot-framework/)
+* [Azure Bot Service Overview](https://azure.microsoft.com/en-us/services/bot-service/)
+* [Azure Bot Service Documentation](https://docs.microsoft.com/en-us/bot-framework/azure/azure-bot-service-overview)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/bot-framework/resources-bot-framework-faq)
+* [Add Intelligence with Cognitive Services](https://docs.microsoft.com/en-us/bot-framework/cognitive-services-bot-intelligence-overview)
+* [Language Understanding Intelligent Service](https://www.luis.ai/)
+* [Bot Framework Emulator](https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator)
+* [Bot Framework WebChat](https://github.com/microsoft/botframework-webchat)
+* [Bot Builder SDK](https://github.com/Microsoft/BotBuilder)
+* [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
+* [Bot Analytics](https://docs.microsoft.com/en-us/bot-framework/portal-analytics-overview)
+* [Channel Inspector](https://docs.botframework.com/en-us/channel-inspector/channels/Skype/)
+* [QnA Maker](https://qnamaker.ai/)
+* [Principles of Bot Design](https://docs.microsoft.com/en-us/bot-framework/bot-design-principles)
+* [Templates in the Azure Bot Service](https://docs.microsoft.com/en-us/bot-framework/azure-bot-service-templates)
+* [Great List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
+* [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework)
+* Free e-books
+   * [Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services](https://b-ok.cc/book/3420307/f69c04)
 
-* [Overview](https://azure.microsoft.com/en-us/services/mariadb/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/mariadb/)
+### Knowledge Mining
+*Uncover latent insights from all your content*
 
-## Azure Database for MySQL
-*An enterprise-ready, fully managed community MySQL*
+#### Azure Search
+*AI-powered cloud search service for web and mobile app development*
 
-* [Overview](https://azure.microsoft.com/en-us/services/mysql/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/mysql/)
+* [Overview](https://azure.microsoft.com/en-us/services/search/)
+* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-search/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/search/)
+* [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
+* Demos
+    * [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/)
+    * [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home)
+    * [JFK files](https://jfk-demo.azurewebsites.net/)
+* [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true)
 
-## Azure Database for PostgreSQL
-*An enterprise-ready, fully managed community PostgreSQL*
+### Machine Learning
+*Quickly and easily build, train, deploy and manage your models*
 
-* [Overview](https://azure.microsoft.com/en-us/services/postgresql/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/postgresql/)
-
-## Azure Databricks
-*A fast, easy, and collaborative Apache Spark-based analytics platform*
-
-* [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
-* [Databricks Blog](https://databricks.com/blog/)
-* [Microsoft Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
-* [Databricks Documentation](https://docs.azuredatabricks.net/)
-* [Microsoft Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
-* [Knowledge Base](https://kb.azuredatabricks.net/)
-* [Databricks Academy](https://academy.databricks.com/)
-* [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
-* [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
-* Guides
-   * [Delta Lake](https://docs.azuredatabricks.net/delta/index.html)
-      * [Delta Lake (delta.io)](https://delta.io/)
-   * [Machine Learning](https://docs.azuredatabricks.net/spark/latest/mllib/index.html)
-   * [Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
-   * [Structured Streaming](https://docs.azuredatabricks.net/spark/latest/structured-streaming/index.html)
-* Tutorials
-   * [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
-   * [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
-   * [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
-* [Connector to IDEs](https://docs.databricks.com/user-guide/dev-tools/db-connect.html)
-* [Example Notebooks](https://databricks.com/resources/type/example-notebook)
-* Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
-* [Free eBooks](https://databricks.com/resources/type/ebooks)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
-
-## Azure Data Catalog
-*A tool to register, enrich, discover, understand, and consume data sources*
-
-* [Overview](https://azure.microsoft.com/en-us/services/data-catalog/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/data-catalog/)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-catalog/data-catalog-frequently-asked-questions)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Catalog)
-
-## Azure Data Explorer
-*A fast and highly scalable data exploration service*
-
-* [Overview](https://azure.microsoft.com/en-us/services/data-explorer/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/data-explorer/)
-* [Query Language](https://docs.microsoft.com/en-us/azure/kusto/query/)
-* [Data Ingestion Overview](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-overview)
-* [Blog Post: Technology 101](https://azure.microsoft.com/en-us/blog/azure-data-explorer-technology-101/)
-
-## Azure Data Factory
-*A globally deployed data movement, orchestration, scheduling, and monitoring service*
-
-* [Overview](https://azure.microsoft.com/en-us/services/data-factory/)
-* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-data-factory/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/data-factory/)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-faq)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Factory)
-
-## Azure Data Lake
-*A distributed storage and analytics service that scales dynamically*
-
-* [Overview](https://azure.microsoft.com/en-us/solutions/data-lake/)
-* [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
-* [GitHub Repo](https://github.com/Azure/AzureDataLake)
-* [Data Lake Store Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
-* [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
-* [Walkthrough: Scalable Data Science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/data-lake-walkthrough)
-* [Video Series](https://channel9.msdn.com/Series/AzureDataLake)
-* [Introducing U-SQL](http://usql.io/)
-* [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
-* [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
-* [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
-* [Online Training - MVA](https://azure.microsoft.com/en-us/blog/online-training-for-azure-data-lake/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Data%20Lake)
-
-## Azure Data Science VMs
+#### Azure Data Science VMs
 *Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
 
 * [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
@@ -290,64 +217,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
 * [AZKT: Azure Distributed Data Engineering Toolkit](https://github.com/Azure/aztk)
 
-## Azure Event Hubs
-*A cloud-scale telemetry ingestion from websites, apps, and devices*
-
-* [Overview](https://azure.microsoft.com/en-us/services/event-hubs/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-overview/)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-faq)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=event%20hubs)
-
-## Azure HDInsight
-*A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
-
-* [Overview](https://azure.microsoft.com/en-in/services/hdinsight/)
-* [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/hdinsight/)
-* [Frequently Asked Questions](https://hdinsight.github.io/)
-* [Developer Guide (pdf)](https://github.com/hdinsight/hdinsight-dev-guide/blob/master/HDInsight%20Developer%20Guide.pdf)
-* [Apache Hive, Interactive](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-interactive-hive)
-* [Apache Pig](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-pig/)
-* [Apache Kafka](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-apache-kafka-introduction)
-* [Apache Storm](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-storm-overview/)
-* [Apache Spark](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-apache-spark-overview/)
-* [Apache HBase](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hbase-overview/)
-* [Apache Solr](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-solr-install-linux/)
-* [Apache Giraph](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-giraph-install-linux/)
-* [Microsoft R Server](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
-* [Presto](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-install-presto)
-* [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
-* [Tools & Samples GitHub Repo](https://github.com/hdinsight)
-* [Microsoft Machine Learning for Spark](https://github.com/Azure/mmlspark)
-* [Comprehensive Guide](https://azure.microsoft.com/en-us/blog/get-up-to-speed-with-azure-hdinsight-the-comprehensive-guide/)
-* [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
-* [edX.org XSeries Program](https://www.edx.org/xseries/microsoft-azure-hdinsight-big-data-analyst)
-* [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=hdinsight)
-
-## Azure IoT
-*Cloud services to connect, monitor, and manage billions of IoT assets*
-
-* [Azure IoT Overview](https://azure.microsoft.com/en-us/overview/iot/)
-* [Blog](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
-* [Awesome Azure: IoT](https://github.com/Azure/iot)
-* [IoT School](https://iotschool.microsoft.com/learning-paths)
-* [IoT Solution Accelerators](https://azure.microsoft.com/en-us/features/iot-accelerators/)
-* [IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/)
-* [IoT Central Overview](https://azure.microsoft.com/en-us/services/iot-central/)
-* [IoT Central Documentation](https://docs.microsoft.com/en-us/azure/iot-central/)
-* [IoT Hub Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
-* [IoT Hub Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
-* [IoT Edge Overview](https://azure.microsoft.com/en-us/services/iot-edge/)
-* [IoT Edge Documentation](https://docs.microsoft.com/en-us/azure/iot-edge/)
-* [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
-* [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
-* [Hands on Labs](https://github.com/Azure-Samples/azureiotlabs)
-* [Certified IoT Devices](https://catalog.azureiotsuite.com/)
-* [edX MOOC: Developing IoT Solutions with Azure IoT](https://www.edx.org/course/developing-iot-solutions-azure-iot-microsoft-dev225x-0)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=iot&lang-en=true)
-
-## Azure Machine Learning
+#### Azure Machine Learning
 *An environment to build, test, and deploy predictive analytics models*
 
 * [Overview](https://azure.microsoft.com/en-us/overview/machine-learning/)
@@ -381,72 +251,8 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
 
-
-## Azure Redis Cache
-*A secure, managed, dedicated Redis cache*
-
-* [Overview](https://azure.microsoft.com/en-us/services/cache/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/redis-cache/)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/redis-cache/cache-faq)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=redis%20cache)
-
-## Azure Search
-*AI-powered cloud search service for web and mobile app development*
-
-* [Overview](https://azure.microsoft.com/en-us/services/search/)
-* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-search/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/search/)
-* [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
-* Demos
-    * [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/)
-    * [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home)
-    * [JFK files](https://jfk-demo.azurewebsites.net/)
-* [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true)
-
-## Azure SQL Database
-*A managed cloud database for app developers*
-
-* [Overview](https://azure.microsoft.com/en-us/services/sql-database/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/sql-database/)
-* [Elastic DB Features](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-elastic-scale/)
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20sql%20database)
-
-## Azure SQL Data Warehouse
-*An elastic data warehouse as a service with enterprise-class features*
-
-* [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
-* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-sql-data-warehouse/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
-* [PolyBase Guide](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-load-polybase-guide/)
-* [sqlcmd Utility](https://msdn.microsoft.com/library/ms162773.aspx)
-* [Automatic Scaling Template](https://github.com/Microsoft/sql-data-warehouse-samples/tree/master/arm-templates/sqlDwAutoScaler)
-* [PowerShell Commandlets & REST APIs](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-reference-powershell-cmdlets/)
-* [DWU Calculator](http://dwucalculator.azurewebsites.net/)
-* [edX.org Course](https://www.edx.org/course/delivering-data-warehouse-cloud-microsoft-dat220x)
-* [Query from Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-query-visual-studio/)
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=sql%20data%20warehouse)
-
-## Azure Stream Analytics
-*A fully managed, SQL-based, real-time event processing engine*
-
-* [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
-* [Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
-* [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=stream%20analytics)
-
-## Azure Time Series Insights
-*A fully managed analytics, storage, and visualization service to explore and analyze IoT events*
-
-* [Overview](https://azure.microsoft.com/en-us/services/time-series-insights/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview)
-* [Portal](https://insights.timeseries.azure.com/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=time%20series%20insights)
-
-## Deep Learning on Azure
-> Updates planned
+#### Deep Learning on Azure
+> This section is planned to be reorganized
 
 * Azure Batch AI
    > (TBU) Batch AI is now Azure ML Compute.
@@ -493,40 +299,16 @@ guide and add the link you want to contribute in alphabetical order.
     * [Deep Learning with Azure: Building and Deploying Artificial Intelligence Solutions on the Microsoft AI Platform](https://b-ok.cc/book/3659752/980130)
 * [Recommenders](https://github.com/microsoft/recommenders)
 
-## Jupyter Notebooks
+#### Jupyter Notebooks
 *A web application to create documents containing live code, visualizations and explanatory text*
 
 * [Standalone Notebooks](https://notebooks.azure.com/)
 * [Azure ML Studio Notebooks](https://gallery.azure.ai/notebooks)
 * [Azure HDInsight Spark Notebooks](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-notebook-kernels)
+* Azure Notebooks
+* Azure Machine Learning Notebook VMs
 
-## Microsoft Bot Framework
-*A framework to build and deploy high-quality bots for conversation experiences*
-
-* [Blog](https://blog.botframework.com/)
-* [Bot Framework Overview](https://dev.botframework.com/)
-* [Bot Framework Documentation](https://docs.microsoft.com/en-us/bot-framework/)
-* [Azure Bot Service Overview](https://azure.microsoft.com/en-us/services/bot-service/)
-* [Azure Bot Service Documentation](https://docs.microsoft.com/en-us/bot-framework/azure/azure-bot-service-overview)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/bot-framework/resources-bot-framework-faq)
-* [Add Intelligence with Cognitive Services](https://docs.microsoft.com/en-us/bot-framework/cognitive-services-bot-intelligence-overview)
-* [Language Understanding Intelligent Service](https://www.luis.ai/)
-* [Bot Framework Emulator](https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator)
-* [Bot Framework WebChat](https://github.com/microsoft/botframework-webchat)
-* [Bot Builder SDK](https://github.com/Microsoft/BotBuilder)
-* [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
-* [Bot Analytics](https://docs.microsoft.com/en-us/bot-framework/portal-analytics-overview)
-* [Channel Inspector](https://docs.botframework.com/en-us/channel-inspector/channels/Skype/)
-* [QnA Maker](https://qnamaker.ai/)
-* [Principles of Bot Design](https://docs.microsoft.com/en-us/bot-framework/bot-design-principles)
-* [Templates in the Azure Bot Service](https://docs.microsoft.com/en-us/bot-framework/azure-bot-service-templates)
-* [Great List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
-* [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework)
-* Free e-books
-   * [Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services](https://b-ok.cc/book/3420307/f69c04)
-
-## Microsoft Machine Learning Server
+#### Microsoft Machine Learning Server
 *A scalable and deployable enterprise-grade R and Python analytics platform*
 
 * [Overview](https://www.microsoft.com/en-us/sql-server/machinelearningserver)
@@ -566,8 +348,246 @@ guide and add the link you want to contribute in alphabetical order.
 * [eBook: Introduction to Microsoft R](https://smott.gitbooks.io/introduction-to-microsoft-r-server/content/)
 * [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Microsoft%20R%20Server)
+ 
+## Cloud Scale Analytics
 
-## Microsoft Power BI
+### Azure Analysis Services
+*An enterprise-grade data modeling engine in the cloud*
+
+* [Overview](https://azure.microsoft.com/en-us/services/analysis-services/)
+* [Blog](https://blogs.msdn.microsoft.com/analysisservices/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/analysis-services/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Analysis%20Services)
+
+### Azure Cosmos DB
+*A globally distributed, multi-model NoSQL database service: key-value, graph, document (JSON)*
+
+* [Overview](https://azure.microsoft.com/en-us/services/cosmos-db/)
+* [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+* Multi-Model APIs
+    * [Apache Cassandra](https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra-introduction)
+    * [DocumentDB](https://docs.microsoft.com/en-us/azure/cosmos-db/documentdb-introduction)
+    * [Graph (Gremlin, TinkerPop)](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
+    * [MongoDB](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-introduction)
+    * [Table (key-value)](https://docs.microsoft.com/en-us/azure/cosmos-db/table-introduction)
+* [Query Cheat Sheets](https://docs.microsoft.com/en-us/azure/cosmos-db/query-cheat-sheet)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/cosmos-db/faq)
+* [Consistency Levels](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
+* [Serverless Database Computing](https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database)
+* [Capacity Planner](https://www.documentdb.com/capacityplanner)
+* [Local Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
+* [Database Migration Tool](https://docs.microsoft.com/en-us/azure/documentdb/documentdb-import-data)
+* [GitHub Repository](https://github.com/CosmosDB)
+* [Workshop Labs](https://cosmosdb.github.io/labs/)
+* [Hands-On Lab](https://github.com/Microsoft/developer-immersion-data/blob/master/labs/awbexperience4/story_a_cosmosdb/Intro.md)
+* [DocumentDB Query Playground](https://www.documentdb.com/sql/demo)
+* [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
+* [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
+* Free e-books:
+   * [Guide to NoSQL with Azure Cosmos DB](https://azure.microsoft.com/en-us/resources/guide-to-nosql-with-azure-cosmos-db/en-us/)
+   * [Microsoft Azure Cosmos DB Revealed: A Multi-Modal Database Designed for the Cloud](https://b-ok.cc/book/3420319/29aa40)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
+
+### Azure Database for MariaDB
+*An enterprise-ready, fully managed community MariaDB*
+
+* [Overview](https://azure.microsoft.com/en-us/services/mariadb/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/mariadb/)
+
+### Azure Database for MySQL
+*An enterprise-ready, fully managed community MySQL*
+
+* [Overview](https://azure.microsoft.com/en-us/services/mysql/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/mysql/)
+
+### Azure Database for PostgreSQL
+*An enterprise-ready, fully managed community PostgreSQL*
+
+* [Overview](https://azure.microsoft.com/en-us/services/postgresql/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/postgresql/)
+
+### Azure Databricks
+*A fast, easy, and collaborative Apache Spark-based analytics platform*
+
+* [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
+* [Databricks Blog](https://databricks.com/blog/)
+* [Microsoft Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
+* [Databricks Documentation](https://docs.azuredatabricks.net/)
+* [Microsoft Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+* [Knowledge Base](https://kb.azuredatabricks.net/)
+* [Databricks Academy](https://academy.databricks.com/)
+* [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
+* [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
+* Guides
+   * [Delta Lake](https://docs.azuredatabricks.net/delta/index.html)
+      * [Delta Lake (delta.io)](https://delta.io/)
+   * [Machine Learning](https://docs.azuredatabricks.net/spark/latest/mllib/index.html)
+   * [Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
+   * [Structured Streaming](https://docs.azuredatabricks.net/spark/latest/structured-streaming/index.html)
+* Tutorials
+   * [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
+   * [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
+   * [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
+* [Connector to IDEs](https://docs.databricks.com/user-guide/dev-tools/db-connect.html)
+* [Example Notebooks](https://databricks.com/resources/type/example-notebook)
+* Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
+* [Free eBooks](https://databricks.com/resources/type/ebooks)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
+
+### Azure Data Catalog
+*A tool to register, enrich, discover, understand, and consume data sources*
+
+* [Overview](https://azure.microsoft.com/en-us/services/data-catalog/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/data-catalog/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-catalog/data-catalog-frequently-asked-questions)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Catalog)
+
+### Azure Data Explorer
+*A fast and highly scalable data exploration service*
+
+* [Overview](https://azure.microsoft.com/en-us/services/data-explorer/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/data-explorer/)
+* [Query Language](https://docs.microsoft.com/en-us/azure/kusto/query/)
+* [Data Ingestion Overview](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-overview)
+* [Blog Post: Technology 101](https://azure.microsoft.com/en-us/blog/azure-data-explorer-technology-101/)
+
+### Azure Data Factory
+*A globally deployed data movement, orchestration, scheduling, and monitoring service*
+
+* [Overview](https://azure.microsoft.com/en-us/services/data-factory/)
+* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-data-factory/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/data-factory/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-faq)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Data%20Factory)
+
+### Azure Data Lake
+*A distributed storage and analytics service that scales dynamically*
+
+* [Overview](https://azure.microsoft.com/en-us/solutions/data-lake/)
+* [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
+* [GitHub Repo](https://github.com/Azure/AzureDataLake)
+* [Data Lake Store Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-store/)
+* [Data Lake Analytics Documentation](https://azure.microsoft.com/en-us/documentation/services/data-lake-analytics/)
+* [Walkthrough: Scalable Data Science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/data-lake-walkthrough)
+* [Video Series](https://channel9.msdn.com/Series/AzureDataLake)
+* [Introducing U-SQL](http://usql.io/)
+* [U-SQL Language Reference](https://msdn.microsoft.com/en-US/library/azure/mt591959(Azure.100).aspx)
+* [AdlCopy Tool](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-copy-data-azure-storage-blob/)
+* [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/data-lake-analytics-data-lake-tools-get-started/)
+* [Online Training - MVA](https://azure.microsoft.com/en-us/blog/online-training-for-azure-data-lake/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Data%20Lake)
+
+
+### Azure Event Hubs
+*A cloud-scale telemetry ingestion from websites, apps, and devices*
+
+* [Overview](https://azure.microsoft.com/en-us/services/event-hubs/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/articles/event-hubs-overview/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-faq)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=event%20hubs)
+
+### Azure HDInsight
+*A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service*
+
+* [Overview](https://azure.microsoft.com/en-in/services/hdinsight/)
+* [Blog](https://blogs.msdn.microsoft.com/azuredatalake/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/hdinsight/)
+* [Frequently Asked Questions](https://hdinsight.github.io/)
+* [Developer Guide (pdf)](https://github.com/hdinsight/hdinsight-dev-guide/blob/master/HDInsight%20Developer%20Guide.pdf)
+* [Apache Hive, Interactive](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-interactive-hive)
+* [Apache Pig](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-pig/)
+* [Apache Kafka](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-apache-kafka-introduction)
+* [Apache Storm](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-storm-overview/)
+* [Apache Spark](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-apache-spark-overview/)
+* [Apache HBase](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hbase-overview/)
+* [Apache Solr](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-solr-install-linux/)
+* [Apache Giraph](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-giraph-install-linux/)
+* [Microsoft R Server](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-r-server-overview/)
+* [Presto](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-install-presto)
+* [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
+* [Tools & Samples GitHub Repo](https://github.com/hdinsight)
+* [Microsoft Machine Learning for Spark](https://github.com/Azure/mmlspark)
+* [Comprehensive Guide](https://azure.microsoft.com/en-us/blog/get-up-to-speed-with-azure-hdinsight-the-comprehensive-guide/)
+* [Free eBook on HDInsight](https://blogs.msdn.microsoft.com/microsoft_press/2014/05/27/free-ebook-introducing-microsoft-azure-hdinsight/)
+* [edX.org XSeries Program](https://www.edx.org/xseries/microsoft-azure-hdinsight-big-data-analyst)
+* [Tools for Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=hdinsight)
+
+### Azure IoT
+*Cloud services to connect, monitor, and manage billions of IoT assets*
+
+* [Azure IoT Overview](https://azure.microsoft.com/en-us/overview/iot/)
+* [Blog](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
+* [Awesome Azure: IoT](https://github.com/Azure/iot)
+* [IoT School](https://iotschool.microsoft.com/learning-paths)
+* [IoT Solution Accelerators](https://azure.microsoft.com/en-us/features/iot-accelerators/)
+* [IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/)
+* [IoT Central Overview](https://azure.microsoft.com/en-us/services/iot-central/)
+* [IoT Central Documentation](https://docs.microsoft.com/en-us/azure/iot-central/)
+* [IoT Hub Overview](https://azure.microsoft.com/en-us/services/iot-hub/)
+* [IoT Hub Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/)
+* [IoT Edge Overview](https://azure.microsoft.com/en-us/services/iot-edge/)
+* [IoT Edge Documentation](https://docs.microsoft.com/en-us/azure/iot-edge/)
+* [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
+* [Developer Center](https://azure.microsoft.com/en-us/develop/iot/)
+* [Hands on Labs](https://github.com/Azure-Samples/azureiotlabs)
+* [Certified IoT Devices](https://catalog.azureiotsuite.com/)
+* [edX MOOC: Developing IoT Solutions with Azure IoT](https://www.edx.org/course/developing-iot-solutions-azure-iot-microsoft-dev225x-0)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=iot&lang-en=true)
+
+### Azure Redis Cache
+*A secure, managed, dedicated Redis cache*
+
+* [Overview](https://azure.microsoft.com/en-us/services/cache/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/redis-cache/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/redis-cache/cache-faq)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=redis%20cache)
+
+### Azure SQL Database
+*A managed cloud database for app developers*
+
+* [Overview](https://azure.microsoft.com/en-us/services/sql-database/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/sql-database/)
+* [Elastic DB Features](https://azure.microsoft.com/en-us/documentation/learning-paths/sql-database-elastic-scale/)
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20sql%20database)
+
+### Azure SQL Data Warehouse
+*An elastic data warehouse as a service with enterprise-class features*
+
+* [Overview](https://azure.microsoft.com/en-us/services/sql-data-warehouse/)
+* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-sql-data-warehouse/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/sql-data-warehouse/)
+* [PolyBase Guide](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-load-polybase-guide/)
+* [sqlcmd Utility](https://msdn.microsoft.com/library/ms162773.aspx)
+* [Automatic Scaling Template](https://github.com/Microsoft/sql-data-warehouse-samples/tree/master/arm-templates/sqlDwAutoScaler)
+* [PowerShell Commandlets & REST APIs](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-reference-powershell-cmdlets/)
+* [DWU Calculator](http://dwucalculator.azurewebsites.net/)
+* [edX.org Course](https://www.edx.org/course/delivering-data-warehouse-cloud-microsoft-dat220x)
+* [Query from Visual Studio](https://azure.microsoft.com/en-us/documentation/articles/sql-data-warehouse-query-visual-studio/)
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=sql%20data%20warehouse)
+
+### Azure Stream Analytics
+*A fully managed, SQL-based, real-time event processing engine*
+
+* [Overview](https://azure.microsoft.com/en-us/services/stream-analytics/)
+* [Blog](https://blogs.msdn.microsoft.com/streamanalytics/)
+* [Documentation](https://azure.microsoft.com/en-us/documentation/services/stream-analytics/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=stream%20analytics)
+
+### Azure Time Series Insights
+*A fully managed analytics, storage, and visualization service to explore and analyze IoT events*
+
+* [Overview](https://azure.microsoft.com/en-us/services/time-series-insights/)
+* [Documentation](https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-overview)
+* [Portal](https://insights.timeseries.azure.com/)
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=time%20series%20insights)
+
+
+
+### Microsoft Power BI
 *A suite of business analytics tools to analyze data, create visualizations and share insights*
 
 * [Overview](https://powerbi.microsoft.com/en-us/)
