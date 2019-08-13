@@ -432,6 +432,9 @@ guide and add the link you want to contribute in alphabetical order.
 * [Connector to IDEs](https://docs.databricks.com/user-guide/dev-tools/db-connect.html)
 * [Example Notebooks](https://databricks.com/resources/type/example-notebook)
 * Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
+* Learning Paths
+    * [Perform Data Engineering With ADB](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
+    * [Extract Knowledge & Insights From Your Data With ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
 * [Free eBooks](https://databricks.com/resources/type/ebooks)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
 
