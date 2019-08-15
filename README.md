@@ -423,19 +423,21 @@ guide and add the link you want to contribute in alphabetical order.
    * [Delta Lake](https://docs.azuredatabricks.net/delta/index.html)
       * [Delta Lake (delta.io)](https://delta.io/)
    * [Machine Learning](https://docs.azuredatabricks.net/spark/latest/mllib/index.html)
+      * [MLflow](https://docs.azuredatabricks.net/applications/mlflow/index.html)
    * [Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
    * [Structured Streaming](https://docs.azuredatabricks.net/spark/latest/structured-streaming/index.html)
 * Tutorials
    * [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
    * [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
    * [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
-* [Connector to IDEs](https://docs.databricks.com/user-guide/dev-tools/db-connect.html)
-* [Example Notebooks](https://databricks.com/resources/type/example-notebook)
-* Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
 * Learning Paths
     * [Perform Data Engineering With ADB](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
     * [Extract Knowledge & Insights From Your Data With ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
+* [Connector to IDEs](https://docs.azuredatabricks.net/user-guide/dev-tools/db-connect.html)
+* [Example Notebooks](https://databricks.com/resources/type/example-notebook)
+* Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
 * [Free eBooks](https://databricks.com/resources/type/ebooks)
+* [On-Demand Webinars](https://databricks.com/resources/type/webinars/)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
 
 ### Azure Data Catalog
