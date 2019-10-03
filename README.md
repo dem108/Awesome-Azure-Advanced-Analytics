@@ -415,6 +415,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
 * [Databricks Documentation](https://docs.azuredatabricks.net/)
 * [Microsoft Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/azure-databricks/frequently-asked-questions-databricks)
 * [Knowledge Base](https://kb.azuredatabricks.net/)
 * [Databricks Academy](https://academy.databricks.com/)
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
@@ -433,6 +434,7 @@ guide and add the link you want to contribute in alphabetical order.
 * Learning Paths
     * [Perform Data Engineering With ADB](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
     * [Extract Knowledge & Insights From Your Data With ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
+* [Integration with Azure ML Service](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks)
 * [Connector to IDEs](https://docs.azuredatabricks.net/user-guide/dev-tools/db-connect.html)
 * [Example Notebooks](https://databricks.com/resources/type/example-notebook)
 * Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
