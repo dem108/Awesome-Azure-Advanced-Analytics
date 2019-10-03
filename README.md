@@ -421,6 +421,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
 * [Patterns for Big Data and Data Warehouse](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
 * Guides
+   * [Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
    * [Delta Lake](https://docs.azuredatabricks.net/delta/index.html)
       * [Delta Lake (delta.io)](https://delta.io/)
    * [Machine Learning](https://docs.azuredatabricks.net/spark/latest/mllib/index.html)
