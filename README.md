@@ -203,7 +203,7 @@ guide and add the link you want to contribute in alphabetical order.
    * [Academic Reference Parsing](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-reference-parsing)
 * Bootcamps / Workshop Materials
    * [Knowledge Mining Bootcamp](https://aka.ms/kmsolutions)
-   * [Workshop](https://github.com/cynotebo/KM-Workshop) (with PowerBI integration) 
+   * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) (with PowerBI integration) 
    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining) (with sample UI template)
 * Sharepoint Connector
    * [Sharepoint Connector](https://github.com/anevjes/AzureSearch.SharePointOnline)
