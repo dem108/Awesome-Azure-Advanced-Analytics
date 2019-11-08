@@ -193,9 +193,24 @@ guide and add the link you want to contribute in alphabetical order.
 * [Documentation](https://docs.microsoft.com/en-us/azure/search/)
 * [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
 * Demos
-    * [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/)
-    * [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home)
+    * [The MET](http://art-explorer.azurewebsites.net/)
     * [JFK files](https://jfk-demo.azurewebsites.net/)
+    * [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/)
+    * [Document Search(healthcare/news/legal/HR](http://documentsearch.azurewebsites.net/)
+    * [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home)
+
+* Academic Dataset Integration
+   * [Patent Search](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-org-patents) 
+   * [Academic Reference Parsing](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-reference-parsing)
+
+* Bootcamps / Workshop Materials
+   * [Knowledge Mining Bootcamp](https://aka.ms/kmsolutions)
+   * [Workshop](https://github.com/cynotebo/KM-Workshop) (with PowerBI integration) 
+   * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining) (with sample UI template)
+
+* Sharepoint Connector
+   * [Sharepoint Connector](https://github.com/anevjes/AzureSearch.SharePointOnline)
+
 * [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true)
 
