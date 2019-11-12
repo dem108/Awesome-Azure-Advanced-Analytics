@@ -428,8 +428,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Knowledge Base](https://docs.microsoft.com/en-us/azure/databricks/kb/)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/azure-databricks/frequently-asked-questions-databricks)
 * [Databricks Academy](https://academy.databricks.com/)
-* Reference Architectures
-   * [Overview](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
+* [Reference Architectures](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
    * [Modern Data Warehouse](https://azure.microsoft.com/en-us/solutions/architecture/modern-data-warehouse/)
    * [Real-Time Analytics](https://azure.microsoft.com/en-us/solutions/architecture/real-time-analytics/)
    * [Advanced Analytics](https://azure.microsoft.com/en-us/solutions/architecture/advanced-analytics-on-big-data/)
@@ -437,8 +436,8 @@ guide and add the link you want to contribute in alphabetical order.
    * [Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
    * [Delta Lake](https://docs.microsoft.com/en-us/azure/databricks/delta/delta-intro)
    * [Machine Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/)
-      * [MLflow](https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/)
    * [Deep Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/)
+   * [MLflow](https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/)
    * [Structured Streaming](https://docs.microsoft.com/en-us/azure/databricks/spark/latest/structured-streaming/)
 * Tutorials
    * [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
