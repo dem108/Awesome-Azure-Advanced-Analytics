@@ -279,9 +279,9 @@ guide and add the link you want to contribute in alphabetical order.
       * [ONNX](https://github.com/onnx)
       * [ONNX Runtime](https://github.com/microsoft/onnxruntime)
 * Deep Learning on Azure Databricks
-    * [Overview](https://docs.azuredatabricks.net/applications/deep-learning/index.html)
-    * [Deep Learning Pipelines](https://docs.azuredatabricks.net/applications/deep-learning/deep-learning-pipelines.html)
-    * [Distributed Deep Learning](https://docs.azuredatabricks.net/applications/deep-learning/distributed-deep-learning/index.html)
+    * [Overview](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/)
+    * [Deep Learning Pipelines](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/single-node-training/deep-learning-pipelines)
+    * [Distributed Deep Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/distributed-training/horovod-runner)
 * Deep Learning on Azure HDInsight
     * [Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
     * [Using CNTK and TensorFlow](https://blogs.technet.microsoft.com/machinelearning/2017/04/12/embarrassingly-parallel-image-classification-using-cognitive-toolkit-tensorflow-on-azure-hdinsight-spark/)
