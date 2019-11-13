@@ -447,6 +447,7 @@ guide and add the link you want to contribute in alphabetical order.
     * [Perform Data Engineering With ADB](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
     * [Extract Knowledge & Insights From Your Data With ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
 * [Integration with Azure ML Service](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks)
+* [Microsoft ML for Apache Spark](http://aka.ms/spark)
 * [Connector to IDEs](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect)
 * [Example Notebooks](https://databricks.com/resources/type/example-notebook)
 * Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
