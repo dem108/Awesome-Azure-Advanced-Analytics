@@ -433,6 +433,7 @@ guide and add the link you want to contribute in alphabetical order.
    * [Real-Time Analytics](https://azure.microsoft.com/en-us/solutions/architecture/real-time-analytics/)
    * [Advanced Analytics](https://azure.microsoft.com/en-us/solutions/architecture/advanced-analytics-on-big-data/)
 * Guides
+   * [Apache Spark](https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/)
    * [Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
    * [Delta Lake](https://docs.microsoft.com/en-us/azure/databricks/delta/delta-intro)
    * [Machine Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/)
