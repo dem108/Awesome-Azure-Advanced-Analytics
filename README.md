@@ -426,6 +426,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Microsoft Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
 * [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
 * [Knowledge Base](https://docs.microsoft.com/en-us/azure/databricks/kb/)
+* [Product News](https://databricks.com/product/azure-product-news)
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/azure-databricks/frequently-asked-questions-databricks)
 * [Databricks Academy](https://academy.databricks.com/)
 * [Reference Architectures](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
