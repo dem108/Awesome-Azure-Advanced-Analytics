@@ -1,134 +1,170 @@
-# Awesome Azure - Advanced Analytics ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome Azure - Advanced Analytics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
+
+* AI and Machine Learning
+* Cloud Scale Analytics
 
 ![](img/CIS.png)
 
 ## Contributing
 
 Your contributions are welcomed! Please send a pull request to contribute. Make sure you check out the the [Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
-guide and add the link you want to contribute in alphabetical order.
+guide and add the link you want to contribute at the bottom of the appropriate category.
+
+We are in a transition to adopt the best practice from [this](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md) list guideline.
+
+As part of this efforts, your contributions are appreciated on the items with `- DESCRIPTION NEEDED.`, or the ones without the descriptions; You can verfity the link and add description. Try to avoid marketing message but use helpful/objective summary of what it is. Please end the sentence with `.`(dot).
+
+:heart: will be added to only carefully chosen items (ideally less than 2-3 per category for visibility) after review.
 
 ## Table of Contents
 
-- [Azure General](#azure-general)
-- [Training Resources](#training-resources)
-- [Technical Certifications](#technical-certifications)
-- [Microsoft AI Platform](#microsoft-ai-platform)
-   - Intelligent Apps and Agents
-      - [Azure Cognitive Services](#azure-cognitive-services)
-      - [Microsoft Bot Framework](#microsoft-bot-framework)
-   - Knowledge Mining
-      - [Azure Cognitive Search](#azure-cognitive-search)
-   - Machine Learning
-      - [Azure Data Science VMs](#azure-data-science-vms)
-      - [Azure Machine Learning](#azure-machine-learning)
-      - [Deep Learning on Azure](#deep-learning-on-azure)
-      - [Jupyter Notebooks](#jupyter-notebooks)
-      - [Microsoft Machine Learning Server](#microsoft-machine-learning-server)
-- Cloud Scale Analytics
-   - [Azure Analysis Services](#azure-analysis-services)
-   - [Azure Cosmos DB](#azure-cosmos-db)
-   - [Azure Database for MariaDB](#azure-database-for-mariadb)
-   - [Azure Database for MySQL](#azure-database-for-mysql)
-   - [Azure Database for PostgreSQL](#azure-database-for-postgresql)
-   - [Azure Databricks](#azure-databricks)
-   - [Azure Data Catalog](#azure-data-catalog)
-   - [Azure Data Explorer](#azure-data-explorer)
-   - [Azure Data Factory](#azure-data-factory)
-   - [Azure Data Lake](#azure-data-lake)
-   - [Azure Event Hubs](#azure-event-hubs)
-   - [Azure HDInsight](#azure-hdinsight)
-   - [Azure IoT](#azure-iot)
-   - [Azure Redis Cache](#azure-redis-cache)
-   - [Azure SQL Database](#azure-sql-database)
-   - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
-   - [Azure Stream Analytics](#azure-stream-analytics)
-   - [Azure Time Series Insights](#azure-time-series-insights)
-   - [Microsoft Power BI](#microsoft-power-bi)
+1. [Azure General](#azure-general)
+    - [Getting to know Azure](#getting-to-know-azure)
+    - [Training Resources](#training-resources)
+    - [Technical Certifications](#technical-certifications)
+1. [AI + Machine Learning](#microsoft-ai-platform)
+    - Intelligent Apps and Agents
+        - [Azure Cognitive Services](#azure-cognitive-services)
+        - [Microsoft Bot Framework](#microsoft-bot-framework)
+    - Knowledge Mining
+        - [Azure Cognitive Search](#azure-cognitive-search)
+    - Machine Learning
+        - [Azure Machine Learning](#azure-machine-learning)
+        - [Deep Learning on Azure](#deep-learning-on-azure)
+        - [Jupyter Notebooks](#jupyter-notebooks)
+        - [Microsoft Machine Learning Server](#microsoft-machine-learning-server)
+1. [Cloud Scale Analytics](#cloud-scale-analytics)
+    - [Azure Analysis Services](#azure-analysis-services)
+    - [Azure Cosmos DB](#azure-cosmos-db)
+    - [Azure Database for MariaDB](#azure-database-for-mariadb)
+    - [Azure Database for MySQL](#azure-database-for-mysql)
+    - [Azure Database for PostgreSQL](#azure-database-for-postgresql)
+    - [Azure Databricks](#azure-databricks)
+    - [Azure Data Catalog](#azure-data-catalog)
+    - [Azure Data Explorer](#azure-data-explorer)
+    - [Azure Data Factory](#azure-data-factory)
+    - [Azure Data Lake](#azure-data-lake)
+    - [Azure Event Hubs](#azure-event-hubs)
+    - [Azure HDInsight](#azure-hdinsight)
+    - [Azure IoT](#azure-iot)
+    - [Azure Redis Cache](#azure-redis-cache)
+    - [Azure SQL Database](#azure-sql-database)
+    - [Azure SQL Data Warehouse](#azure-sql-data-warehouse)
+    - [Azure Stream Analytics](#azure-stream-analytics)
+    - [Azure Time Series Insights](#azure-time-series-insights)
+    - [Microsoft Power BI](#microsoft-power-bi)
 
 - - -
 
+
 ## Azure General
 
-* [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
-* [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/)
-* [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
-* [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/)
-* [Azure GitHub Repos](https://github.com/Azure)
-* [Awesome Azure: Azure for Startups](https://github.com/Azure-for-Startups/Content)
-* [Awesome Azure: Tools, Guides, Tutorials](https://github.com/wangyihaier/awesome-azure)
-* [Awesome Azure: IoT](https://github.com/Azure/iot)
-* [Azure Blog](https://azure.microsoft.com/en-us/blog/)
-* [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
-* [Azure Updates](https://azure.microsoft.com/en-us/updates/)
-* [Azure Roadmap](https://azure.microsoft.com/en-us/roadmap/)
-* [Azure Weekly Newsletter](http://azureweekly.info/)
-* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-* [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)
-* [Azure Database Migration Guide](https://datamigration.microsoft.com/)
-* [Azure Example Scenarios](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/)
-* [Azure Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/)
-* [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
-* [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
-* [Blogs: Artificial Intelligence](https://azure.microsoft.com/en-us/blog/topics/artificial-intelligence/)
-* [Blogs: AzureCAT Guidance](https://blogs.msdn.microsoft.com/azurecat/)
-* [Blogs: Big Data](https://azure.microsoft.com/en-us/blog/topics/big-data/)
-* [Blogs: Database](https://azure.microsoft.com/en-us/blog/topics/database/)
-* [Blogs: Data Platform](https://blogs.msdn.microsoft.com/data-platform/)
-* [Blogs: Data Science](https://azure.microsoft.com/en-us/blog/topics/datascience/)
-* [Blogs: Data Warehouse](https://azure.microsoft.com/en-us/blog/topics/data-warehouse/)
-* [Blogs: IoT](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/)
+### Getting to know Azure
 
-## Training Resources
+* [Free Azure Subscription](https://azure.microsoft.com/en-us/free/) - Guide on creating new free Azure subscription and get started on Azure.
+* Understand Azure services
+    * :heart: [Azure Online Documentation](https://docs.microsoft.com/en-us/azure/) - Official go-to-page for most recent product documentation with quickstarts, samples, and tutorials.
+    * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table) - One-page summary of Azure services
+    * [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/) Find and deploy cloud softwares available on Azure.
+* Code, Samples, Templates
+    * [Azure GitHub Repos](https://github.com/Azure) - APIs, SDKs and open source projects from Microsoft Azure.
+    * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
+    * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/documentation/templates/)
+* Related Awesome lists
+    * [Awesome Azure: Azure for Startups](https://github.com/Azure-for-Startups/Content) - Startups key Azure resources and code sample.
+    * [Awesome Azure: Tools, Guides, Tutorials](https://github.com/wangyihaier/awesome-azure) - A curated list of awesome Microsoft Azure tools, guides, tutorials.
+    * [Awesome Azure: IoT](https://github.com/Azure/iot) - A curated list of awesome Azure Internet of Things projects and resources.
+* Blogs, Forums, Newsletters
+    * [Azure Blog](https://azure.microsoft.com/en-us/blog/) - Official blog with announcements, updates, tips and more.
+    * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/) - Ask questions, get answers and connect with Microsoft engineers and Azure community experts.
+    * [Blogs: Artificial Intelligence](https://azure.microsoft.com/en-us/blog/topics/artificial-intelligence/) - DESCRIPTION NEEDED.
+    * [Blogs: AzureCAT Guidance](https://blogs.msdn.microsoft.com/azurecat/) - DESCRIPTION NEEDED.
+    * [Blogs: Big Data](https://azure.microsoft.com/en-us/blog/topics/big-data/) - DESCRIPTION NEEDED.
+    * [Blogs: Database](https://azure.microsoft.com/en-us/blog/topics/database/) - DESCRIPTION NEEDED.
+    * [Blogs: Data Platform](https://blogs.msdn.microsoft.com/data-platform/) - DESCRIPTION NEEDED.
+    * [Blogs: Data Science](https://azure.microsoft.com/en-us/blog/topics/datascience/) - DESCRIPTION NEEDED.
+    * [Blogs: Data Warehouse](https://azure.microsoft.com/en-us/blog/topics/data-warehouse/) - DESCRIPTION NEEDED.
+    * [Blogs: IoT](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/) - DESCRIPTION NEEDED.
+    * [Azure Updates](https://azure.microsoft.com/en-us/updates/) - Learn about important Azure product updates, roadmap, and announcements. Subscribe to notifications to stay informed (RSS supported).
+    * [Azure Weekly Newsletter](http://azureweekly.info/) - Azure Weekly is a summary of the week's top news to help you build on the Microsoft Azure Platform. Powered by endjin.com.
+* :heart: [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Application Architecture Guide, Reference Architecture, Microsoft Cloud Adoption Framework for Azure.
+    * [Machine Learning at Scale](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/machine-learning-at-scale) - DESCRIPTION NEEDED.
+    * [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/) - DESCRIPTION NEEDED.
+    * [Azure IoT reference architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot/) - DESCRIPTION NEEDED.
+    * [DevOps Checklist](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops) - DESCRIPTION NEEDED.
+    * [Azure Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/) - DESCRIPTION NEEDED.
+    * [Azure Example Scenarios](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/) - DESCRIPTION NEEDED.
+* Other general Azure Guides
+    * [Azure Database Migration Guide](https://datamigration.microsoft.com/) - DESCRIPTION NEEDED.
+<!-- * (Retired) [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/) -->
 
-* [Microsoft Learn](https://docs.microsoft.com/learn)
-* [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
-* [Microsoft AI Lab](https://www.ailab.microsoft.com/)
-* [Azure Training Courses](https://azure.microsoft.com/en-us/training/)
-* [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/)
-* [Learn AI @ MS](http://learnanalytics.microsoft.com/home/index)
-* [Learn Analytics Materials](https://azure.github.io/learnAnalytics-public/)
-* [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure)
-* [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs)
-* [Microsoft Cloud Workshops](https://github.com/Microsoft/MCW)
-* [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness)
-* [Academic Resources for Computer Science](https://github.com/Microsoft/computerscience)
-* [Videos: Channel 9](https://channel9.msdn.com/)
-* [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
-## Technical Certifications
+### Training Resources
 
-* [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
-* [Microsoft Professional Program – Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-* [Microsoft Professional Program – Big Data](https://academy.microsoft.com/en-us/professional-program/big-data/)
-* [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
-* [Microsoft Professional Program – Internet of Things](https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/)
-* [Microsoft Certified Solutions Associate – BI Reporting](https://www.microsoft.com/en-us/learning/mcsa-bi-reporting.aspx)
-* [Microsoft Certified Solutions Associate – Data Engineering](https://www.microsoft.com/en-us/learning/mcsa-data-engineering-with-azure.aspx)
-* [Microsoft Certified Solutions Associate – Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
-* [70-473 Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
-* [70-475 Designing and Implementing Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
-* [70-773 Analyzing Big Data with Microsoft R](https://www.microsoft.com/en-us/learning/exam-70-773.aspx)
-* [70-774 Perform Cloud Data Science with Azure Machine Learning](https://www.microsoft.com/en-us/learning/exam-70-774.aspx)
-* [70-775 Perform Data Engineering on Microsoft Azure HDInsight](https://www.microsoft.com/en-us/learning/exam-70-775.aspx)
-* [70-776 Perform Big Data Engineering on Microsoft Cloud Services](https://www.microsoft.com/en-us/learning/exam-70-776.aspx)
-* [70-778 Analyzing and Visualizing Data with Microsoft Power BI](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)
-* AI-100
-* DP-100
-* DP-200
-* DP-201
+* :heart: [Microsoft Learn](https://docs.microsoft.com/learn) - Interactive learning experience with real environment hands-on along with step-by-step guide.
+* :heart: [Microsoft AI School](https://aischool.microsoft.com/en-us/home) - Start page for AI focused learning experiences.
+    * [AI Business School](https://aischool.microsoft.com/en-us/business/learning-paths) - Learnings of AI for Business leaders, developed with INSEAD.
+    * [Conversational AI](https://aischool.microsoft.com/en-us/conversational/learning-paths) - Curation of learning materials for Conversational AI.
+    * [AI Services](https://aischool.microsoft.com/en-us/services/learning-paths) - Curation of learning materials for AI services by Microsoft.
+    * [Machine Learning](https://aischool.microsoft.com/en-us/machine-learning/learning-paths) - Curation of learning materials for Machine Learning platform and services by Microsoft.
+    * [Autonomous Systems](https://aischool.microsoft.com/en-us/autonomous-systems/learning-paths) - Curation of learning materials on AirSim, Microsoft Autonomous Systems AI Toolchain (Machine Teaching).
+    * [Responsible AI](https://aischool.microsoft.com/en-us/responsible-ai/learning-paths) - Application of AI for social impact, design guidelines for Ethical AI, technical libraries like Homographic Encryption etc.
+* Others
+    * [Microsoft AI Lab](https://www.ailab.microsoft.com/) - DESCRIPTION NEEDED.
+    * [Azure Training Courses](https://azure.microsoft.com/en-us/training/) - DESCRIPTION NEEDED.
+    * [Azure Certification: Where to Start?](https://buildazure.com/2016/09/29/azure-certification-where-to-start-2016-edition/) - DESCRIPTION NEEDED.
+    * [Learn AI @ MS](http://learnanalytics.microsoft.com/home/index) - DESCRIPTION NEEDED.
+    * [Learn Analytics Materials](https://azure.github.io/learnAnalytics-public/) - DESCRIPTION NEEDED.
+    * [edX.org Courses on Azure](https://www.edx.org/course?search_query=azure) - DESCRIPTION NEEDED.
+    * [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs) - DESCRIPTION NEEDED.
+    * [Microsoft Cloud Workshops](https://github.com/Microsoft/MCW) - DESCRIPTION NEEDED.
+    * [Azure Readiness GitHub Repos](https://github.com/Azure-Readiness) - DESCRIPTION NEEDED.
+    * [Academic Resources for Computer Science](https://github.com/Microsoft/computerscience) - DESCRIPTION NEEDED.
+    * [Videos: Channel 9](https://channel9.msdn.com/) - DESCRIPTION NEEDED.
+    * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services) - DESCRIPTION NEEDED.
 
-## Microsoft AI Platform
+### Technical Certifications
+
+* [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/) - Role-based certifications for Developers, Administrators, Solution Architects, Data Engineers, Data Scientists, AI Engineers, DevOps Engineers, Security Engineers, and Functional Consultants.
+* Certifications (Role based)
+    * [Data Engineer](https://docs.microsoft.com/en-us/learn/certifications/roles/data-engineer) - Data Engineers design and implement the management, monitoring, security, and privacy of data using the full stack of data services.
+    * [Data Scientist](https://docs.microsoft.com/en-us/learn/certifications/roles/data-scientist) - Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems.
+    * [AI Engineer](https://docs.microsoft.com/en-us/learn/certifications/roles/ai-engineer) - AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions.
+    * [DevOps Engineer](https://docs.microsoft.com/en-us/learn/certifications/roles/devops-engineer) - DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+* Exams
+    * Active
+        * [AI-100](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100) - Designing and Implementing an Azure AI Solution.
+        * [DP-100](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100) - Designing and Implementing a Data Science Solution on Azure.
+        * [DP-200](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200) - Implementing an Azure Data Solution.
+        * [DP-201](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201) - Designing an Azure Data Solution.
+    * Old
+        * [70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx) - Designing and Implementing Cloud Data Platform Solutions.
+        * [70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx) - Designing and Implementing Big Data Analytics Solutions.
+        * [70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx) - Analyzing Big Data with Microsoft R.
+        * [70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx) - Perform Cloud Data Science with Azure Machine Learning.
+        * [70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx) - Perform Data Engineering on Microsoft Azure HDInsight.
+        * [70-776](https://www.microsoft.com/en-us/learning/exam-70-776.aspx) - Perform Big Data Engineering on Microsoft Cloud Services.
+        * [70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI.
+* MPPs now retired
+    * [Microsoft Professional Program – Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+    * [Microsoft Professional Program – Big Data](https://academy.microsoft.com/en-us/professional-program/big-data/)
+    * [Microsoft Professional Program – Data Science](https://academy.microsoft.com/en-us/professional-program/data-science/)
+    * [Microsoft Professional Program – Internet of Things](https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/)
+
+---
+
+## AI + Machine Learning
 *Artificial intelligence productivity for every developer and every scenario*
 
-* [Overview](https://azure.microsoft.com/en-us/overview/ai-platform/)
-* [Blog](https://blogs.technet.microsoft.com/machinelearning/)
-* [AI News](https://news.microsoft.com/ai/)
-* [AI Gallery](https://gallery.azure.ai/)
-* [Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/)
-* [Solution Templates](https://gallery.azure.ai/solutions)
-* [Application Gallery](https://appsource.microsoft.com/en-us/marketplace/apps?category=artifical-intelligence)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=cortana%20intelligence)
+* [Overview](https://azure.microsoft.com/en-us/overview/ai-platform/) - DESCRIPTION NEEDED.
+* [Blog](https://blogs.technet.microsoft.com/machinelearning/) - DESCRIPTION NEEDED.
+* [AI News](https://news.microsoft.com/ai/) - DESCRIPTION NEEDED.
+* [AI Gallery](https://gallery.azure.ai/) - DESCRIPTION NEEDED.
+* [Solution Architectures](https://azure.microsoft.com/en-us/solutions/architecture/) - DESCRIPTION NEEDED.
+* [Solution Templates](https://gallery.azure.ai/solutions) - DESCRIPTION NEEDED.
+* [Application Gallery](https://appsource.microsoft.com/en-us/marketplace/apps?category=artifical-intelligence) - DESCRIPTION NEEDED.
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=cortana%20intelligence) - DESCRIPTION NEEDED.
 
 ### AI Apps and Agents
 *Deliver breakthrough experiences in your apps*
@@ -136,51 +172,59 @@ guide and add the link you want to contribute in alphabetical order.
 #### Azure Cognitive Services
 *A collection of APIs to tap into vision, speech, language, knowledge, and search technologies*
 
-* [Overview (List of APIs)](https://azure.microsoft.com/en-us/services/cognitive-services/)
-* [Blog](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
-* [Cognitive Services Labs](https://labs.cognitive.microsoft.com/)
-* [Custom Decision Service Portal](https://ds.microsoft.com/)
-* [Custom Speech Service Portal](https://www.cris.ai/)
-* [Custom Translator Portal](https://portal.customtranslator.azure.ai/)
-* [Custom Vision Service Portal](https://www.customvision.ai/)
-* [Video Indexer Portal](https://vi.microsoft.com/en-us/)
-* [Recommendation Engine Template](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution)
-* [Microsoft Translator](https://translator.microsoft.com/)
-* [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator)
-* Intelligent Kiosk - [GitHub](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk), [MS Store](https://www.microsoft.com/en-sg/store/p/intelligent-kiosk/9nblggh5qd84)
-* [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat)
-* [Learning Paths: AI Developer on Azure](https://www.pluralsight.com/courses/microsoft-azure-developer-creating-integrating-ai-azure-services)
-* [Python SDK Samples](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
-* [C# SDK Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services)
+* [Overview (List of APIs)](https://azure.microsoft.com/en-us/services/cognitive-services/) - DESCRIPTION NEEDED.
+* [Blog](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/) - DESCRIPTION NEEDED.
+* [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/) - DESCRIPTION NEEDED.
+* [Cognitive Services Labs](https://labs.cognitive.microsoft.com/) - DESCRIPTION NEEDED.
+* [Custom Decision Service Portal](https://ds.microsoft.com/) - DESCRIPTION NEEDED.
+* [Custom Speech Service Portal](https://www.cris.ai/) - DESCRIPTION NEEDED.
+* [Custom Translator Portal](https://portal.customtranslator.azure.ai/) - DESCRIPTION NEEDED.
+* [Custom Vision Service Portal](https://www.customvision.ai/) - DESCRIPTION NEEDED.
+* [Video Indexer Portal](https://vi.microsoft.com/en-us/) - DESCRIPTION NEEDED.
+* [Recommendation Engine Template](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution) - DESCRIPTION NEEDED.
+* [Microsoft Translator](https://translator.microsoft.com/) - DESCRIPTION NEEDED.
+* [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator) - DESCRIPTION NEEDED.
+* Intelligent Kiosk
+    * [GitHub](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk) - DESCRIPTION NEEDED.
+    * [MS Store](https://www.microsoft.com/en-sg/store/p/intelligent-kiosk/9nblggh5qd84) - DESCRIPTION NEEDED.
+* [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat) - DESCRIPTION NEEDED.
+* [Learning Paths: AI Developer on Azure](https://www.pluralsight.com/courses/microsoft-azure-developer-creating-integrating-ai-azure-services) - DESCRIPTION NEEDED.
+* [Python SDK Samples](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples) - DESCRIPTION NEEDED.
+* [C# SDK Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples) - DESCRIPTION NEEDED.
+* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services) - DESCRIPTION NEEDED.
 
 
 #### Microsoft Bot Framework
 *A framework to build and deploy high-quality bots for conversation experiences*
 
-* [Blog](https://blog.botframework.com/)
-* [Bot Framework Overview](https://dev.botframework.com/)
-* [Bot Framework Documentation](https://docs.microsoft.com/en-us/bot-framework/)
-* [Azure Bot Service Overview](https://azure.microsoft.com/en-us/services/bot-service/)
-* [Azure Bot Service Documentation](https://docs.microsoft.com/en-us/bot-framework/azure/azure-bot-service-overview)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/bot-framework/resources-bot-framework-faq)
-* [Add Intelligence with Cognitive Services](https://docs.microsoft.com/en-us/bot-framework/cognitive-services-bot-intelligence-overview)
-* [Language Understanding Intelligent Service](https://www.luis.ai/)
-* [Bot Framework Emulator](https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator)
-* [Bot Framework WebChat](https://github.com/microsoft/botframework-webchat)
-* [Bot Builder SDK](https://github.com/Microsoft/BotBuilder)
-* [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
-* [Bot Analytics](https://docs.microsoft.com/en-us/bot-framework/portal-analytics-overview)
-* [Channel Inspector](https://docs.botframework.com/en-us/channel-inspector/channels/Skype/)
-* [QnA Maker](https://qnamaker.ai/)
-* [Principles of Bot Design](https://docs.microsoft.com/en-us/bot-framework/bot-design-principles)
-* [Templates in the Azure Bot Service](https://docs.microsoft.com/en-us/bot-framework/azure-bot-service-templates)
-* [Great List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/)
-* [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework)
+* Get Started online documentations
+    * [Azure Bot Service Overview](https://azure.microsoft.com/en-us/services/bot-service/) - DESCRIPTION NEEDED.
+    * [Bot Framework Documentation](https://docs.microsoft.com/en-us/bot-framework/) - DESCRIPTION NEEDED.
+    * [Azure Bot Service Documentation](https://docs.microsoft.com/en-us/bot-framework/azure/azure-bot-service-overview) - DESCRIPTION NEEDED.
+* Highlights from official online documentations
+    * [Bot Framework Overview](https://dev.botframework.com/) - DESCRIPTION NEEDED.
+    * [Frequently Asked Questions](https://docs.microsoft.com/en-us/bot-framework/resources-bot-framework-faq) - DESCRIPTION NEEDED.
+    * [Add Intelligence with Cognitive Services](https://docs.microsoft.com/en-us/bot-framework/cognitive-services-bot-intelligence-overview) - DESCRIPTION NEEDED.
+    * [Bot Framework Emulator](https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator) - DESCRIPTION NEEDED.
+    * [Bot Analytics](https://docs.microsoft.com/en-us/bot-framework/portal-analytics-overview) - DESCRIPTION NEEDED.
+    * [Channel Inspector](https://docs.botframework.com/en-us/channel-inspector/channels/Skype/) - DESCRIPTION NEEDED.
+    * [Principles of Bot Design](https://docs.microsoft.com/en-us/bot-framework/bot-design-principles) - DESCRIPTION NEEDED.
+    * [Templates in the Azure Bot Service](https://docs.microsoft.com/en-us/bot-framework/azure-bot-service-templates) - DESCRIPTION NEEDED.
+* Blogs
+    * [Blog](https://blog.botframework.com/) - DESCRIPTION NEEDED.
+    * [Great List of Resources](https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/) - DESCRIPTION NEEDED.
+* Related GitHub repos
+    * [Bot Framework WebChat](https://github.com/microsoft/botframework-webchat) - DESCRIPTION NEEDED.
+    * [Bot Builder SDK](https://github.com/Microsoft/BotBuilder) - DESCRIPTION NEEDED.
+    * [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples) - DESCRIPTION NEEDED.
+* Relevant services
+    * [Language Understanding Intelligent Service](https://www.luis.ai/) - DESCRIPTION NEEDED.
+    * [QnA Maker](https://qnamaker.ai/) - DESCRIPTION NEEDED.
+* Training materials
+    * [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937) - DESCRIPTION NEEDED.
+    * [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework) - DESCRIPTION NEEDED.
 * Free e-books
-   * [Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services](https://b-ok.cc/book/3420307/f69c04)
+   * [Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services](https://b-ok.cc/book/3420307/f69c04) - DESCRIPTION NEEDED.
 
 ### Knowledge Mining
 *Uncover latent insights from all your content*
@@ -188,64 +232,72 @@ guide and add the link you want to contribute in alphabetical order.
 #### Azure Cognitive Search
 *AI-powered cloud search service for web and mobile app development*
 
-* [Overview](https://azure.microsoft.com/en-us/services/search/)
-* [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-search/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/search/)
-* [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
-* Demos
-    * [The MET](http://art-explorer.azurewebsites.net/)
-    * [JFK files](https://jfk-demo.azurewebsites.net/)
-    * [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/)
-    * [Document Search (healthcare/news/legal/HR)](http://documentsearch.azurewebsites.net/)
-    * [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home)
-* Academic Dataset Integration
-   * [Patent Search](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-org-patents) 
-   * [Academic Reference Parsing](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-reference-parsing)
+* Official Getting Started documentations
+    * [Overview](https://azure.microsoft.com/en-us/services/search/) - DESCRIPTION NEEDED.
+    * [Blog](https://azure.microsoft.com/en-us/blog/tag/azure-search/) - DESCRIPTION NEEDED.
+    * [Documentation](https://docs.microsoft.com/en-us/azure/search/) - DESCRIPTION NEEDED.
+    * [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro)
+* Demos - DESCRIPTION NEEDED.
+    * [The MET](http://art-explorer.azurewebsites.net/) - DESCRIPTION NEEDED.
+    * [JFK files](https://jfk-demo.azurewebsites.net/) - DESCRIPTION NEEDED.
+    * [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/) - DESCRIPTION NEEDED.
+    * [Document Search (healthcare/news/legal/HR)](http://documentsearch.azurewebsites.net/) - DESCRIPTION NEEDED.
+    * [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home) - DESCRIPTION NEEDED.
+* Further industrial applications
+    * Academic Dataset Integration
+        * [Patent Search](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-org-patents)  - DESCRIPTION NEEDED.
+        * [Academic Reference Parsing](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-reference-parsing) - DESCRIPTION NEEDED.
 * Bootcamps / Workshop Materials
-   * [Knowledge Mining Bootcamp](https://aka.ms/kmsolutions)
-   * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) (with PowerBI integration) 
-   * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining) (with sample UI template)
-* [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions)
-* [Sharepoint Connector](https://github.com/anevjes/AzureSearch.SharePointOnline)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true)
+    * [Knowledge Mining Bootcamp](https://aka.ms/kmsolutions)
+    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) - Hands-on workshop guides with PowerBI integration. 
+    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining) - Hands-on workshop guides with sample UI template.
+* KM Solutions
+    * [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions) - DESCRIPTION NEEDED.
+    * [Sharepoint Connector](https://github.com/anevjes/AzureSearch.SharePointOnline) - DESCRIPTION NEEDED.
+* Training materials
+    * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true) - DESCRIPTION NEEDED.
 
 ### Machine Learning
 *Quickly and easily build, train, deploy and manage your models*
 
-#### Azure Data Science VMs
-*Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
-
-* [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/)
-* [What's included in the Data Science VM?](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview#whats-included-in-the-data-science-vm)
-* [Tools, Platforms, Utilities, and Samples](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tools-overview)
-* [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
-* [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
-* [Provision the Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-deep-learning-dsvm)
-* [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
-* [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
-* [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
-* [AZKT: Azure Distributed Data Engineering Toolkit](https://github.com/Azure/aztk)
-
 #### Azure Machine Learning
-*An environment to build, test, and deploy predictive analytics models*
+*Cloud-based environment you can use to train, deploy, automate, manage, and track ML models.*
 
-* [Overview](https://azure.microsoft.com/en-us/overview/machine-learning/)
-* [Blog](https://blogs.technet.microsoft.com/machinelearning/)
-* [Comparison of ML Products](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-more-machine-learning)
-* Azure ML Service
-    * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-services/)
-    * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/)
-    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml)
-    * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture)
-    * [Model Management](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
-      * Free e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://b-ok.cc/book/4990281/6b375d)
-    * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml)
-    * [Azure ML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks)
+* Official Getting Started
+    * [Overview](https://azure.microsoft.com/en-us/services/machine-learning/) - Overview of Azure ML.
+    * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/) - Go-to-page for the most recent documentation.
+    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml) - Key concepts of Azure ML.
+    * [Comparison of Microsoft ML Products](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning) - Inclusive of Cloud and On-premises solutions.
+* Highlights from online documentations
+    * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture) - Workflow, Tools, Glossary.
+    * :heart: [MLOps](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment) - MLOps: Model management, deployment and monitoring with Azure Machine Learning.
+      * Free e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://b-ok.cc/book/4990281/6b375d) - by Joachim Rossberg.
+    * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml) - Covers when to use it, how it works, pre-processing, how to avoid overfitting, ensemble models, imbalanced data etc.
+    * [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
+    * [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) - No-code ML experience that spans data preparation, model training, and deployment.
+    * [Enterprise Security](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-enterprise-security) - Authentication, authorization, network security, data encryption, monitoring, data flow diagrams with Azure ML.
+* Samples, Tutorials, and Reference Architectures
+    * :heart: [Azure ML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks) - The most recent code samples and tutorials of Azure ML.
+    * [Azure Architecture Center-AI and ML](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/machine-learning-at-scale) - ML at Scale Reference Architectures
+        * [Training Python models](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-python-models)
+        * [Distributed training of deep learning models on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-deep-learning)
+        * [Batch scoring of Python machine learning models on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/batch-scoring-python)
+        * [Batch scoring of deep learning models on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/batch-scoring-deep-learning)
+        * [Real-time scoring of Python scikit-learn and deep learning models on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/realtime-scoring-python)
+        * [Machine learning operationalization (MLOps) for Python models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/mlops-python)
+* SDK/CLI References
     * [Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro)
-    * [Azure ML Data Prep SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/dataprep/intro?view=azure-dataprep-py)
+    * [Azure ML R SDK](https://azure.github.io/azureml-sdk-for-r/reference/index.html)
     * [Azure ML CLI](https://docs.microsoft.com/en-us/azure/machine-learning/service/reference-azure-machine-learning-cli)
-* Azure ML Studio
+    * [Azure ML REST API](https://docs.microsoft.com/en-us/rest/api/azureml/)
+* Blogs
+    * [The AI Blog](https://blogs.microsoft.com/ai/) - From The Official Microsoft Blog.
+* Learning materials
+    * [Free eBook: Packt: Principles of Data Science, 5/10/2019](https://azure.microsoft.com/en-us/resources/principles-of-data-science/) - A beginner's guide to statistical techniques and theory.
+    * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
+    * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
+* Azure ML Studio (classic)
+  > Note: Check out the [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) which is an evolution of Azure ML Studio (classic) and is now integrated with Azure Machine Learning.
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
     * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/)
     * [How to Choose Algorithms for AzureML Studio](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/)
@@ -258,14 +310,25 @@ guide and add the link you want to contribute in alphabetical order.
     * [Operationalizing ML Models](https://docs.microsoft.com/en-us/azure/machine-learning/studio/publish-a-machine-learning-web-service)
     * [Hands-On Lab](https://github.com/Azure-Readiness/hol-azure-machine-learning)
     * [Free eBook](https://blogs.msdn.microsoft.com/microsoft_press/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning/)
-* [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
 
 #### Deep Learning on Azure
-> This section is planned to be reorganized (product-related, tools, DL frameworks, MLOps/DevOps)
+> This whole section is planned to be reorganized (product-related, tools, DL frameworks, MLOps/DevOps)
 
+* Azure Data Science VMs
+    > Azure VM images pre-installed and configured with popular tools for analytics and machine learning*
+    * [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
+    * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/)
+    * [What's included in the Data Science VM?](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview#whats-included-in-the-data-science-vm)
+    * [Tools, Platforms, Utilities, and Samples](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tools-overview)
+    * [Provision the Windows Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-provision-vm/)
+    * [Provision the Linux Data Science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/)
+    * [Provision the Deep Learning Virtual Machine](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-deep-learning-dsvm)
+    * [Ten things you can do on the Data science Virtual Machine](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-vm-do-ten-things/)
+    * [AzureSMR R Package: Manage and Interact with Azure Resources](https://github.com/Microsoft/AzureSMR)
+    * [AzureDSVM R Package: Manage and Interact with DSVMs on Azure](https://github.com/Azure/AzureDSVM)
+    * [AZKT: Azure Distributed Data Engineering Toolkit](https://github.com/Azure/aztk)
 * Azure Batch AI
-   > (TBU) Batch AI is now Azure ML Compute.
+    > (TBU) Batch AI is now Azure ML Compute.
     * [Overview](https://azure.microsoft.com/en-us/services/batch-ai/)
     * [Documentation](https://docs.microsoft.com/en-us/azure/batch-ai/)
     * [Distributed Training Using Horovod](https://docs.microsoft.com/en-us/azure/batch-ai/tutorial-horovod-tensorflow)
@@ -276,8 +339,8 @@ guide and add the link you want to contribute in alphabetical order.
     * [Train TensorFlow models](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-tensorflow)
     * [Tune Hyperparameters](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-tune-hyperparameters)
     * [Open Neural Network Exchange (ONNX)](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-build-deploy-onnx)
-      * [ONNX](https://github.com/onnx)
-      * [ONNX Runtime](https://github.com/microsoft/onnxruntime)
+        * [ONNX](https://github.com/onnx)
+        * [ONNX Runtime](https://github.com/microsoft/onnxruntime)
 * Deep Learning on Azure Databricks
     * [Overview](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/)
     * [Deep Learning Pipelines](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/single-node-training/deep-learning-pipelines)
@@ -359,6 +422,9 @@ guide and add the link you want to contribute in alphabetical order.
 * [Video Series: Introduction to Microsoft R](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Microsoft%20R%20Server)
  
+
+---
+
 ## Cloud Scale Analytics
 
 ### Azure Analysis Services
