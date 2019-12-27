@@ -1,8 +1,9 @@
 # Awesome Azure - Advanced Analytics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
-* AI and Machine Learning
-* Cloud Scale Analytics
+1. Azure General
+1. AI and Machine Learning
+1. Cloud Scale Analytics
 
 ![](img/CIS.png)
 
@@ -23,7 +24,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
     - [Getting to know Azure](#getting-to-know-azure)
     - [Training Resources](#training-resources)
     - [Technical Certifications](#technical-certifications)
-1. [AI + Machine Learning](#microsoft-ai-platform)
+1. [AI and Machine Learning](#microsoft-ai-platform)
     - Intelligent Apps and Agents
         - [Azure Cognitive Services](#azure-cognitive-services)
         - [Microsoft Bot Framework](#microsoft-bot-framework)
