@@ -497,9 +497,9 @@ As part of this efforts, your contributions are appreciated on the items with `-
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/azure-databricks/frequently-asked-questions-databricks)
 * [Databricks Academy](https://academy.databricks.com/)
 * [Reference Architectures](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
-   * [Modern Data Warehouse](https://azure.microsoft.com/en-us/solutions/architecture/modern-data-warehouse/)
-   * [Real-Time Analytics](https://azure.microsoft.com/en-us/solutions/architecture/real-time-analytics/)
-   * [Advanced Analytics](https://azure.microsoft.com/en-us/solutions/architecture/advanced-analytics-on-big-data/)
+   * [Modern Data Warehouse](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/modern-data-warehouse)
+   * [Real-Time Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
+   * [Advanced Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/advanced-analytics-on-big-data)
 * Guides
    * [Apache Spark](https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/)
    * [Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
