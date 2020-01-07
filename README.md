@@ -273,7 +273,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
     * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture) - Workflow, Tools, Glossary.
     * :heart: [MLOps Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment) - MLOps: Model management, deployment and monitoring with Azure Machine Learning.
       * Free e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://b-ok.cc/book/4990281/6b375d) - by Joachim Rossberg.
-      * TwiML Podcast: [TwiML-Enterprise Readiness with MLOps and Lifecyle Management](https://twimlai.com/twiml-talk-321-enterprise-readiness-mlops-and-lifecycle-management-with-jordan-edwards/) - TwiML Podcast with Jordan Edwards.
+      * TwiML Podcast: [TwiML-Enterprise Readiness, MLOps and Lifecyle Management](https://twimlai.com/twiml-talk-321-enterprise-readiness-mlops-and-lifecycle-management-with-jordan-edwards/) - TwiML Podcast with Jordan Edwards.
     * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml) - Covers when to use it, how it works, pre-processing, how to avoid overfitting, ensemble models, imbalanced data etc.
     * [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
     * [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) - No-code ML experience that spans data preparation, model training, and deployment.
