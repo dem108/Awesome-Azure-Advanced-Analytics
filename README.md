@@ -98,6 +98,8 @@ As part of this efforts, your contributions are appreciated on the items with `-
     * [Azure Example Scenarios](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/) - DESCRIPTION NEEDED.
 * Other general Azure Guides
     * [Azure Database Migration Guide](https://datamigration.microsoft.com/) - DESCRIPTION NEEDED.
+* (Not just Azure) [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/blog/category/podcast/) - Microsoft Research ongoing Podcast series, touching variety topics on Machine Learning / Machine Teaching, autonomous systems, Quantom Computing, and much more.
+
 <!-- * (Retired) [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/) -->
 
 
