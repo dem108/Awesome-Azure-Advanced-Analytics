@@ -301,6 +301,11 @@ As part of this efforts, your contributions are appreciated on the items with `-
     * [Free eBook: Packt: Principles of Data Science, 5/10/2019](https://azure.microsoft.com/en-us/resources/principles-of-data-science/) - A beginner's guide to statistical techniques and theory.
     * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
     * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
+* AI at Edge
+    * [Vision AI DevKit docs](https://azure.github.io/Vision-AI-DevKit-Pages/docs/Get_Started/) - Get Started resources for VAIDK.
+    * [Vision AI DevKit GitHub](https://github.com/Microsoft/vision-ai-developer-kit) - Vision AI Developer Kit Camera SDK, Machine Learning Notebooks, REST API PostMan collection, and other samples. 
+    * [AI Video Intelligence Solution Accelerator](https://github.com/Azure-Samples/AI-Video-Intelligence-Solution-Accelerator) - How to deploy an end-to-end IoT Edge, including Azure Data Box Edge, based solution that processes camera feeds using CPU, GPU, and FPGA Azure Machine Learning accelerated models.
+    * [NVIDIA Deepstream + Azure IoT Edge on a NVIDIA Jetson Nano](https://github.com/Azure-Samples/NVIDIA-Deepstream-Azure-IoT-Edge-on-a-NVIDIA-Jetson-Nano) - How to do real-time video analytics with NVIDIA DeepStream connected to Azure via Azure IoT Edge. It uses a NVIDIA Jetson Nano device that can process up to 8 real-time video streams concurrently.
 * Azure ML Studio (classic)
   > Note: Check out the [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) which is an evolution of Azure ML Studio (classic) and is now integrated with Azure Machine Learning.
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
