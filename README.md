@@ -179,12 +179,14 @@ As part of this efforts, your contributions are appreciated on the items with `-
 * [Blog](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/) - DESCRIPTION NEEDED.
 * [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/) - DESCRIPTION NEEDED.
 * [Cognitive Services Labs](https://labs.cognitive.microsoft.com/) - DESCRIPTION NEEDED.
-* [Custom Decision Service Portal](https://ds.microsoft.com/) - DESCRIPTION NEEDED.
 * [Custom Speech Service Portal](https://www.cris.ai/) - DESCRIPTION NEEDED.
 * [Custom Translator Portal](https://portal.customtranslator.azure.ai/) - DESCRIPTION NEEDED.
 * [Custom Vision Service Portal](https://www.customvision.ai/) - DESCRIPTION NEEDED.
+* From Ignite
+    * :heart: [AIML20: Using Pre-Built AI to Solve Business Challenges](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml20) - Computer Vision, Custom Vision, ONNX, and Personalizer.
 * [Video Indexer Portal](https://vi.microsoft.com/en-us/) - DESCRIPTION NEEDED.
-* [Recommendation Engine Template](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution) - DESCRIPTION NEEDED.
+* [Vowpal Wabbit](https://vowpalwabbit.org/) - Vowpal Wabbit for reinforcement learning (contextual bandit, learning to search), supervised learning (active learning, extreme classification), interactive learning (online machine learning), efficient learning, versatile learning. 
+* [Recommendation Engine Template](https://gallery.azure.ai/Tutorial/Recommendations-Solution) - DESCRIPTION NEEDED.
 * [Microsoft Translator](https://translator.microsoft.com/) - DESCRIPTION NEEDED.
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator) - DESCRIPTION NEEDED.
 * Intelligent Kiosk
@@ -251,11 +253,13 @@ As part of this efforts, your contributions are appreciated on the items with `-
         * [Patent Search](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-org-patents)  - DESCRIPTION NEEDED.
         * [Academic Reference Parsing](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-reference-parsing) - DESCRIPTION NEEDED.
 * Bootcamps / Workshop Materials
-    * [Knowledge Mining Bootcamp](https://aka.ms/kmsolutions)
-    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) - Hands-on workshop guides with PowerBI integration. 
-    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining) - Hands-on workshop guides with sample UI template.
+    * [Knowledge Mining Bootcamp](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) - Training material from Azure AI Customer Engineering (ACE) team.
+    * [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining) - Working sample with customizable UI template, custom skills, Power BI integration.
+    * [Knowledge Mining Solution Accelerator (workshop)](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) - Step-by-step hands-on workshop guides from KM Solution Accelerator. 
+    * :heart: [Mark Heffner's KM Workshop](https://github.com/MarkHeff/KM-Workshop-1) - In-depth workshop content including Knowledge Store, using web frontend, custom skills and Functions, Object Model, Analyzer and Scoring Profiles, Power BI etc.
+    * From Ignite
+        * :heart: [AIML10: Making Sense of your Unstructured Data with AI](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml10) - Cover ingest-enrich-explore pattern, skillsets, cognitive skills, natural language processing, computer vision, and beyond.
 * KM Solutions
-    * [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions) - DESCRIPTION NEEDED.
     * [Sharepoint Connector](https://github.com/anevjes/AzureSearch.SharePointOnline) - DESCRIPTION NEEDED.
 * Training materials
     * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true) - DESCRIPTION NEEDED.
