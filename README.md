@@ -273,17 +273,17 @@ As part of this efforts, your contributions are appreciated on the items with `-
 * Official Getting Started
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning/) - Overview of Azure ML.
     * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/) - Go-to-page for the most recent documentation.
-    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml) - Key concepts of Azure ML.
+    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml) - Key concepts of Azure ML.
     * [Comparison of Microsoft ML Products](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning) - Inclusive of Cloud and On-premises solutions.
 * Highlights from online documentations
-    * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture) - Workflow, Tools, Glossary.
-    * :heart: [MLOps Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment) - MLOps: Model management, deployment and monitoring with Azure Machine Learning.
+    * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/concept-azure-machine-learning-architecture) - Workflow, Tools, Glossary.
+    * :heart: [MLOps Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) - MLOps: Model management, deployment and monitoring with Azure Machine Learning.
       * Free e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://b-ok.cc/book/4990281/6b375d) - by Joachim Rossberg.
       * TwiML Podcast: [TwiML-Enterprise Readiness, MLOps and Lifecyle Management](https://twimlai.com/twiml-talk-321-enterprise-readiness-mlops-and-lifecycle-management-with-jordan-edwards/) - TwiML Podcast with Jordan Edwards.
-    * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml) - Covers when to use it, how it works, pre-processing, how to avoid overfitting, ensemble models, imbalanced data etc.
-    * [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
-    * [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) - No-code ML experience that spans data preparation, model training, and deployment.
-    * [Enterprise Security](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-enterprise-security) - Authentication, authorization, network security, data encryption, monitoring, data flow diagrams with Azure ML.
+    * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml) - Covers when to use it, how it works, pre-processing, how to avoid overfitting, ensemble models, imbalanced data etc.
+    * [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
+    * [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) - No-code ML experience that spans data preparation, model training, and deployment.
+    * [Enterprise Security](https://docs.microsoft.com/en-us/azure/machine-learning/concept-enterprise-security) - Authentication, authorization, network security, data encryption, monitoring, data flow diagrams with Azure ML.
 * Samples, Tutorials, and Reference Architectures
     * :heart: [Azure ML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks) - The most recent code samples and tutorials of Azure ML.
     * :heart: [Examples: MLOps with Azure ML](https://github.com/microsoft/MLOps) - MLOps best practices and samples.
