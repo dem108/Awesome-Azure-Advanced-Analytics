@@ -188,24 +188,66 @@ As part of this efforts, your contributions are appreciated on the items with `-
 - [Overview (List of APIs)](https://azure.microsoft.com/en-us/services/cognitive-services/) - A comprehensive family of AI services and cognitive APIs to help you build intelligent apps.
 - [Blog](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/) - Azure Cognitive Services Blog.
 - [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/) - Learn how to build intelligent and supported algorithms into apps, websites, and bots to see, hear, speak, understand, and interpret your user needs.
+- Decison
+  - Anomaly Detector
+  - Content Moderator
+  - [Personalizer](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/how-personalizer-works) - The Personalizer resource, your learning loop, uses machine learning to build the model that predicts the top action for your content.
+    - [Samples](https://github.com/Azure-Samples/cognitive-services-personalizer-samples)
+    - [Demo1](https://personalizationdemo.azurewebsites.net/)
+    - [Demo2](https://personalizercontentdemo.azurewebsites.net/)
+    - [Microsoft Recommender Git repo](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems.
+- Language
+  - Immersive Reader
+  - Language Understanding
+  - QnA Maker
+  - Text Analytics
+  - Translator Text
+    - [Custom Translator Portal](https://portal.customtranslator.azure.ai/) - Learn how to customize Microsoft Translator's neural text and speech translation systems using your own training data to fit your style and terminology.
+    - [Microsoft Translator](https://translator.microsoft.com/) - Translated conversations across devices, for one-on-one chats and for larger group interactions.
+    - [Microsoft Translator Git Repo](https://github.com/MicrosoftTranslator) - Samples and utilities for Microsoft Translator.
+- Speech
+  - Speech to Text
+  - Text to Speech
+  - Speech Translation
+  - Speaker Recognition
+  - [Speech Studio](https://speech.microsoft.com/portal/)
+    - [Custom Speech](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-custom-speech) - A set of online tools that allow you to evaluate and improve Microsoft's speech-to-text accuracy for your applications, tools, and products.
+    - [Custom Keyword](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-devices-sdk-create-kws) - Customizing your keyword is an effective way to differentiate your device and strengthen your branding.
+    - Custom Voice - Record and upload training data to create a one-of-a-kind voice for your applications.
+    - [Audio Content Creation](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-audio-content-creation) - Manage SSML files.
+    - Custom Commands - Easily configure commands, so that users can complete tasks using their voice.
+- Vision
+  - Computer Vision
+  - Custom Vision
+    - [Custom Vision Service Portal](https://www.customvision.ai/) - Customize your own state-of-the-art computer vision models that fit with your unique use case by just bringing a few examples of labeled images.
+  - Face
+  - Form Recognizer
+  - Ink Recognizer
+  - Video Indexer
+    - [Video Indexer Portal](https://vi.microsoft.com/en-us/) - Easily extract insights from your videos and quickly enrich your applications to enhance discovery and engagement.
+- Web search
+  - Bing Autosuggest
+  - Bing Custom Search
+  - Bing Entity Search
+  - Bing Image Search
+  - Bing News Search
+  - Bing Spell Check
+  - Bing Video Search
+  - Bing Visual Search
+  - Bing Web Search
 - [Cognitive Research Technologies](https://www.microsoft.com/en-us/research/group/cognitive-research/) - This set of innovative APIs and SDKs provides researchers and developers with an early look at emerging cognitive capabilities.
-- [Custom Translator Portal](https://portal.customtranslator.azure.ai/) - Learn how to customize Microsoft Translator's neural text and speech translation systems using your own training data to fit your style and terminology.
-- [Custom Vision Service Portal](https://www.customvision.ai/) - Customize your own state-of-the-art computer vision models that fit with your unique use case by just bringing a few examples of labeled images.
 - From Ignite
   - :heart: [AIML20: Using Pre-Built AI to Solve Business Challenges](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml20) - Computer Vision, Custom Vision, ONNX, and Personalizer.
-- [Video Indexer Portal](https://vi.microsoft.com/en-us/) - Easily extract insights from your videos and quickly enrich your applications to enhance discovery and engagement.
 - [Vowpal Wabbit](https://vowpalwabbit.org/) - Vowpal Wabbit for reinforcement learning (contextual bandit, learning to search), supervised learning (active learning, extreme
 - [Recommendations Solution](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution) - (Old) Azure AI Gallery template for Recommendations Solution.
-- [Microsoft Translator](https://translator.microsoft.com/) - Translated conversations across devices, for one-on-one chats and for larger group interactions.
-- [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator) - DESCRIPTION NEEDED.
 - Intelligent Kiosk
-  - [GitHub](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk) - DESCRIPTION NEEDED.
-  - [MS Store](https://www.microsoft.com/en-sg/store/p/intelligent-kiosk/9nblggh5qd84) - DESCRIPTION NEEDED.
-- [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat) - DESCRIPTION NEEDED.
-- [Learning Paths: AI Developer on Azure](https://www.pluralsight.com/courses/microsoft-azure-developer-creating-integrating-ai-azure-services) - DESCRIPTION NEEDED.
-- [Python SDK Samples](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples) - DESCRIPTION NEEDED.
-- [C# SDK Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples) - DESCRIPTION NEEDED.
-- [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services) - DESCRIPTION NEEDED.
+  - [GitHub](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk) - Find several demos showcasing workflows and experiences built on top of the Microsoft Cognitive Services.
+  - [MS Store](https://www.microsoft.com/en-sg/store/p/intelligent-kiosk/9nblggh5qd84) - On Microsoft Store: From face identification, emotion understanding and computer vision, to bots, text analytics and Bing services, the kiosk is your toolbox of AI demos, ready whenever you need an intuitive and engaging way of showing off Microsoft AI.
+- [Tutorial: Build Mobile App with Chat](https://github.com/Microsoft/Build-Mobile-App-with-Chat) - The tutorial uses several Azure services to power a real-time chat infrastructure that is readymade for analytics.
+- [Microsoft Azure Developer: Creating and Integrating AI with Azure Services](https://www.pluralsight.com/courses/microsoft-azure-developer-creating-integrating-ai-azure-services) - Explore the landscape of AI in the Microsoft space, and examine some practical examples to get you started.
+- [Python SDK Samples](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples) - Learn how to use the Cognitive Services Python SDK with these samples.
+- [C# SDK Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples) - Learn how to use the Cognitive Services C# SDK with these samples.
+- [Channel 9 Videos](https://channel9.msdn.com/Search?term=Cognitive%20Services) - Channel 9: Cognitive Services.
 
 #### Microsoft Bot Framework
 *A framework to build and deploy high-quality bots for conversation experiences*
