@@ -173,17 +173,15 @@ As part of this efforts, your contributions are appreciated on the items with `-
 #### Azure Cognitive Services
 *A collection of APIs to tap into vision, speech, language, knowledge, and search technologies*
 
-* [Overview (List of APIs)](https://azure.microsoft.com/en-us/services/cognitive-services/) - DESCRIPTION NEEDED.
-* [Blog](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/) - DESCRIPTION NEEDED.
-* [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/) - DESCRIPTION NEEDED.
-* [Cognitive Services Labs](https://labs.cognitive.microsoft.com/) - DESCRIPTION NEEDED.
-* [Custom Decision Service Portal](https://ds.microsoft.com/) - DESCRIPTION NEEDED.
-* [Custom Speech Service Portal](https://www.cris.ai/) - DESCRIPTION NEEDED.
-* [Custom Translator Portal](https://portal.customtranslator.azure.ai/) - DESCRIPTION NEEDED.
-* [Custom Vision Service Portal](https://www.customvision.ai/) - DESCRIPTION NEEDED.
-* [Video Indexer Portal](https://vi.microsoft.com/en-us/) - DESCRIPTION NEEDED.
-* [Recommendation Engine Template](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution) - DESCRIPTION NEEDED.
-* [Microsoft Translator](https://translator.microsoft.com/) - DESCRIPTION NEEDED.
+* [Overview (List of APIs)](https://azure.microsoft.com/en-us/services/cognitive-services/) - A comprehensive family of AI services and cognitive APIs to help you build intelligent apps.
+* [Blog](https://azure.microsoft.com/en-us/blog/topics/cognitive-services/) - Azure Cognitive Services Blog.
+* [Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/) - Learn how to build intelligent and supported algorithms into apps, websites, and bots to see, hear, speak, understand, and interpret your user needs.
+* [Cognitive Research Technologies](https://www.microsoft.com/en-us/research/group/cognitive-research/) - This set of innovative APIs and SDKs provides researchers and developers with an early look at emerging cognitive capabilities.
+* [Custom Translator Portal](https://portal.customtranslator.azure.ai/) - Learn how to customize Microsoft Translator's neural text and speech translation systems using your own training data to fit your style and terminology.
+* [Custom Vision Service Portal](https://www.customvision.ai/) - Customize your own state-of-the-art computer vision models that fit with your unique use case by just bringing a few examples of labeled images.
+* [Video Indexer Portal](https://vi.microsoft.com/en-us/) - Easily extract insights from your videos and quickly enrich your applications to enhance discovery and engagement.
+* [Recommendations Solution](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution) - (Old) Azure AI Gallery template for Recommendations Solution.
+* [Microsoft Translator](https://translator.microsoft.com/) - Translated conversations across devices, for one-on-one chats and for larger group interactions.
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator) - DESCRIPTION NEEDED.
 * Intelligent Kiosk
     * [GitHub](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk) - DESCRIPTION NEEDED.
