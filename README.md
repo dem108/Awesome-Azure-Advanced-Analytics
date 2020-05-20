@@ -98,6 +98,8 @@ As part of this efforts, your contributions are appreciated on the items with `-
     * [Azure Example Scenarios](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/) - DESCRIPTION NEEDED.
 * Other general Azure Guides
     * [Azure Database Migration Guide](https://datamigration.microsoft.com/) - DESCRIPTION NEEDED.
+* (Not just Azure) [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/blog/category/podcast/) - Microsoft Research ongoing Podcast series, touching variety topics on Machine Learning / Machine Teaching, autonomous systems, Quantom Computing, and much more.
+
 <!-- * (Retired) [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/) -->
 
 
@@ -179,7 +181,10 @@ As part of this efforts, your contributions are appreciated on the items with `-
 * [Cognitive Research Technologies](https://www.microsoft.com/en-us/research/group/cognitive-research/) - This set of innovative APIs and SDKs provides researchers and developers with an early look at emerging cognitive capabilities.
 * [Custom Translator Portal](https://portal.customtranslator.azure.ai/) - Learn how to customize Microsoft Translator's neural text and speech translation systems using your own training data to fit your style and terminology.
 * [Custom Vision Service Portal](https://www.customvision.ai/) - Customize your own state-of-the-art computer vision models that fit with your unique use case by just bringing a few examples of labeled images.
+* From Ignite
+    * :heart: [AIML20: Using Pre-Built AI to Solve Business Challenges](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml20) - Computer Vision, Custom Vision, ONNX, and Personalizer.
 * [Video Indexer Portal](https://vi.microsoft.com/en-us/) - Easily extract insights from your videos and quickly enrich your applications to enhance discovery and engagement.
+* [Vowpal Wabbit](https://vowpalwabbit.org/) - Vowpal Wabbit for reinforcement learning (contextual bandit, learning to search), supervised learning (active learning, extreme
 * [Recommendations Solution](https://gallery.cortanaintelligence.com/Tutorial/Recommendations-Solution) - (Old) Azure AI Gallery template for Recommendations Solution.
 * [Microsoft Translator](https://translator.microsoft.com/) - Translated conversations across devices, for one-on-one chats and for larger group interactions.
 * [Utilities for Microsoft Translator](https://github.com/MicrosoftTranslator) - DESCRIPTION NEEDED.
@@ -247,11 +252,13 @@ As part of this efforts, your contributions are appreciated on the items with `-
         * [Patent Search](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-org-patents)  - DESCRIPTION NEEDED.
         * [Academic Reference Parsing](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-reference-parsing) - DESCRIPTION NEEDED.
 * Bootcamps / Workshop Materials
-    * [Knowledge Mining Bootcamp](https://aka.ms/kmsolutions)
-    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) - Hands-on workshop guides with PowerBI integration. 
-    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining) - Hands-on workshop guides with sample UI template.
+    * [Knowledge Mining Bootcamp](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) - Training material from Azure AI Customer Engineering (ACE) team.
+    * [Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining) - Working sample with customizable UI template, custom skills, Power BI integration.
+    * [Knowledge Mining Solution Accelerator (workshop)](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) - Step-by-step hands-on workshop guides from KM Solution Accelerator. 
+    * :heart: [Mark Heffner's KM Workshop](https://github.com/MarkHeff/KM-Workshop-1) - In-depth workshop content including Knowledge Store, using web frontend, custom skills and Functions, Object Model, Analyzer and Scoring Profiles, Power BI etc.
+    * From Ignite
+        * :heart: [AIML10: Making Sense of your Unstructured Data with AI](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml10) - Cover ingest-enrich-explore pattern, skillsets, cognitive skills, natural language processing, computer vision, and beyond.
 * KM Solutions
-    * [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions) - DESCRIPTION NEEDED.
     * [Sharepoint Connector](https://github.com/anevjes/AzureSearch.SharePointOnline) - DESCRIPTION NEEDED.
 * Training materials
     * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true) - DESCRIPTION NEEDED.
@@ -265,18 +272,20 @@ As part of this efforts, your contributions are appreciated on the items with `-
 * Official Getting Started
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning/) - Overview of Azure ML.
     * [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service/) - Go-to-page for the most recent documentation.
-    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml) - Key concepts of Azure ML.
+    * [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml) - Key concepts of Azure ML.
     * [Comparison of Microsoft ML Products](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning) - Inclusive of Cloud and On-premises solutions.
 * Highlights from online documentations
-    * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture) - Workflow, Tools, Glossary.
-    * :heart: [MLOps](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment) - MLOps: Model management, deployment and monitoring with Azure Machine Learning.
+    * [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/concept-azure-machine-learning-architecture) - Workflow, Tools, Glossary.
+    * :heart: [MLOps Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) - MLOps: Model management, deployment and monitoring with Azure Machine Learning.
       * Free e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://b-ok.cc/book/4990281/6b375d) - by Joachim Rossberg.
-    * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-automated-ml) - Covers when to use it, how it works, pre-processing, how to avoid overfitting, ensemble models, imbalanced data etc.
-    * [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
-    * [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) - No-code ML experience that spans data preparation, model training, and deployment.
-    * [Enterprise Security](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-enterprise-security) - Authentication, authorization, network security, data encryption, monitoring, data flow diagrams with Azure ML.
+      * TwiML Podcast: [TwiML-Enterprise Readiness, MLOps and Lifecyle Management](https://twimlai.com/twiml-talk-321-enterprise-readiness-mlops-and-lifecycle-management-with-jordan-edwards/) - TwiML Podcast with Jordan Edwards.
+    * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml) - Covers when to use it, how it works, pre-processing, how to avoid overfitting, ensemble models, imbalanced data etc.
+    * [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
+    * [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) - No-code ML experience that spans data preparation, model training, and deployment.
+    * [Enterprise Security](https://docs.microsoft.com/en-us/azure/machine-learning/concept-enterprise-security) - Authentication, authorization, network security, data encryption, monitoring, data flow diagrams with Azure ML.
 * Samples, Tutorials, and Reference Architectures
     * :heart: [Azure ML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks) - The most recent code samples and tutorials of Azure ML.
+    * :heart: [Examples: MLOps with Azure ML](https://github.com/microsoft/MLOps) - MLOps best practices and samples.
     * [Azure Architecture Center-AI and ML](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/machine-learning-at-scale) - ML at Scale Reference Architectures
         * [Training Python models](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-python-models)
         * [Distributed training of deep learning models on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-deep-learning)
@@ -295,6 +304,11 @@ As part of this efforts, your contributions are appreciated on the items with `-
     * [Free eBook: Packt: Principles of Data Science, 5/10/2019](https://azure.microsoft.com/en-us/resources/principles-of-data-science/) - A beginner's guide to statistical techniques and theory.
     * [Video Series: Data Science for Beginners](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-for-beginners-the-5-questions-data-science-answers/)
     * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Azure%20Machine%20Learning)
+* AI at Edge
+    * [Vision AI DevKit docs](https://azure.github.io/Vision-AI-DevKit-Pages/docs/Get_Started/) - Get Started resources for VAIDK.
+    * [Vision AI DevKit GitHub](https://github.com/Microsoft/vision-ai-developer-kit) - Vision AI Developer Kit Camera SDK, Machine Learning Notebooks, REST API PostMan collection, and other samples. 
+    * [AI Video Intelligence Solution Accelerator](https://github.com/Azure-Samples/AI-Video-Intelligence-Solution-Accelerator) - How to deploy an end-to-end IoT Edge, including Azure Data Box Edge, based solution that processes camera feeds using CPU, GPU, and FPGA Azure Machine Learning accelerated models.
+    * [NVIDIA Deepstream + Azure IoT Edge on a NVIDIA Jetson Nano](https://github.com/Azure-Samples/NVIDIA-Deepstream-Azure-IoT-Edge-on-a-NVIDIA-Jetson-Nano) - How to do real-time video analytics with NVIDIA DeepStream connected to Azure via Azure IoT Edge. It uses a NVIDIA Jetson Nano device that can process up to 8 real-time video streams concurrently.
 * Azure ML Studio (classic)
   > Note: Check out the [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) which is an evolution of Azure ML Studio (classic) and is now integrated with Azure Machine Learning.
     * [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
@@ -495,9 +509,9 @@ As part of this efforts, your contributions are appreciated on the items with `-
 * [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/azure-databricks/frequently-asked-questions-databricks)
 * [Databricks Academy](https://academy.databricks.com/)
 * [Reference Architectures](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
-   * [Modern Data Warehouse](https://azure.microsoft.com/en-us/solutions/architecture/modern-data-warehouse/)
-   * [Real-Time Analytics](https://azure.microsoft.com/en-us/solutions/architecture/real-time-analytics/)
-   * [Advanced Analytics](https://azure.microsoft.com/en-us/solutions/architecture/advanced-analytics-on-big-data/)
+   * [Modern Data Warehouse](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/modern-data-warehouse)
+   * [Real-Time Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
+   * [Advanced Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/advanced-analytics-on-big-data)
 * Guides
    * [Apache Spark](https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/)
    * [Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
