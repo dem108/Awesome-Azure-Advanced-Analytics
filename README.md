@@ -549,44 +549,6 @@ As part of this efforts, your contributions are appreciated on the items with `-
 ### Azure Databricks
 *A fast, easy, and collaborative Apache Spark-based analytics platform*
 
-<<<<<<< HEAD
-* [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
-* [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
-* [Databricks Blog](https://databricks.com/blog/)
-* [Microsoft Blog](https://azure.microsoft.com/en-us/blog/tag/azure-databricks/)
-* [Documentation](https://docs.microsoft.com/en-us/azure/azure-databricks/)
-* [Knowledge Base](https://docs.microsoft.com/en-us/azure/databricks/kb/)
-* [Product News](https://databricks.com/product/azure-product-news)
-* [Frequently Asked Questions](https://docs.microsoft.com/en-us/azure/azure-databricks/frequently-asked-questions-databricks)
-* [Databricks Academy](https://academy.databricks.com/)
-* [Reference Architectures](https://azure.microsoft.com/en-us/blog/implementation-patterns-for-big-data-and-data-warehouse-on-azure/)
-   * [Modern Data Warehouse](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/modern-data-warehouse)
-   * [Real-Time Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
-   * [Advanced Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/advanced-analytics-on-big-data)
-* Guides
-   * [Apache Spark](https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/)
-   * [Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
-   * [Delta Lake](https://docs.microsoft.com/en-us/azure/databricks/delta/delta-intro)
-   * [Machine Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/)
-   * [Deep Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/)
-   * [MLflow](https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/)
-   * [Structured Streaming](https://docs.microsoft.com/en-us/azure/databricks/spark/latest/structured-streaming/)
-* Tutorials
-   * [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
-   * [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
-   * [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
-* Learning Paths
-    * [Perform Data Engineering With ADB](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
-    * [Extract Knowledge & Insights From Your Data With ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
-* [Integration with Azure ML Service](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks)
-* [Microsoft ML for Apache Spark](http://aka.ms/spark)
-* [Connector to IDEs](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect)
-* [Example Notebooks](https://databricks.com/resources/type/example-notebook)
-* Example Pipelines - [Anomaly Detection](https://github.com/devlace/azure-databricks-anomaly), [Recommendation System](https://github.com/devlace/azure-databricks-recommendation)
-* [Free eBooks](https://databricks.com/resources/type/ebooks)
-* [On-Demand Webinars](https://databricks.com/resources/type/webinars/)
-* [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
-=======
 - [Overview](https://azure.microsoft.com/en-us/campaigns/databricks/)
 - [Technical Overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-databricks/)
 - [Databricks Blog](https://databricks.com/blog/)
@@ -623,7 +585,6 @@ As part of this efforts, your contributions are appreciated on the items with `-
 - [Free eBooks](https://databricks.com/resources/type/ebooks)
 - [On-Demand Webinars](https://databricks.com/resources/type/webinars/)
 - [Channel 9 Videos](https://channel9.msdn.com/Search?term=databricks&lang-en=true)
->>>>>>> upstream/master
 
 ### Azure Data Catalog
 *A tool to register, enrich, discover, understand, and consume data sources*
