@@ -575,8 +575,10 @@ As part of this efforts, your contributions are appreciated on the items with `-
   - [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
   - [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
 - Learning Paths
-  - [Perform Data Engineering With ADB](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
-  - [Extract Knowledge & Insights From Your Data With ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
+  - [Data Engineering with Azure Databricks (new)](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
+  - [Perform Data Engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
+  - [Perform Data Science with Azure Databricks (new)](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/)
+  - [Extract Knowledge & Insights from Your Data with ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
 - [Integration with Azure ML Service](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks)
 - [Microsoft ML for Apache Spark](http://aka.ms/spark)
 - [Connector to IDEs](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect)
