@@ -216,6 +216,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
     - Custom Voice - Record and upload training data to create a one-of-a-kind voice for your applications.
     - [Audio Content Creation](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-audio-content-creation) - Manage SSML files.
     - Custom Commands - Easily configure commands, so that users can complete tasks using their voice.
+    - [Speech CLI](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/spx-basics?tabs=windowsinstall) - Command line tool for using the Speech service without writing any code, it is production-ready and can be scaled up to run larger processes using automated .bat or shell scripts.
 - Vision
   - Computer Vision
   - Custom Vision
