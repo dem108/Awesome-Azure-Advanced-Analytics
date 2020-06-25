@@ -335,7 +335,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
   - [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
   - [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) - No-code ML experience that spans data preparation, model training, and deployment.
   - [Enterprise Security](https://docs.microsoft.com/en-us/azure/machine-learning/concept-enterprise-security) - Authentication, authorization, network security, data encryption, monitoring, data flow diagrams with Azure ML.
-- Samples, Tutorials, and Reference Architectures
+- Samples, Tutorials, Reference Architectures, Templates, Solution Accelerators
   - :heart: [Azure ML Sample Notebooks](https://github.com/Azure/MachineLearningNotebooks) - The most recent code samples and tutorials of Azure ML.
   - :heart: [Examples: MLOps with Azure ML](https://github.com/microsoft/MLOps) - MLOps best practices and samples.
   - [Azure Architecture Center-AI and ML](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/machine-learning-at-scale) - ML at Scale Reference Architectures
@@ -345,6 +345,8 @@ As part of this efforts, your contributions are appreciated on the items with `-
       - [Batch scoring of deep learning models on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/batch-scoring-deep-learning)
       - [Real-time scoring of Python scikit-learn and deep learning models on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/realtime-scoring-python)
       - [Machine learning operationalization (MLOps) for Python models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/mlops-python)
+  - [Azure ML Workspace creation template (ARM)](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-advanced) - Advanced Azure Machine Learning workspace creation templates supporting approval(auto/manual) private endpoint, customer managed key, link to Azure Databricks workspace, virtual network.
+  - [Solution Accelerator for Many Models](https://github.com/microsoft/solution-accelerator-many-models/) - Quick starter for Many Models with Azure ML using ParallelRunStep, Pipeline, Automated ML.
 - SDK/CLI References
   - [Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro)
   - [Azure ML R SDK](https://azure.github.io/azureml-sdk-for-r/reference/index.html)
