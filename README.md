@@ -279,8 +279,8 @@ As part of this efforts, your contributions are appreciated on the items with `-
 - Training materials
   - [Video: Getting Started with Bots](https://mva.microsoft.com/en-us/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937) - DESCRIPTION NEEDED.
   - [Channel 9 Videos](https://channel9.msdn.com/Search?term=bot%20framework) - DESCRIPTION NEEDED.
-- Free e-books
-  - [Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services](https://b-ok.cc/book/3420307/f69c04) - DESCRIPTION NEEDED.
+- e-books
+  - [Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services](https://read.amazon.com/kp/embed?asin=B077Z79PW2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_-rYfFbJ39A62W) - by Srikanth Machiraju, Ritesh Modi
 
 ### Knowledge Mining
 *Uncover latent insights from all your content*
@@ -329,7 +329,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
 - Highlights from online documentations
   - [Architecture and Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/concept-azure-machine-learning-architecture) - Workflow, Tools, Glossary.
   - :heart: [MLOps Concepts](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) - MLOps: Model management, deployment and monitoring with Azure Machine Learning.
-  - Free e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://b-ok.cc/book/4990281/6b375d) - by Joachim Rossberg.
+  - e-book: [Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics](https://read.amazon.com/kp/embed?asin=B07R6GJM2W&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_noYfFb42VBG7Y) - by Joachim Rossberg.
   - TwiML Podcast: [TwiML-Enterprise Readiness, MLOps and Lifecyle Management](https://twimlai.com/twiml-talk-321-enterprise-readiness-mlops-and-lifecycle-management-with-jordan-edwards/) - TwiML Podcast with Jordan Edwards.
   - [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml) - Covers when to use it, how it works, pre-processing, how to avoid overfitting, ensemble models, imbalanced data etc.
   - [Interpretability](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability) - Why it matters, how it is implemented in Azure ML (SHAP, Mimic, Permutation Feature Importance, LIME, HAN, Tabular).
@@ -435,8 +435,8 @@ As part of this efforts, your contributions are appreciated on the items with `-
   - [Learning Plan - AI Applications](https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications)
   - [Train & Serve Models with Kubernetes](https://blogs.technet.microsoft.com/machinelearning/2017/09/06/how-to-use-cognitive-toolkit-cntk-with-kubernetes-on-azure/)
   - [edX Course: Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0)
-- Free e-books:
-  - [Deep Learning with Azure: Building and Deploying Artificial Intelligence Solutions on the Microsoft AI Platform](https://b-ok.cc/book/3659752/980130)
+- e-books:
+  - [Deep Learning with Azure: Building and Deploying Artificial Intelligence Solutions on the Microsoft AI Platform](https://read.amazon.com/kp/embed?asin=B07FP8P5R8&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DpYfFbZ97Q8ZD) - by Mathew Salvaris, Danielle Dean, Wee Hyong Tok
 - [Recommenders](https://github.com/microsoft/recommenders)
 
 #### Jupyter Notebooks
@@ -526,9 +526,9 @@ As part of this efforts, your contributions are appreciated on the items with `-
 - [DocumentDB Query Playground](https://www.documentdb.com/sql/demo)
 - [DocumentDB 10 GitHub Samples](https://azure.microsoft.com/en-us/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
 - [Free Course on edX](https://www.edx.org/course/developing-planet-scale-applications-microsoft-dat237x)
-- Free e-books:
+- e-books:
    - [Guide to NoSQL with Azure Cosmos DB](https://azure.microsoft.com/en-us/resources/guide-to-nosql-with-azure-cosmos-db/en-us/)
-   - [Microsoft Azure Cosmos DB Revealed: A Multi-Modal Database Designed for the Cloud](https://b-ok.cc/book/3420319/29aa40)
+   - [Microsoft Azure Cosmos DB Revealed: A Multi-Modal Database Designed for the Cloud](https://read.amazon.com/kp/embed?asin=B077G9STX2&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_lrYfFb9ERFY55) - by José Rolando Guay Paz
 - [Channel 9 Videos](https://channel9.msdn.com/Search?term=cosmos%20DB)
 
 ### Azure Database for MariaDB
