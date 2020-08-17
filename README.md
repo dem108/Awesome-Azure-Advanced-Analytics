@@ -299,6 +299,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
   - [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/) - DESCRIPTION NEEDED.
   - [Document Search (healthcare/news/legal/HR)](http://documentsearch.azurewebsites.net/) - DESCRIPTION NEEDED.
   - [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home) - DESCRIPTION NEEDED.
+  - [COVID19 Search](https://github.com/liamca/covid19search) - Demo and setup instructions for your own Cognitive Search based Covid-19 Search App.
 - Further industrial applications
   - Academic Dataset Integration
     - [Patent Search](https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-search-org-patents)  - DESCRIPTION NEEDED.
