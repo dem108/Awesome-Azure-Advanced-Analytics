@@ -363,6 +363,8 @@ As part of this efforts, your contributions are appreciated on the items with `-
   - [Vision AI DevKit GitHub](https://github.com/Microsoft/vision-ai-developer-kit) - Vision AI Developer Kit Camera SDK, Machine Learning Notebooks, REST API PostMan collection, and other samples. 
   - [AI Video Intelligence Solution Accelerator](https://github.com/Azure-Samples/AI-Video-Intelligence-Solution-Accelerator) - How to deploy an end-to-end IoT Edge, including Azure Data Box Edge, based solution that processes camera feeds using CPU, GPU, and FPGA Azure Machine Learning accelerated models.
   - [NVIDIA Deepstream + Azure IoT Edge on a NVIDIA Jetson Nano](https://github.com/Azure-Samples/NVIDIA-Deepstream-Azure-IoT-Edge-on-a-NVIDIA-Jetson-Nano) - How to do real-time video analytics with NVIDIA DeepStream connected to Azure via Azure IoT Edge. It uses a NVIDIA Jetson Nano device that can process up to 8 real-time video streams concurrently.
+- Non-Azure general and useful resources
+  - [Data Science Lifecycle Process](https://github.com/dslp/dslp) - Best practices for data science teams, including issue templates, branching strategy, workflows, labels, standard repo structure.
 - Azure ML Studio (classic)
   > Note: Check out the [Designer](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-designer) which is an evolution of Azure ML Studio (classic) and is now integrated with Azure Machine Learning.
   - [Overview](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
