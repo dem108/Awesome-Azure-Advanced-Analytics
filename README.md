@@ -348,6 +348,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
       - [Machine learning operationalization (MLOps) for Python models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/mlops-python)
   - [Azure ML Workspace creation template (ARM)](https://github.com/Azure/azure-quickstart-templates/tree/master/201-machine-learning-advanced) - Advanced Azure Machine Learning workspace creation templates supporting approval(auto/manual) private endpoint, customer managed key, link to Azure Databricks workspace, virtual network.
   - [Solution Accelerator for Many Models](https://github.com/microsoft/solution-accelerator-many-models/) - Quick starter for Many Models with Azure ML using ParallelRunStep, Pipeline, Automated ML.
+  - [Step-by-step guide to provision secure ML workspace](https://github.com/jhirono/amlsecurity) - Securing Azure ML Workspace using Private Link and VNET
 - SDK/CLI References
   - [Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro)
   - [Azure ML R SDK](https://azure.github.io/azureml-sdk-for-r/reference/index.html)
