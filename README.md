@@ -570,15 +570,18 @@ As part of this efforts, your contributions are appreciated on the items with `-
   - [Real-Time Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
   - [Advanced Analytics](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/advanced-analytics-on-big-data)
 - Guides
+  - [Administration](https://docs.microsoft.com/en-us/azure/databricks/administration-guide/)
   - [Apache Spark](https://docs.microsoft.com/en-us/azure/databricks/getting-started/spark/)
   - [Best Practices](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md)
-  - [Delta Lake](https://docs.microsoft.com/en-us/azure/databricks/delta/delta-intro)
+  - [Data Sources](https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/)
+  - [Delta Lake](https://docs.microsoft.com/en-us/azure/databricks/delta/)
   - [Machine Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/)
   - [Deep Learning](https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/)
   - [MLflow](https://docs.microsoft.com/en-us/azure/databricks/applications/mlflow/)
+  - [Security & Privacy](https://docs.microsoft.com/en-us/azure/databricks/security/)
   - [Structured Streaming](https://docs.microsoft.com/en-us/azure/databricks/spark/latest/structured-streaming/)
 - Tutorials
-  - [Perform ETL Operations, Load Into SQL-DW](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
+  - [Perform ETL Operations, Load Into Synapse (SQL-DW)](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
   - [Use Cosmos DB Service Endpoint](https://docs.microsoft.com/en-us/azure/azure-databricks/service-endpoint-cosmosdb)
   - [Stream Data Using Event Hubs](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)  
 - Learning Paths
@@ -586,6 +589,7 @@ As part of this efforts, your contributions are appreciated on the items with `-
   - [Perform Data Engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/)
   - [Perform Data Science with Azure Databricks (new)](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/)
   - [Extract Knowledge & Insights from Your Data with ADB](https://docs.microsoft.com/en-us/learn/paths/data-science/)
+- [Koalas - Pandas API on Spark](https://github.com/databricks/koalas)
 - [Integration with Azure ML Service](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks)
 - [Microsoft ML for Apache Spark](http://aka.ms/spark)
 - [Connector to IDEs](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect)
