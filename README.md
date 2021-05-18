@@ -17,7 +17,9 @@ We are in a transition to adopt the best practice from [this](https://github.com
 
 As part of this efforts, your contributions are appreciated on the items with `- DESCRIPTION NEEDED.`, or the ones without the descriptions; You can verfity the link and add description. Try to avoid marketing message but use helpful/objective summary of what it is. Please end the sentence with `.`(dot).
 
-:heart: will be added to only carefully chosen items (ideally less than 2-3 per category for visibility) after review.
+:heart: are added to only hand-picked items (ideally less than 2-3 per category for visibility) for now. We welcome ideas to automate this process.
+
+Check out the Issues section to share your ideas to improve this repo.
 
 ## Table of Contents
 
